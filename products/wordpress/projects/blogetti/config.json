@@ -1,0 +1,51 @@
+{
+    "textLogo": "",
+    "title": "Blogetti",
+    "titleCaption": "Slow-Cooker Alabamian",
+    "author": "",
+    "sections": {
+        "introduction": [],
+        "template-installation":[
+            "engine-installation",
+            "manual-install-blog-theme"
+        ],
+        "posts-categories": [
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "pages":[
+            "page-settings-blogetti"
+        ],
+        "widgets":[
+            "widgets-installation",
+            "about-author-widget",
+            "categories-tiles-widget",
+            "carousel-slider-widget-blogetti",
+            "instagram-widget-blogetti",
+            "slider-widget-blogetti",
+            "subscribe-and-social-widget",
+            "custom-post-widget",
+            "facebook-page-widget-blogetti",
+            "twitter-widget",
+            "youtube-subscribe-widget-blogetti"
+        ],
+        "basic-configuration":[
+            "menu-and-navigation",
+            "customizer"
+        ],
+        "customizer-settings":[
+            "general-site-settings",
+            "color-scheme",
+            "typography-blogetti",
+            "header",
+            "menu-locations",
+            "sidebar-blogetti",
+            "footer",
+            "blog-settings",
+            "widgets-blogetti",
+            "static-front-page",
+            "misc"
+        ]
+    }
+}

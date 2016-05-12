@@ -1,0 +1,16 @@
+{
+	"id": "third-party-plugins",
+	"translations": {
+		"en": "Third Party Plugins",
+		"ru": "Сторонние плагины"
+	},
+	"articles": [
+        {
+            "id": "mailchimp-for-wordpress",
+            "translations": {
+                "en": "MailChimp for WordPress",
+                "ru": "MailChimp for WordPress"
+            }
+        }
+    ]
+}

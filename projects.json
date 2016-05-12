@@ -1,0 +1,56 @@
+{
+	"wildride": {
+		"textLogo": "",
+		"title": "Wild Ride",
+		"titleCaption": "Bicycle NXT 3000 exhibited at CES in Vegas",
+		"author": ""
+	},
+	"kingnews": {
+		"textLogo": "",
+		"title": "King news",
+		"titleCaption": "Latest news",
+		"author": ""
+	},
+	"gadnews": {
+		"textLogo": "",
+		"title": "GADNEWS",
+		"titleCaption": "News portal about Gadget & Devices",
+		"author": ""
+	},
+	"blogetti": {
+		"textLogo": "",
+		"title": "Blogetti",
+		"titleCaption": "Slow-Cooker Alabamian",
+		"author": ""
+	},
+	"fitnesys": {
+		"author": "kirk",
+		"textLogo": "",
+		"title": "Fitnesys",
+		"titleCaption": "Be Stronger, Be Fit"
+	},
+	"stylepark": {
+		"author": "",
+		"textLogo": "",
+		"title": "Stylepark",
+		"titleCaption": "The ugly, but SO practical travel beauty bag for makeup"
+	},
+	"kustrix": {
+		"author": "",
+		"textLogo": "",
+		"title": "Kustrix",
+		"titleCaption": "Lifestyle & Fashion Blog"
+	},
+	"fairystyle": {
+		"textLogo": "",
+		"title": "Retailer <span class=bold_text>Fairy</span><span class=it_text>style:</span>",
+		"titleCaption": "Brand Store.",
+		"author": ""
+	},
+	"dailysports": {
+		"textLogo": "",
+		"title": "Daily Sports",
+		"titleCaption": "The latest sports news",
+		"author": ""
+	}
+}

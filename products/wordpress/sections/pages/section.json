@@ -1,0 +1,16 @@
+{
+	"id": "pages",
+	"translations": {
+		"en": "Pages",
+		"ru": "Страницы"
+	},
+	"articles": [
+        {
+            "id": "page-settings-blog-theme",
+            "translations": {
+                "en": "Page settings",
+                "ru": "Настройки страницы"
+            }
+        }
+    ]
+}

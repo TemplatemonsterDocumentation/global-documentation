@@ -1,0 +1,23 @@
+{
+	"id": "template-installation",
+	"translations": {
+		"en": "Template Installation",
+		"ru": "Установка Шаблона"
+	},
+	"articles": [
+        {
+            "id": "engine-installation",
+            "translations": {
+                "en": "WordPress Engine Installation",
+                "ru": "Установка движка WordPress"
+            }
+        },
+        {
+            "id": "manual-install-blog-theme",
+            "translations": {
+                "en": "Theme Installation",
+                "ru": "Установка темы"
+            }
+        }
+    ]
+}

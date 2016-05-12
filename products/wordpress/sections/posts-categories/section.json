@@ -1,0 +1,30 @@
+{
+	"id": "posts-categories",
+	"translations": {
+		"en": "Posts, categories, post fromats",
+		"ru": "Посты, категории и форматы постов"
+	},
+	"articles": [
+        {
+            "id": "blog-post",
+            "translations": {
+                "en": "Adding blog post",
+                "ru": "Создание записи блога"
+            }
+        },
+        {
+            "id": "adding-category",
+            "translations": {
+                "en": "Adding a category",
+                "ru": "Добавление категории"
+            }
+        },
+        {
+            "id": "post-formats",
+            "translations": {
+                "en": "Post formats",
+                "ru": "Форматы постов"
+            }
+        }
+    ]
+}

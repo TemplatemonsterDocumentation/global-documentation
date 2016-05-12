@@ -1,0 +1,86 @@
+{
+    "id": "customizer-settings",
+    "translations": {
+        "en": "Customizer",
+        "ru": "Customizer"
+    },
+    "articles": [
+        {
+            "id": "general-site-settings",
+            "translations": {
+                "en": "General site settings",
+                "ru": "Главные настройки сайта"
+            }
+        },
+        {
+            "id": "color-scheme",
+            "translations": {
+                "en": "Color scheme",
+                "ru": "Цветовая схема"
+            }
+        },
+        {
+            "id": "typography-blogetti",
+            "translations": {
+                "en": "Typography",
+                "ru": "Типография"
+            }
+        },
+        {
+            "id": "header",
+            "translations": {
+                "en": "Header settings",
+                "ru": "Настройки хедера"
+            }
+        },
+        {
+            "id": "menu-locations",
+            "translations": {
+                "en": "Menu Locations",
+                "ru": "Хедер"
+            }
+        },
+        {
+            "id": "sidebar-blogetti",
+            "translations": {
+                "en": "Sidebar settings",
+                "ru": "Настройки Сайдбара"
+            }
+        },
+        {
+            "id": "footer",
+            "translations": {
+                "en": "Footer",
+                "ru": "Футер"
+            }
+        },
+        {
+            "id": "blog-settings",
+            "translations": {
+                "en": "Blog Settings",
+                "ru": "Настройки блога"
+            }
+        },
+        {
+            "id": "widgets-blogetti",
+            "translations": {
+                "en": "Widgets",
+                "ru": "Виджеты"
+            }
+        },
+        {
+            "id": "static-front-page",
+            "translations": {
+                "en": "Static Front Page",
+                "ru": "Главаная траница"
+            }
+        },
+        {
+            "id": "misc",
+            "translations": {
+                "en": "Miscellaneous settings",
+                "ru": "Различные настройки"
+            }
+        }
+    ]
+}

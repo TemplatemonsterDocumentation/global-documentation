@@ -1,1 +1,2 @@
-# global-documentation
+# theme-documentation
+New Theme Documentation
