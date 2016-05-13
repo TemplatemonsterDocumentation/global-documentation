@@ -1,18 +1,12 @@
 <?php
-class Model
+class Project_Model
 {
     const CONFIG_FILE       = 'config.json';
-    const PRODUCT_DIRNAME   = 'products';
-    const PROJECT_DIRNAME   = 'projects';
-
-    public $_params;
 
     public function __construct($params)
     {
         $this->_params = $params;
         $this->_config = $this->getProjectConfig();
-
-        $a  =1 ;
     }
 
     /**
@@ -44,15 +38,15 @@ class Model
     public function getProjectPath($relative = true)
     {
         if($relative){
-            $path = self::PRODUCT_DIRNAME . '/' .
+            $path = PRODUCT_DIRNAME . '/' .
                 $this->getProductName() . '/' .
-                self::PROJECT_DIRNAME . '/' .
+                PROJECT_DIRNAME . '/' .
                 $this->getProjectName();
         } else {
             $path = PATH . DS .
-                self::PRODUCT_DIRNAME . DS .
+                PRODUCT_DIRNAME . DS .
                 $this->getProductName() . DS .
-                self::PROJECT_DIRNAME . DS .
+                PROJECT_DIRNAME . DS .
                 $this->getProjectName();
         }
         return $path;
@@ -82,11 +76,11 @@ class Model
      * @return array
      * @throws Exception
      */
-    private function getSectionsConfig()
+    private function getSectionsArray()
     {
         $sections = [];
         $config = $this->getProjectConfig();
-        foreach($config->sections as $key => $value){
+        foreach($config['sections'] as $key => $value){
             $sections[$key] = $value;
         }
         return $sections;
@@ -99,7 +93,7 @@ class Model
      */
     public function getSectionsList()
     {
-        return array_keys($this->getSectionsConfig());
+        return array_keys($this->getSectionsArray());
     }
 
     /**
@@ -110,7 +104,7 @@ class Model
     public function getArticlesList()
     {
         $articles = [];
-        foreach($this->getSectionsConfig() as $section){
+        foreach($this->getSectionsArray() as $section){
             $articles[] = $section;
         }
         return $articles;

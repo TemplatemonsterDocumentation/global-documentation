@@ -1,16 +1,15 @@
 <?php
 class View
 {
-    const VIEWS_PATH = '/app/views/';
     public $_params;
     public $_model;
 
-    public function __construct($params)
+    public function __construct($params, Project_Model $model)
     {
         $this->_params = $params;
-        $this->_model = new Model($params);
+        $this->_model = $model;
+        $this->_helper = new Helper($params);
 
-        $a = 1;
         try{
             $this->loadLayout();
         } catch(Exception $e){
@@ -25,7 +24,7 @@ class View
      */
     public function loadLayout()
     {
-        $templateFile = PATH . self::VIEWS_PATH . 'template.php';
+        $templateFile =  $this->_helper->getViewsPath() . DS . 'template.php';
         if(file_exists($templateFile)){
             include ($templateFile);
         } else {
@@ -33,15 +32,19 @@ class View
         }
     }
 
-    /**
-     * Load content
-     *
-     * @param $view
-     * @param $data
-     */
-    public function loadContent($view, $data)
+
+    public function loadProject()
     {
-        include (self::VIEWS_PATH . $view);
+        $sections = $this->_model->getSectionsList();
+        $articlesArray = $this->_model->getArticlesList();
+
+        //Loop through sections
+        for($i = 0; $i < count($sections); $i++){
+            $currentSectionId = $sections[$i];
+            $articles = $articlesArray[$i];
+
+            new Section_View($currentSectionId, $articles, $this->_helper);
+        }
     }
 
     /**
@@ -51,8 +54,8 @@ class View
      */
     private function getDir()
     {
-        $pathCunks = explode('/', $_SERVER['SCRIPT_NAME']);
-        $scriptDir = $pathCunks[1];
+        $pathChunks = explode('/', $_SERVER['SCRIPT_NAME']);
+        $scriptDir = $pathChunks[1];
         $dir = '/' . $scriptDir;
         return $dir;
     }
@@ -82,6 +85,17 @@ class View
     }
 
     /**
+     * Get sections path
+     *
+     * @return string
+     */
+    public function getSectionsPath()
+    {
+        return PATH . DS . PRODUCT_DIRNAME . DS . $this->getProductName() . DS . SECTIONS_DIRNAME . DS;
+    }
+
+
+    /**
      * Get project name
      *
      * @return mixed
@@ -99,6 +113,16 @@ class View
     public function getProductName()
     {
         return $this->_model->getProductName();
+    }
+
+    /**
+     * Get language from params
+     *
+     * @return mixed
+     */
+    public function getLang()
+    {
+        return $this->_params['lang'];
     }
 
     /**
