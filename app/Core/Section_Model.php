@@ -3,8 +3,6 @@
 
 class Section_Model
 {
-    const CONFIG_FILE = 'section.json';
-
     public function __construct($id, Helper $helper)
     {
         $this->_helper = $helper;
@@ -22,20 +20,16 @@ class Section_Model
     }
 
     /**
-     * Get section config from json
+     * Get sectin translation
      *
      * @return mixed
      * @throws Exception
      */
-    public function getSectionConfig()
+    public function getLabel()
     {
-        $configJson = $this->_helper->getSectionPath() . DS . $this->getSectionId() . DS. self::CONFIG_FILE;
+        $config = $this->_helper->getSectionConfig($this->getSectionId(), 'section.json');
+        $lang = $this->_helper->getLang();
 
-        if(!file_exists($configJson)){
-            throw new Exception('Config file not found.');
-        }
-
-        $configArray = json_decode(file_get_contents($configJson), true);
-        return $configArray;
+        return $config['translations'][$lang];
     }
 }

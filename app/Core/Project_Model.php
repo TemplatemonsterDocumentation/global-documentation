@@ -79,7 +79,12 @@ class Project_Model
     private function getSectionsArray()
     {
         $sections = [];
-        $config = $this->getProjectConfig();
+        try{
+            $config = $this->getProjectConfig();
+        } catch(Exception $e){
+            echo $e;
+        }
+
         foreach($config['sections'] as $key => $value){
             $sections[$key] = $value;
         }

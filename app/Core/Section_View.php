@@ -6,7 +6,7 @@
  * Date: 5/13/2016
  * Time: 14:28 PM
  */
-class Section_View extends View
+class Section_View
 {
     public function __construct($sectionId, $articles, Helper $helper)
     {
@@ -46,7 +46,7 @@ class Section_View extends View
      */
     private function getSectionTemplate()
     {
-        return $this->_helper->getViewsPath() . DS . 'section.php';
+        return $this->_helper->getTemplatesPath() . DS . 'section.php';
     }
 
     /**

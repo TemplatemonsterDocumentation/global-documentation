@@ -21,7 +21,7 @@ class Article_View
      */
     public function getArticleTemplate()
     {
-        return $this->_helper->getViewsPath() . DS . 'article.php';
+        return $this->_helper->getTemplatesPath() . DS . 'article.php';
     }
 
     public function loadArticleTemplate()

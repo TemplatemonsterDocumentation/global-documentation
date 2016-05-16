@@ -42,9 +42,9 @@ class Helper
      *
      * @return string
      */
-    public function getViewsPath()
+    public function getTemplatesPath()
     {
-        return PATH . DS . VIEWS_DIRNAME;
+        return PATH . DS . TEMPLATES_DIRNAME;
     }
 
     /**
@@ -54,7 +54,27 @@ class Helper
      */
     public function getArticleTemplate()
     {
-        return $this->getViewsPath() . DS . 'article.php';
+        return $this->getTemplatesPath() . DS . 'article.php';
+    }
+
+    /**
+     * Get section config from json
+     *
+     * @param $sectionId
+     * @param $configFile
+     * @return mixed
+     * @throws Exception
+     */
+    public function getSectionConfig($sectionId, $configFile)
+    {
+        $configJson = $this->getSectionPath() . DS . $sectionId . DS. $configFile;
+
+        if(!file_exists($configJson)){
+            throw new Exception('Config file not found.');
+        }
+
+        $configArray = json_decode(file_get_contents($configJson), true);
+        return $configArray;
     }
 
 }

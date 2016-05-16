@@ -24,14 +24,13 @@ class View
      */
     public function loadLayout()
     {
-        $templateFile =  $this->_helper->getViewsPath() . DS . 'template.php';
+        $templateFile =  $this->_helper->getTemplatesPath() . DS . 'template.php';
         if(file_exists($templateFile)){
             include ($templateFile);
         } else {
             throw new Exception('Layout not found');
         }
     }
-
 
     public function loadProject()
     {
@@ -45,6 +44,14 @@ class View
 
             new Section_View($currentSectionId, $articles, $this->_helper);
         }
+    }
+
+    /**
+     * Get navigation object
+     */
+    public function getNavigation()
+    {
+        new Nav($this->_model->getSectionsList(), $this->_model->getArticlesList(), $this->_helper);
     }
 
     /**

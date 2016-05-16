@@ -26,11 +26,8 @@ class Route
     private function getParams()
     {
         $parsedUrl = parse_url($_SERVER['REQUEST_URI'], PHP_URL_QUERY);
-        if(!isset($parsedUrl)){
-            return $this->_defaultParams;
-        }
         parse_str($parsedUrl, $params);
 
-        return $params;
+        return array_replace($this->_defaultParams, $params);
     }
 }

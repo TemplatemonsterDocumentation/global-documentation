@@ -1,3 +1,3 @@
-<section id="<?php echo $this->getId(); ?>">
-
+<section id="<?php $this->getSectionId();  ?>" class="section">
+    <?php $this->loadArticles(); ?>
 </section>

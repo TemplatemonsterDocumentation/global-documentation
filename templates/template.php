@@ -10,9 +10,9 @@
     <link rel="stylesheet" href="<?php echo $this->getPath('css/prettify.css'); ?>">
     <link rel="stylesheet" href="<?php echo $this->getPath('css/jquery.fancybox.css'); ?>">
     <link rel="stylesheet" href="<?php echo $this->getProjectPath('css/project_styles.css'); ?>">
-<!--    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">-->
-<!--    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700' rel='stylesheet' type='text/css'>-->
-<!--    <link href='//fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>
     <script src="<?php echo $this->getPath( 'js/jquery.js' ); ?>"></script>
     <script src="<?php echo $this->getPath( 'js/jquery-migrate-1.2.1.js' ); ?>"></script>
 
@@ -60,7 +60,6 @@
                     <option data-href="#">RU</option>
                 </select>
             </div> -->
-
         </div>
         <p class="copyright">TemplateMonster ©
             <a href="http://www.templatemonster.com/privacy-policy.php">Privacy Policy</a>
@@ -83,8 +82,7 @@
             <header>
                 <nav class="nav">
                     <ul class="menu" data-type="navbar">
-
-
+                        <?php $this->getNavigation(); ?>
                     </ul>
                 </nav>
             </header>

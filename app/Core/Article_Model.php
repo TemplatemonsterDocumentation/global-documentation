@@ -48,4 +48,20 @@ class Article_Model
     }
 
 
+    public function getSectionArticles()
+    {
+        $config = $this->_helper->getSectionConfig($this->getSectionId(), 'section.json');
+
+        return $config['articles'];
+    }
+
+    public function getLabel($key)
+    {
+        $articles = $this->getSectionArticles();
+        $lang = $this->_helper->getLang();
+        $label = $articles[$key]['translations'][$lang];
+
+        return $label;
+    }
+
 }

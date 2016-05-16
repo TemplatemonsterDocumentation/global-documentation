@@ -1,0 +1,76 @@
+{
+    "textLogo": "",
+    "title": "Wild Ride",
+    "titleCaption": "Bicycle NXT 3000 exhibited at CES in Vegas",
+    "author": "",
+    "sections": {
+        "introduction": [],
+        "template-installation": [
+            "engine-installation",
+            "manual-install-blog-theme"
+        ],
+        "posts-categories": [
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "pages": [
+            "page-settings-blogetti"
+        ],
+        "basic-configuration": [
+            "menu-and-navigation",
+            "customizer"
+        ],
+        "widgets": [
+            "widgets-installation",
+            "about-author-widget",
+            "carousel-slider-widget",
+            "image-grid-widget",
+            "instagram-widget",
+            "easy-twitter-feed",
+            "facebook-page-like-widget",
+            "smart-slider-widget",
+            "subscribe-and-follow-widget",
+            "taxonomy-tiles-widget",
+            "track-kickstarter-project-widget",
+            "give-donation-form"
+        ],
+        "plugins": [
+            "cherry-sidebar-manager",
+            "contact-form-seven",
+            "easy-twitter-feed-widget",
+            "facebook-widget",
+            "give-donation-plugin",
+            "track-kickstarter-project",
+            "widget-importer-exporter",
+            "wordpress-importer"
+        ],
+        "customizer-settings": [
+            "site-identity",
+            "logo-and-favicon",
+            "breadcrumbs",
+            "color-scheme",
+            "color",
+            "typography",
+            "social-links",
+            "page-layout",
+            "header",
+            "menu-locations",
+            "sidebar",
+            "mailchimp",
+            "widgets",
+            "footer",
+            "blog-settings",
+            "static-front-page"
+        ],
+        "third-party-plugins": [
+            "mailchimp-for-wordpress"
+        ],
+        "extras": [
+            "help",
+            "cookies",
+            "documentation",
+            "google-services"
+        ]
+    }
+}

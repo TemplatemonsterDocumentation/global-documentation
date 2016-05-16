@@ -6,7 +6,7 @@ define ('PATH', $sitePath);
 define ('PRODUCT_DIRNAME', 'products');
 define ('PROJECT_DIRNAME', 'projects');
 define ('SECTIONS_DIRNAME', 'sections');
-define ('VIEWS_DIRNAME', 'app' . DS . 'views');
+define ('TEMPLATES_DIRNAME', 'templates');
 
 require_once 'app/bootstrap.php';
 
