@@ -3,7 +3,7 @@
 	<p>Widget is used to display and setup testimonial slider on the website.</p>
 
 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/bne-testimonial-slider-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/bne-testimonial-slider-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

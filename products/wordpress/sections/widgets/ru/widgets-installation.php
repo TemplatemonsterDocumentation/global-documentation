@@ -7,5 +7,5 @@
 	<p>После того, как вы успешно произвели импорт виджетов, перед вами будет представлен список виджетов со статусом установки. После этого, вы можете приступить к их использованию.</p>
 
 	<figure class="img-polaroid">
-	    <img src="img/tm/widgets/.png" alt="" >
+	    <img src="<?php echo $this->getImgPath('tm/widgets/widgets-import.png'); ?>" alt="" >
 	</figure>

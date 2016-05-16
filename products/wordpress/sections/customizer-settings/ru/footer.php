@@ -2,12 +2,6 @@
 <h3>Footer</h3>
 <p>Settings for the website footer section.</p>
 
-<!--
-<figure class="img-polaroid">
-    <img src="img/tm/customizer/.png" alt="" >
-</figure>
--->
-
 
 <ul class="marked-list">
     <li>

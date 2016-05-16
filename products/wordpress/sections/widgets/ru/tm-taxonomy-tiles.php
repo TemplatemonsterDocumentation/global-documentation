@@ -3,7 +3,7 @@
 	<p>Виджет предназначен для вывода и настройки категорий.</p>
 
 	<figure class="img-polaroid">
-	    <img src="img/tm/widgets/.png" alt="" >
+	    <img src="<?php echo $this->getImgPath('tm/widgets/.png'); ?>" alt="" >
 	</figure>
 
 	<ul class="marked-list">

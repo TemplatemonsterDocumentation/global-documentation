@@ -2,9 +2,7 @@
 <h3>Sidebar</h3>
 <p>Здесь вы можете настроить размещение сайдбаров в шаблоне.</p>
 
-<figure class="img-polaroid">
-    <img src="img/tm/customizer/.png" alt="" >
-</figure>
+
 
 <h5>Sidebar position</h5>
 

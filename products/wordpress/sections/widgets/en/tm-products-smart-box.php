@@ -3,7 +3,7 @@
 	<p>This widget displays featured products from the particular categories offering the customers some extra products they might want to purchase as well</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/tm-smartbox.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/tm-smartbox.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

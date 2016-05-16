@@ -3,7 +3,7 @@
 	<p>This widget is used to setup and display news box.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/news-smart-box.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/news-smart-box.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

@@ -3,7 +3,7 @@
 	<p>Виджет предназначен для вывода блоков для Subscribe and Follow. Список социальных сетей в блоке Follow используется с Social Menu</p>
 
 	<figure class="img-polaroid">
-	    <img src="img/tm/widgets/.png" alt="" >
+	    <img src="<?php echo $this->getImgPath('tm/widgets/.png'); ?>" alt="" >
 	</figure>
 
 

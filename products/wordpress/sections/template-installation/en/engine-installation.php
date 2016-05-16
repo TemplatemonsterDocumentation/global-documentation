@@ -102,19 +102,19 @@
         <li>
             <p>Click the Database button at the top navigation menu to see the list of databases.</p>
             <figure class="img-polaroid">
-                <img src="img/database-create-1.jpg" alt=""/>
+                <img src="<?php echo $this->getImgPath('database-create-1.jpg', false); ?>" alt=""/>
             </figure>
         </li>
         <li>
             <p>Enter database name in the "Create new database" field.</p>
             <figure class="img-polaroid">
-                <img src="img/database-create-2.jpg" alt=""/>
+                <img src="<?php echo $this->getImgPath('database-create-2.jpg', false); ?>" alt=""/>
             </figure>
         </li>
         <li>
             <p>Click the "Create" "button.</p>
             <figure class="img-polaroid">
-                <img src="img/database-create-3.jpg" alt=""/>
+                <img src="<?php echo $this->getImgPath('database-create-3.jpg', false); ?>" alt=""/>
             </figure>
         </li>
     </ol>
@@ -154,7 +154,7 @@
         Configuration File" to create it.
     </p>
 
-    <figure class="img-polaroid"><img src="img/wordpress/wp-install-1-b.jpg" alt="Creating configuration file."></figure>
+    <figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/wp-install-1-b.jpg'); ?>" alt="Creating configuration file."></figure>
 
 
     <h4>
@@ -169,7 +169,7 @@
         You need to enter the WordPress database connection details here.
     </p>
 
-    <figure class="img-polaroid"><img src="img/wordpress/wp-install-3-b.jpg" alt="Inserting database details."></figure>
+    <figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/wp-install-3-b.jpg'); ?>" alt="Inserting database details."></figure>
 
 
     <h4>
@@ -190,12 +190,12 @@
         Click "Install WordPress."
     </p>
 
-    <figure class="img-polaroid"><img src="img/wordpress/wp-install-6-b.jpg" alt="Inserting website details."></figure>
+    <figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/wp-install-6-b.jpg'); ?>" alt="Inserting website details."></figure>
 
     <p>If you have entered the correct details, you will see a successful installation message and the
        WordPress dashboard access button.</p>
 
-    <figure class="img-polaroid"><img src="img/wordpress/wp-install-7-b.jpg" alt="Install WordPress button."></figure>
+    <figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/wp-install-7-b.jpg'); ?>" alt="Install WordPress button."></figure>
 
     <p>You can also take a look at these video tutorials:</p>
 

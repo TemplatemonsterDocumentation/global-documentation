@@ -15,20 +15,20 @@
             "post-formats"
         ],
         "pages":[
-            "page-settings-blogetti"
+            "page-settings"
         ],
         "widgets":[
             "widgets-installation",
             "about-author-widget",
             "categories-tiles-widget",
-            "carousel-slider-widget-blogetti",
-            "instagram-widget-blogetti",
-            "slider-widget-blogetti",
+            "carousel-slider-widget",
+            "instagram-widget",
+            "slider-widget",
             "subscribe-and-social-widget",
             "custom-post-widget",
-            "facebook-page-widget-blogetti",
+            "facebook-page-widget",
             "twitter-widget",
-            "youtube-subscribe-widget-blogetti"
+            "youtube-subscribe-widget"
         ],
         "basic-configuration":[
             "menu-and-navigation",
@@ -37,13 +37,13 @@
         "customizer-settings":[
             "general-site-settings",
             "color-scheme",
-            "typography-blogetti",
+            "typography",
             "header",
             "menu-locations",
-            "sidebar-blogetti",
+            "sidebar",
             "footer",
             "blog-settings",
-            "widgets-blogetti",
+            "widgets",
             "static-front-page",
             "misc"
         ]

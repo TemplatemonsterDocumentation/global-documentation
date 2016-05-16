@@ -3,7 +3,7 @@
 	<p>This widget creates a custom designed carousel from TemplateMonster.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/tm-products-carousel-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/tm-products-carousel-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

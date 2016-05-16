@@ -3,7 +3,7 @@
 	<p>This widget is used to add store description</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/about-store-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/about-store-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

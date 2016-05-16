@@ -1,0 +1,70 @@
+{
+    "textLogo": "",
+    "title": "GADNEWS",
+    "titleCaption": "News portal about Gadget & Devices",
+    "author": "",
+    "sections" : {
+        "introduction":[],
+        "template-installation":[
+            "engine-installation",
+            "manual-install-blog-theme"
+        ],
+        "posts-categories":[
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "pages":[
+            "page-settings-blog-theme"
+        ],
+        "basic-configuration":[
+            "menu-and-navigation",
+            "customizer"
+        ],
+        "widgets":[
+            "widgets-installation",
+            "about-author-widget",
+            "featured-post-block",
+            "news-smart-box",
+            "carousel-slider-widget",
+            "image-grid-widget-column",
+            "instagram-widget",
+            "easy-twitter-feed",
+            "smart-slider-widget",
+            "subscribe-and-follow-widget",
+            "taxonomy-tiles-widget"
+        ],
+        "plugins":[
+            "cherry-sidebar-manager",
+            "contact-form-seven",
+            "easy-twitter-feed-widget",
+            "widget-importer-exporter",
+            "wordpress-importer"
+        ],
+        "customizer-settings":[
+            "site-identity",
+            "logo-and-favicon",
+            "breadcrumbs",
+            "color-scheme",
+            "color",
+            "typography",
+            "social-links",
+            "page-layout",
+            "header",
+            "background-image",
+            "menus",
+            "sidebar",
+            "mailchimp",
+            "widgets",
+            "footer",
+            "blog-settings",
+            "static-front-page"
+        ],
+        "extras":[
+            "help",
+            "cookies",
+            "documentation",
+            "google-services"
+        ]
+    }
+}

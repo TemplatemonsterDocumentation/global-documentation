@@ -3,7 +3,7 @@
 	<p>This widget is used to display and set up donation form</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/give-donation-form-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/give-donation-form-widget.png', true); ?>">
     </figure>
 
 <ul class="marked-list">

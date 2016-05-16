@@ -7,5 +7,5 @@
 	Offer to your visitors a chance to add the products of your woocommerce store to a wishlist page. With YITH WooCommerce Wishlist you can add a link in each product detail page, in order to add the products to the wishlist page. The plugin will create you the specific page and the products will be added to this page, and afterwards, you can add them to the cart or completely remove.
 </p>
 
-<figure class="img-polaroid"><img src="img/woocommerce/woocommerce-yith-wishlist-panel.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('woocommerce/woocommerce-yith-wishlist-panel.png'); ?>" alt=""></figure>
 

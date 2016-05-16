@@ -18,7 +18,7 @@
 	</p>
 
 	<figure class="img-polaroid">
-		<img src="projects/<?php echo $project;?>/img/page/page-layout-settings.png">
+		<img src="<?php echo $this->getImgPath('tm/page/page-layout-settings.png'); ?>">
 	</figure>
 	<!--
 	<figure class="img-polaroid">

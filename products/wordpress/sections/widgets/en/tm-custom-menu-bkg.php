@@ -3,7 +3,7 @@
 	<p>This widget allows you to create various custom menus anywhere on your website.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/tm-custom-menu.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/tm-custom-menu.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

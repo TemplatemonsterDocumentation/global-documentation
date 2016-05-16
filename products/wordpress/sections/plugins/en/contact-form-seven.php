@@ -8,7 +8,7 @@
 <p>Let’s start with displaying a form on your page. First, open the <strong>'Contact -> Contact Forms'</strong> menu in your WordPress administration panel.</p>
 <p>You can manage multiple contact forms there.</p>
 <figure class="img-polaroid">
-    <img alt="" src="img/third_party_plugins/contact-form-0.png">
+    <img alt="" src="<?php echo $this->getImgPath('third_party_plugins/contact-form-0.png'); ?>">
 </figure>
 third_party_plugins
 
@@ -26,7 +26,7 @@ third_party_plugins
 
 <p>Shortcode for this contact form (<strong>2</strong>). Copy this code and paste it into your post, page or text widget where you want to place this contact form.</p>
 <figure class="img-polaroid">
-    <img alt="" src="img/third_party_plugins/contact-form-1.png">
+    <img alt="" src="<?php echo $this->getImgPath('third_party_plugins/contact-form-1.png'); ?>">
 </figure>
 
 

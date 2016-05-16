@@ -3,7 +3,7 @@
 	<p>This widget is used to display featured post block information</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/featured-post-block.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/featured-post-block.png'); ?>">
     </figure>
 
 

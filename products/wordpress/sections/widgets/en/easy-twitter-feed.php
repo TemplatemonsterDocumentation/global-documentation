@@ -3,7 +3,7 @@
 	<p>This widget is used to setup and display twitter feed on the website.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/twitter-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/twitter-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

@@ -1,0 +1,76 @@
+{
+    "author": "",
+    "textLogo": "",
+    "title": "Stylepark",
+    "titleCaption": "The ugly, but SO practical travel beauty bag for makeup",
+    "sections":{
+        "introduction": [],
+        "template-installation": [
+            "engine-installation",
+            "manual-install-blog-theme"
+        ],
+        "basic-configuration": [
+            "menu-and-navigation",
+            "customizer"
+        ],
+        "customizer-settings": [
+            "site-identity",
+            "logo-and-favicon",
+            "breadcrumbs",
+            "color-scheme",
+            "color",
+            "typography",
+            "social-links",
+            "page-layout",
+            "header",
+            "menu-locations",
+            "sidebar",
+            "mailchimp",
+            "widgets",
+            "footer",
+            "blog-settings",
+            "static-front-page"
+        ],
+        "posts-categories": [
+            "blog-post",
+            "adding-category",
+            "post-formats",
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "pages": [
+            "page-settings-blog-theme"
+        ],
+        "widgets": [
+            "widgets-installation",
+            "about-author-widget",
+            "tm-youtube-widget",
+            "easy-twitter",
+            "facebook-page-widget",
+            "smart-slider-widget",
+            "carousel-slider-widget",
+            "image-grid-widget-column",
+            "subscribe-and-follow-widget",
+            "recent-posts-widget",
+            "recent-comments-widget",
+            "taxonomy-tiles-widget",
+            "instagram-widget"
+        ],
+        "plugins": [
+            "cherry-sidebar-manager",
+            "contact-form-seven"
+        ],
+        "third-party-plugins": [
+            "tm-youtube",
+            "twitter",
+            "facebook"
+        ],
+        "extras": [
+            "help",
+            "cookies",
+            "documentation",
+            "google-services"
+        ]
+    }
+}

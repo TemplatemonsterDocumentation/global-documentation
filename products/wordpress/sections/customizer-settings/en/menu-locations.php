@@ -3,11 +3,7 @@
     Your theme supports 4 menus. Select which menu appears in each location. You can also place menus in widget areas with the Custom Menu widget.
 </p>
 
-<!--
-<figure class="img-polaroid">
-    <img src="img/tm/customizer/.png" alt="" >
-</figure>
--->
+
 
 <h5>Locations list</h5>
 

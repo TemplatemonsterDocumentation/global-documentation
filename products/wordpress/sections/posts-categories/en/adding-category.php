@@ -10,7 +10,7 @@
     <li>Click <strong>Publish</strong>.</li>
 </ol>
 
-<figure class="img-polaroid"><img src="img/wordpress/cat1.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/cat1.png'); ?>" alt=""></figure>
 
 <p>
     You can check the detailed information about adding categories at

@@ -3,7 +3,7 @@
 	<p>This widget is used to display blocks for Subscribe and Social sections.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/subscribe-and-follow-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/subscribe-and-follow-widget.png', true); ?>">
     </figure>
 
 

@@ -2,11 +2,7 @@
 <h3>Blog Settings</h3>
 <p>You can set your blog settings here</p>
 
-<!--
-<figure class="img-polaroid">
-    <img src="img/tm/customizer/.png" alt="" >
-</figure>
--->
+
 <ul class="marked-list">
     <li>
         <dl class="inline-term">

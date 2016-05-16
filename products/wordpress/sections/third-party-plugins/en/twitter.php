@@ -5,7 +5,7 @@
 <p>It will be a perfect solution for both experienced bloggers and begineers who only start working with the plugins.</p>
 	
 <figure class="img-pinterest">
-	<img src="img/third_party_plugins/twitter.png" alt="">
+	<img src="<?php echo $this->getImgPath('third_party_plugins/twitter.png'); ?>" alt="">
 </figure>
 <h4>Installing Easy Twitter Feed Widget plugin</h4>
 

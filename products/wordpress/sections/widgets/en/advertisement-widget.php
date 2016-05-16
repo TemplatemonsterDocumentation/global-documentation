@@ -3,7 +3,7 @@
 	<p>This widget is used to set up and display advertisement information</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/about-author-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/about-author-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

@@ -24,6 +24,11 @@ class Article_View
         return $this->_helper->getTemplatesPath() . DS . 'article.php';
     }
 
+    /**
+     * Load article template file
+     *
+     * @throws Exception
+     */
     public function loadArticleTemplate()
     {
         $file = $this->getArticleTemplate();
@@ -42,12 +47,7 @@ class Article_View
     public function loadArticleContent()
     {
         $file = $this->_model->getArticlePath();
-        if(file_exists($file))
-        {
-            include $file;
-        } else {
-            throw new Exception('Article file not found');
-        }
+        include $file;
     }
 
     /**
@@ -57,10 +57,23 @@ class Article_View
      */
     public function getArticleId()
     {
+        $result = $this->_articleId;
         if($this->_articleId == '__description')
         {
-            return $this->_sectionId . '__description';
+            $result = $this->_sectionId . '__description';
         }
-        return $this->_articleId;
+        return $result;
+    }
+
+    /**
+     * Get image path helper function
+     *
+     * @param $file
+     * @param $project
+     * @return string
+     */
+    public function getImgPath($file, $project = false)
+    {
+        return $this->_helper->getImgPath($file, $project);
     }
 }

@@ -5,7 +5,7 @@
 <p>The plugin features a variety of tools and options like:  show faces , show Data Stream and Header. The latest version also offers adding the plugin into your posts and pages.</p>
 	
 <figure class="img-pinterest">
-	<img src="img/third_party_plugins/facebook.png" alt="">
+	<img src="<?php echo $this->getImgPath('third_party_plugins/facebook.png'); ?>" alt="">
 </figure>
 <h4>Installing Facebook Widget plugin</h4>
 

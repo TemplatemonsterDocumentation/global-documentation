@@ -13,7 +13,7 @@
 	<li><p>Set your <a href="https://login.mailchimp.com/?referrer=%2Faccount%2Fapi%2F" target="_blank">MailChimp API key</a> in the plugin settings.</p></li>
 </ol>
 <figure class="img-polaroid">
-	<img src="img/third-party-plugins/mailchimp-1.png" alt="">
+	<img src="<?php echo $this->getImgPath('third-party-plugins/mailchimp-1.png', true); ?>" alt="">
 </figure>
 
 <h4>Checkbox Settings</h4>
@@ -72,7 +72,7 @@
 		</li>
 	</ul>
 	<figure class="img-polaroid">
-		<img src="img/third-party-plugins/mailchimp-2.png" alt="">
+		<img src="<?php echo $this->getImgPath('third-party-plugins/mailchimp-2.png'); ?>" alt="">
 	</figure>
 
 
@@ -217,5 +217,5 @@
 	</ul>
 
 	<figure class="img-polaroid">
-		<img src="img/third-party-plugins/mailchimp-3.png" alt="">
+		<img src="<?php echo $this->getImgPath('third-party-plugins/mailchimp-3.png'); ?>" alt="">
 	</figure>

@@ -3,7 +3,7 @@
 	<p>This widget displays the list of new products available on your site.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/woocommerce-products-new-products-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/woocommerce-products-new-products-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

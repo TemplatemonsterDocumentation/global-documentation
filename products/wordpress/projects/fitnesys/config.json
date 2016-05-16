@@ -1,0 +1,63 @@
+{
+    "author": "kirk",
+    "textLogo": "",
+    "title": "Fitnesys",
+    "titleCaption": "Be Stronger, Be Fit",
+    "sections": {
+        "introduction": [],
+        "template-installation": [
+            "engine-installation",
+            "manual-install-blog-theme",
+        ],
+        "basic-configuration": [
+            "menu-and-navigation",
+            "customizer",
+        ],
+        "customizer-settings": [
+            "site-identity",
+            "logo-and-favicon",
+            "breadcrumbs",
+            "color-scheme",
+            "color",
+            "typography",
+            "social-links",
+            "page-layout",
+            "header",
+            "menu-locations",
+            "sidebar",
+            "mailchimp",
+            "widgets",
+            "footer",
+            "blog-settings",
+            "static-front-page"
+        ],
+        "posts-categories": [
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "pages": [
+            "page-settings-blog-theme"
+        ],
+        "plugins": [
+            "cherry-sidebar-manager",
+            "contact-form-seven",
+            "easy-twitter-feed-widget",
+            "widget-importer-exporter",
+            "wordpress-importer"
+        ],
+        "widgets": [
+            "widgets-installation",
+            "about-author-widget",
+            "facebook-page-like-widget",
+            "smart-slider-widget",
+            "subscribe-and-follow-widget"
+        ],
+        "extras": [
+            "help",
+            "cookies",
+            "documentation",
+            "google-services"
+        ]
+    }
+}

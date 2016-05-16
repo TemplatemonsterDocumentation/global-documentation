@@ -76,4 +76,15 @@ class Section_View
         return $this->_sectionId;
     }
 
+    /**
+     * Get files path
+     *
+     * @param $file
+     * @return string
+     */
+    public function getPath($file)
+    {
+        return $this->_helper->getPath($file);
+    }
+
 }

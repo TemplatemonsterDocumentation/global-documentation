@@ -3,7 +3,7 @@
 	<p>This widget is used to display MotoPress Slider</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/motopress-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/motopress-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

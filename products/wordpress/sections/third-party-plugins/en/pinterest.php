@@ -5,7 +5,7 @@
 <p>This Pinterest Widgets plugin allows website owners to create nice and functional Pinterest widgets just in a few minutes.  It's very easy to use and no coding skills required to have the job done.</p>
 	
 <figure class="img-pinterest">
-	<img src="img/third_party_plugins/pinterest.png" alt="">
+	<img src="<?php echo $this->getImgPath('third_party_plugins/pinterest.png'); ?>" alt="">
 </figure>
 <h4>Installing Pinterest plugin</h4>
 

@@ -4,7 +4,7 @@
 <p>Thanks to an assortment of flexible adjustments you can add  title, featured image, tagline, website, message and custom taxonomy to arrange the testimonials in different groups. Use [bne_testimonials_list] & [bne_testimonials_slider] shortcodes to add the widget quickly and worry free.</p>
 
 <figure class="img-pinterest">
-	<img src="img/third_party_plugins/bne-testimonials-plugin.png" alt="">
+	<img src="<?php echo $this->getImgPath('third_party_plugins/bne-testimonials-plugin.png'); ?>" alt="">
 </figure>
 <h4>Installing BNE Testimonials plugin</h4>
 

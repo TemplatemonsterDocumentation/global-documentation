@@ -54,18 +54,6 @@ class View
         new Nav($this->_model->getSectionsList(), $this->_model->getArticlesList(), $this->_helper);
     }
 
-    /**
-     * Get directory
-     *
-     * @return string
-     */
-    private function getDir()
-    {
-        $pathChunks = explode('/', $_SERVER['SCRIPT_NAME']);
-        $scriptDir = $pathChunks[1];
-        $dir = '/' . $scriptDir;
-        return $dir;
-    }
 
     /**
      * Get files path
@@ -75,7 +63,7 @@ class View
      */
     public function getPath($file)
     {
-        return $this->getDir() . '/' . $file;
+        return $this->_helper->getPath($file);
     }
 
     /**
@@ -87,7 +75,7 @@ class View
      */
     public function getProjectPath($file, $relative = true)
     {
-        $path = $this->getDir() . '/' . $this->_model->getProjectPath($relative) . '/' . $file;
+        $path = $this->_helper->getDir() . '/' . $this->_model->getProjectPath($relative) . '/' . $file;
         return $path;
     }
 
@@ -172,4 +160,14 @@ class View
         return $this->_model->getProjectAuthor();
     }
 
+    /**
+     * Get project URL
+     *
+     * @return mixed
+     */
+    public function getProjectUrl()
+    {
+        $url = $_SERVER['REQUEST_URI'];
+        return $url;
+    }
 }

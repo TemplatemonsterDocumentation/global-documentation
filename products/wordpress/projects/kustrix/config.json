@@ -1,0 +1,73 @@
+{
+    "author": "",
+    "textLogo": "",
+    "title": "Kustrix",
+    "titleCaption": "Lifestyle & Fashion Blog",
+    "sections": {
+        "introduction": [],
+        "template-installation": [
+            "engine-installation",
+            "manual-install-blog-theme"
+        ],
+        "basic-configuration": [
+            "menu-and-navigation",
+            "customizer"
+        ],
+        "customizer-settings": [
+            "site-identity",
+            "logo-and-favicon",
+            "breadcrumbs",
+            "color-scheme",
+            "color",
+            "typography",
+            "social-links",
+            "page-layout",
+            "header",
+            "menu-locations",
+            "sidebar",
+            "mailchimp",
+            "widgets",
+            "footer",
+            "blog-settings",
+            "static-front-page"
+        ],
+        "posts-categories": [
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "pages": [
+            "page-settings-blog-theme"
+        ],
+        "widgets": [
+            "widgets-installation",
+            "smart-slider-widget",
+            "about-author-widget",
+            "subscribe-and-follow-widget",
+            "pinterest-board-widget",
+            "carousel-widget",
+            "easy-twitter-feed",
+            "facebook-page-like-widget",
+            "taxonomy-tiles-widget",
+            "instagram-widget"
+        ],
+        "plugins": [
+            "cherry-sidebar-manager",
+            "contact-form-seven",
+            "widget-importer-exporter",
+            "wordpress-importer"
+        ],
+        "third-party-plugins": [
+            "instagram",
+            "pinterest",
+            "facebook",
+            "twitter"
+        ],
+        "extras": [
+            "help",
+            "cookies",
+            "documentation",
+            "google-services"
+        ]
+    }
+}

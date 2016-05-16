@@ -34,5 +34,5 @@
 		</li>
 </ul>
 <figure class="img-polaroid">
-	<img src="img/third-party-plugins/homepage-popup.png" alt="">
+	<img src="<?php echo $this->getImgPath('third-party-plugins/homepage-popup.png'); ?>" alt="">
 </figure>

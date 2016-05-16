@@ -2,11 +2,6 @@
 <h3>Color Scheme</h3>
 <p>Here you can set up site color scheme.</p>
 
-<!--
-<figure class="img-polaroid">
-    <img src="img/tm/customizer/.png" alt="" >
-</figure>
--->
 
 <h5>Regular scheme</h5>
 

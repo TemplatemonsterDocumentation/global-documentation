@@ -3,12 +3,6 @@
 <p><p>You can configure widgets and their positions here. Main theme functionality is focused in widgets. Each template has a specific set of Widget Areas</p>
 
 
-<!--
-<figure class="img-polaroid">
-    <img src="img/tm/customizer/.png" alt="" >
-</figure>
--->
-
 <h5>Widget creating</h5>
 
 <p>In order to add a widget to template page you should first decide where will it be displayed on the website by selecting one of the Widgets Areas available. Next press the "+ Add a Widget" button on the list of widgets that appears. After doing this you can define the order of widgets appearance by pressing "Reorder" button.</p>
@@ -16,7 +10,7 @@
 <h5>Registered widgets areas</h5>
 
 <figure class="img-polaroid">
-    <img src="img/blog-theme/widgets/widget-areas.png" alt="" >
+    <img src="<?php echo $this->getImgPath('blog-theme/widgets/widget-areas.png'); ?>" alt="" >
 </figure>
 <!--
 <ul class="marked-list">

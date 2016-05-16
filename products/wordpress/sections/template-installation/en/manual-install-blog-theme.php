@@ -5,20 +5,20 @@
     <p>Extract the template package</p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/add-theme-dashboard.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/add-theme-dashboard.png'); ?>" alt="" >
     </figure>
 
     <p>Navigate to the <strong>Appearance > Themes</strong> section at the admin panel of the site and open <strong>'theme'</strong> folder</p>
     <p>Locate the archive named as theme-name.zip and install the theme by pressing 'Install Now'.</p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/add-theme-select.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/add-theme-select.png'); ?>" alt="" >
     </figure>
 
     <p>Next please press on <strong>'Activate'</strong> link.</p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/add-theme-success.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/add-theme-success.png'); ?>" alt="" >
     </figure>
 
     <h4>Plugin Installation</h4>
@@ -30,7 +30,7 @@
     </p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/themes-panel.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/themes-panel.png'); ?>" alt="" >
     </figure>
 
     <p>
@@ -38,7 +38,7 @@
     </p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/required-plugins.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/required-plugins.png'); ?>" alt="" >
     </figure>
 
     <p>
@@ -50,29 +50,29 @@
     <p>Navigate to <strong>Tools > Import</strong></p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/wordpress-importer-tools.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/wordpress-importer-tools.png'); ?>" alt="" >
     </figure>
 
     <p>Choose <strong>"WordPress"</strong> and click on Install importer, then you'll see the confirmation pop-up to run the install. Press on 'Install Now' there.</p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/blog-content-import.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/blog-content-import.png'); ?>" alt="" >
     </figure>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/wordpress-importer.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/wordpress-importer.png'); ?>" alt="" >
     </figure>
 
     <p>Then click on the <strong>'Activate Plugin & Run Importer'</strong> after the successful installation.</p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/wordpress-importer-success.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/wordpress-importer-success.png'); ?>" alt="" >
     </figure>
 
     <p>Press on the "Browse" button and select the <strong>XML content</strong> file in the theme sample_data folder.</p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/wordpress-importer-select.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/wordpress-importer-select.png'); ?>" alt="" >
     </figure>
 
     <p>Next press Upload File and import</p>
@@ -85,7 +85,7 @@
     </p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/wordpress-importer-setting.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/wordpress-importer-setting.png'); ?>" alt="" >
     </figure>
 
     <div class="alert alert-info">
@@ -100,7 +100,7 @@
         Press on Install Now, and activate plugin by clicking on "Activate Plugin" after its successful installation.
     </p>
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/widgets-importer-exporter.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/widgets-importer-exporter.png'); ?>" alt="" >
     </figure>
 
     <p>
@@ -108,11 +108,11 @@
     </p>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/widgets-importer-exporter-dashboard.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/widgets-importer-exporter-dashboard.png'); ?>" alt="" >
     </figure>
 
     <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/widgets-importer-exporter-select.png" alt="" >
+        <img src="<?php echo $this->getImgPath('blog-theme/installation/widgets-importer-exporter-select.png'); ?>" alt="" >
     </figure>
 
 
@@ -148,7 +148,7 @@
 </p>
 
 <figure class="img-polaroid">
-    <img src="img/blog-theme/installation/rename-dump-data-base.png" alt="">
+    <img src="<?php echo $this->getImgPath('blog-theme/installation/rename-dump-data-base.png'); ?>" alt="">
 </figure>
 
 <p>4. Now  you can import the dump file with the <strong>phpMyAdmin</strong> tool or some other database management tool.</p>
@@ -167,7 +167,7 @@
 
 
 <figure class="img-polaroid">
-    <img src="img/blog-theme/installation/importing-data-base-panel.png" alt="">
+    <img src="<?php echo $this->getImgPath('blog-theme/installation/importing-data-base-panel.png'); ?>" alt="">
 </figure>
 
 <p>7. Go to Settings->Permalinks.</p>

@@ -13,8 +13,8 @@
 	<li><a href="http://wpml.org/documentation/getting-started-guide/sticky-links/" target="_blank">Sticky links</a> – This is an essential function for running websites powered by WordPress. It guarantees that the links between pages can will never be broken.</li>
 </ul>
 
-<figure class="img-polaroid"><img src="img/third_party_plugins/wpml-1.jpg" alt=""></figure>
-<figure class="img-polaroid"><img src="img/third_party_plugins/wpml-2.jpg" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('third_party_plugins/wpml-1.jpg'); ?>" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('third_party_plugins/wpml-2.jpg'); ?>" alt=""></figure>
 
 
 <h4>Translating Site Content</h4>
@@ -29,4 +29,4 @@
 
 <h4>Translation Dashboard</h4>
 
-<figure class="img-polaroid"><img src="img/third_party_plugins/wpml-dashboard.jpg" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('third_party_plugins/wpml-dashboard.jpg'); ?>" alt=""></figure>

@@ -1,0 +1,62 @@
+{
+    "textLogo": "",
+    "title": "Daily Sports",
+    "titleCaption": "The latest sports news",
+    "author": "",
+    "secitons": {
+        "introduction": [],
+        "template-installation": [
+            "engine-installation",
+            "manual-install-blog-theme"
+        ],
+        "basic-configuration": [
+            "menu-and-navigation",
+            "customizer"
+        ],
+        "customizer-settings": [
+            "site-identity",
+            "logo-and-favicon",
+            "breadcrumbs",
+            "color-scheme",
+            "color",
+            "typography",
+            "social-links",
+            "page-layout",
+            "header",
+            "menu-locations",
+            "sidebar",
+            "mailchimp",
+            "widgets",
+            "footer",
+            "blog-settings",
+            "static-front-page"
+        ],
+        "posts-categories": [
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "widgets": [
+            "widgets-installation",
+            "subscribe-and-follow-widget",
+            "custom-post-widget",
+            "recent-comments-widget",
+            "smart-slider-widget",
+            "featured-post-block",
+            "news-smartbox",
+            "image-grid-widget",
+            "facebook-page-like-widget",
+            "easy-twitter-feed"
+        ],
+        "third-party-plugins": [
+            "facebook-main",
+            "twitter"
+        ],
+        "extras": [
+            "help",
+            "cookies",
+            "documentation",
+            "google-services"
+        ]
+    }
+}

@@ -1,22 +1,295 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/templates/template.php" line="43" mnemonic="4" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="887c0e57-5a16-46b7-b76a-87ee1443d8d7" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\views\article.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\views\section.php" afterPath="" />
-      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\views\template.php" afterPath="$PROJECT_DIR$/templates/template.php" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\index222.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\bne-testimonials-plugin.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\contact-form-0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\contact-form-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\contact-form-2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\homepage-popup.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\instagram_widget.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\mailchimp-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\mailchimp-2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\mailchimp-3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\mailchimp-wp-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\mailchimp-wp-2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\mailchimp-wp-3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\pinterest.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\tm-woocommerce-package.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\tm-youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\track-kickstarter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\wpml-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\wpml-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\img\third_party_plugins\wpml-dashboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\blog-settings-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\color-scheme-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\header-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\sidebar-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\sidebar-dailysports.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\sidebar-kingnews.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\typography-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\typography-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\widgets-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\widgets-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\pages\en\__description_blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\pages\en\page-settings-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\pages\ru\__description_wildride.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\pages\ru\page-settings-wildride.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\plugins\ru\__description_wildride.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\posts-categories\en\adding-category-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\third-party-plugins\en\facebook-fairystyle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\third-party-plugins\en\facebook-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\third-party-plugins\en\kickstarter-fairystyle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\third-party-plugins\en\twitter-dailysports.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\third-party-plugins\en\twitter-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\third-party-plugins\en\woocommerce-fairystyle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\third-party-plugins\en\wpml-configuration-fairystyle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\carousel-slider-widget-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\carousel-slider-widget-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\custom-post-widget-dailysports.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\easy-twitter-feed-kustrix.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\easy-twitter-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\facebook-page-like-widget-kustrix.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\facebook-page-widget-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\facebook-page-widget-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\featured-post-block-dailysports.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\instagram-widget-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\instagram-widget-kustrix.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\instagram-widget-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\motopress-widget-fairystyle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\news-smartbox-dailysports.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\smart-slider-widget-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\smart-slider-widget-dailysports.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\smart-slider-widget-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\subscribe-and-follow-widget-dailysports.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\subscribe-and-follow-widget-stylepark.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\taxonomy-tiles-widget-kustrix.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\track-kickstarter-project-fairystyle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\youtube-subscribe-widget-blogetti.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\projects.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\section.php" afterPath="" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\add-theme-dashboard.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/add-theme-dashboard.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\add-theme-select.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/add-theme-select.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\add-theme-success.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/add-theme-success.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\blog-content-import.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/blog-content-import.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\importing-data-base-panel.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/importing-data-base-panel.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\rename-dump-data-base.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/rename-dump-data-base.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\required-plugins.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/required-plugins.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\themes-panel.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/themes-panel.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\widgets-importer-exporter-dashboard.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/widgets-importer-exporter-dashboard.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\widgets-importer-exporter-select.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/widgets-importer-exporter-select.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\widgets-importer-exporter.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/widgets-importer-exporter.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\wordpress-importer-select.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/wordpress-importer-select.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\wordpress-importer-setting.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/wordpress-importer-setting.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\wordpress-importer-success.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/wordpress-importer-success.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\wordpress-importer-tools.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/wordpress-importer-tools.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\installation\wordpress-importer.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/installation/wordpress-importer.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\blog-theme\widgets\widget-areas.png" afterPath="$PROJECT_DIR$/products/wordpress/img/blog-theme/widgets/widget-areas.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\database-create-1.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/database-create-1.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\database-create-2.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/database-create-2.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\database-create-3.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/database-create-3.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\ie8-panel\warning_bar_0000_us.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/ie8-panel/warning_bar_0000_us.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\plugins\sidebar_manager_new.png" afterPath="$PROJECT_DIR$/products/wordpress/img/plugins/sidebar_manager_new.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\plugins\sidebar_manager_new_sidebar.png" afterPath="$PROJECT_DIR$/products/wordpress/img/plugins/sidebar_manager_new_sidebar.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\plugins\sidebar_manager_start.png" afterPath="$PROJECT_DIR$/products/wordpress/img/plugins/sidebar_manager_start.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\basic-settings\social-menu.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/basic-settings/social-menu.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\page\page-layout-settings.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/page/page-layout-settings.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\about-author-panel.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/about-author-panel.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\about-author.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/about-author.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\carousel-widget-front.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/carousel-widget-front.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\carousel-widget-front1.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/carousel-widget-front1.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\carousel-widget-section.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/carousel-widget-section.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\carousel-widget1.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/carousel-widget1.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\carousel-widget2.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/carousel-widget2.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\image-grid-front.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/image-grid-front.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\image-grid.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/image-grid.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\image-grid2.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/image-grid2.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\instagram-front.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/instagram-front.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\instagram.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/instagram.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\smart-slider-bottom.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/smart-slider-bottom.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\smart-slider-front.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/smart-slider-front.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\smart-slider-full.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/smart-slider-full.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\smart-slider-top.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/smart-slider-top.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\smart-slider1.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/smart-slider1.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\smart-slider2.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/smart-slider2.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\smart-slider3.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/smart-slider3.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\subscribe-and-follow-bottom.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/subscribe-and-follow-bottom.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\subscribe-and-follow-front.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/subscribe-and-follow-front.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\subscribe-and-follow-full.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/subscribe-and-follow-full.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\subscribe-and-follow-top.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/subscribe-and-follow-top.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\taxonomy-tiles-front.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/taxonomy-tiles-front.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\tm\widgets\taxonomy-tiles.png" afterPath="$PROJECT_DIR$/products/wordpress/img/tm/widgets/taxonomy-tiles.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\widgets\widgets-import.png" afterPath="$PROJECT_DIR$/products/wordpress/img/widgets/widgets-import.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\woocommerce\woocommerce-yith-compare-main-bottom.png" afterPath="$PROJECT_DIR$/products/wordpress/img/woocommerce/woocommerce-yith-compare-main-bottom.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\woocommerce\woocommerce-yith-compare-main.png" afterPath="$PROJECT_DIR$/products/wordpress/img/woocommerce/woocommerce-yith-compare-main.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\woocommerce\woocommerce-yith-compare-panel.png" afterPath="$PROJECT_DIR$/products/wordpress/img/woocommerce/woocommerce-yith-compare-panel.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\woocommerce\woocommerce-yith-quick-view-panel.png" afterPath="$PROJECT_DIR$/products/wordpress/img/woocommerce/woocommerce-yith-quick-view-panel.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\woocommerce\woocommerce-yith-wishlist-panel.png" afterPath="$PROJECT_DIR$/products/wordpress/img/woocommerce/woocommerce-yith-wishlist-panel.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\woocommerce\woocommerce-zoom-magnifier-image.png" afterPath="$PROJECT_DIR$/products/wordpress/img/woocommerce/woocommerce-zoom-magnifier-image.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\woocommerce\woocommerce-zoom-magnifier-panel.png" afterPath="$PROJECT_DIR$/products/wordpress/img/woocommerce/woocommerce-zoom-magnifier-panel.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\woocommerce\woocommerce.png" afterPath="$PROJECT_DIR$/products/wordpress/img/woocommerce/woocommerce.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\add_media.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/add_media.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\cat-bg-color.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/cat-bg-color.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\cat1.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/cat1.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\cat2.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/cat2.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\faq.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/faq.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\folio_format.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/folio_format.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\folio_page.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/folio_page.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\insert-media.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/insert-media.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\plugins_add_new.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/plugins_add_new.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_audio.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_audio.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_audio_additional.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_audio_additional.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_chat.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_chat.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_image.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_image.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_image_editor.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_image_editor.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_link.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_link.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_link_variant.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_link_variant.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_quote.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_quote.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_standard.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_standard.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_status.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_status.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_video.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_video.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\post_format_video_settings.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/post_format_video_settings.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\uploaded-images.png" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/uploaded-images.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\wp-install-1-b.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/wp-install-1-b.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\wp-install-3-b.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/wp-install-3-b.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\wp-install-6-b.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/wp-install-6-b.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\img\wordpress\wp-install-7-b.jpg" afterPath="$PROJECT_DIR$/products/wordpress/img/wordpress/wp-install-7-b.jpg" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\blogetti\img\logo.png" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/img/logo_blogetti.png" />
+      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\basic-configuration\ru\__description_wildride.php" afterPath="$PROJECT_DIR$/products/wordpress/projects/wildride/sections/basic-configuration/ru/__description.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Article_Model.php" afterPath="$PROJECT_DIR$/app/Core/Article_Model.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Article_View.php" afterPath="$PROJECT_DIR$/app/Core/Article_View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Controller.php" afterPath="$PROJECT_DIR$/app/Core/Controller.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Helper.php" afterPath="$PROJECT_DIR$/app/Core/Helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Project_Model.php" afterPath="$PROJECT_DIR$/app/Core/Project_Model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Route.php" afterPath="$PROJECT_DIR$/app/Core/Route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Nav.php" afterPath="$PROJECT_DIR$/app/Core/Nav.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Section_Model.php" afterPath="$PROJECT_DIR$/app/Core/Section_Model.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Section_View.php" afterPath="$PROJECT_DIR$/app/Core/Section_View.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/View.php" afterPath="$PROJECT_DIR$/app/Core/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/about-author-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/about-author-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/posts-categories/en/adding-category.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/posts-categories/en/adding-category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/advertisement-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/advertisement-widget.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/article.php" afterPath="$PROJECT_DIR$/templates/article.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/posts-categories/en/blog-post.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/posts-categories/en/blog-post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/blog-settings.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/blog-settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/blog-settings.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/blog-settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/bne-testimonial-slider.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/bne-testimonial-slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/bne-testimonials-plugin.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/bne-testimonials-plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/breadcrumbs.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/breadcrumbs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/breadcrumbs.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/breadcrumbs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-slider-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-slider-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/categories-tiles-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/categories-tiles-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/cherry-sidebar-manager.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/cherry-sidebar-manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/color-scheme.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/color-scheme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/color-scheme.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/color-scheme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/wildride/config.json" afterPath="$PROJECT_DIR$/products/wordpress/projects/wildride/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/contact-form-seven.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/contact-form-seven.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/contact-form.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/contact-form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/custom-post-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/custom-post-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/ru/customizer.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/ru/customizer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/ru/customizer.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/ru/customizer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/easy-twitter-feed-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/easy-twitter-feed-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/easy-twitter-feed.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/easy-twitter-feed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/template-installation/en/engine-installation.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/template-installation/en/engine-installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/facebook-main.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/facebook-main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/facebook-page-like-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/facebook-page-like-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/facebook-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/facebook-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/featured-post-block.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/featured-post-block.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/footer.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/footer.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/give-donation-form.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/give-donation-form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/give-donation-plugin.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/give-donation-plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/header.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/header.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/homepage-pop-up.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/homepage-pop-up.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/image-grid-widget-column.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/image-grid-widget-column.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/image-grid-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/image-grid-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/instagram-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/instagram-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/instagram.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/instagram.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/logo-and-favicon.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/logo-and-favicon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/logo-and-favicon.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/logo-and-favicon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wordpress.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wordpress.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wp.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/mailchimp.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/mailchimp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/mailchimp.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/mailchimp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/template-installation/en/manual-install-blog-theme.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/template-installation/en/manual-install-blog-theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/menu-and-navigation.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/menu-and-navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/ru/menu-and-navigation.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/ru/menu-and-navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/ru/menu-and-navigation.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/ru/menu-and-navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/menu-locations.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/menu-locations.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/menu-locations.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/menu-locations.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/motopress-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/motopress-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/includes/nav.php" afterPath="$PROJECT_DIR$/templates/includes/nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/news-smart-box.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/news-smart-box.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/page-layout.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/page-layout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/page-layout.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/page-layout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/pages/en/page-settings-blog-theme.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/pages/en/page-settings-blog-theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/pinterest-board-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/pinterest-board-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/pinterest.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/pinterest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/posts-categories/en/post-formats.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/posts-categories/en/post-formats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/recent-comments-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/recent-comments-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/recent-posts-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/recent-posts-widget.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/section.php" afterPath="$PROJECT_DIR$/templates/section.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar-home-position.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar-home-position.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/sidebar.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/site-identity.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/site-identity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/slider-widget-blogetti.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/slider-widget-blogetti.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/smart-slider-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/smart-slider-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/social-links.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/social-links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/social-links.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/social-links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/static-front-page.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/static-front-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/static-front-page.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/static-front-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/subscribe-and-follow-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/subscribe-and-follow-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/subscribe-and-social-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/subscribe-and-social-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/taxonomy-tiles-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/taxonomy-tiles-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/template.php" afterPath="$PROJECT_DIR$/templates/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-about-author.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-about-author.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-about-store-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-about-store-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-banners-grid-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-banners-grid-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-carousel-slider.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-carousel-slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-custom-menu-bkg.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-custom-menu-bkg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-image-grid.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-image-grid.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-instagram.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-instagram.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-product-categories-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-product-categories-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-products-carousel-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-products-carousel-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-products-smart-box.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-products-smart-box.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-smart-slider.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-smart-slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-subscribe-and-follow.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-subscribe-and-follow.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-taxonomy-tiles.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/tm-taxonomy-tiles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/tm-woocommerce-package.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/tm-woocommerce-package.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-youtube-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-youtube-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/tm-youtube.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/tm-youtube.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/track-kickstarter-project-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/track-kickstarter-project-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/track-kickstarter-project.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/track-kickstarter-project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/twitter-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/twitter-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/twitter.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/twitter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/typography.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/typography.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/typography.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/typography.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/widget-countdown.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/widget-countdown.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/widget-importer-exporter.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/widget-importer-exporter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/widgets-installation.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/widgets-installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/widgets-installation.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/ru/widgets-installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/widgets.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/widgets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/widgets.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/widgets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/woocommerce-products-new-products-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/woocommerce-products-new-products-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/woocommerce-products-on-sale-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/woocommerce-products-on-sale-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/woocommerce-top-rated-products-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/woocommerce-top-rated-products-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/wordpress-importer.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/plugins/en/wordpress-importer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/wpml-configuration.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/wpml-configuration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/yith-woocommerce-wishlist.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/yith-woocommerce-wishlist.php" />
     </list>
     <ignored path="global-documentation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,32 +305,33 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="config.json" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state vertical-scroll-proportion="0.56626505">
-                    <caret line="34" column="24" selection-start-line="33" selection-start-column="12" selection-end-line="34" selection-end-column="24" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="global-documentation" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="mailchimp-for-wordpress.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wordpress.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.384615">
+              <caret line="15" column="79" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Helper.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Core/Helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.50401837">
+              <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,57 +339,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/product/wordpress/sections/introduction/section.json" />
-        <option value="$PROJECT_DIR$/product/wordpress/sections/pages/section.json" />
-        <option value="$PROJECT_DIR$/product/wordpress/sections/plugins/section.json" />
-        <option value="$PROJECT_DIR$/product/wordpress/sections/posts-categories/section.json" />
-        <option value="$PROJECT_DIR$/product/wordpress/sections/template-installation/section.json" />
-        <option value="$PROJECT_DIR$/product/wordpress/sections/third-party-plugins/section.json" />
-        <option value="$PROJECT_DIR$/product/wordpress/sections/widgets/section.json" />
-        <option value="$PROJECT_DIR$/product/wordpress/projects/blogetti/config.json" />
-        <option value="$PROJECT_DIR$/classes/Controller.php" />
-        <option value="$PROJECT_DIR$/classes/Path.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json" />
-        <option value="$PROJECT_DIR$/includes/config.php" />
-        <option value="$PROJECT_DIR$/templates/article.php" />
-        <option value="$PROJECT_DIR$/functions.php" />
-        <option value="$PROJECT_DIR$/config.php" />
-        <option value="$PROJECT_DIR$/section.php" />
-        <option value="$PROJECT_DIR$/classes/Project.php" />
-        <option value="$PROJECT_DIR$/templates/section.php" />
-        <option value="$PROJECT_DIR$/classes/View.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/app/core/Route.php" />
-        <option value="$PROJECT_DIR$/app/core/route.php" />
-        <option value="$PROJECT_DIR$/app/core/view.php" />
-        <option value="$PROJECT_DIR$/app/core/controller.php" />
-        <option value="$PROJECT_DIR$/app/core/model.php" />
-        <option value="$PROJECT_DIR$/app/models/section.php" />
-        <option value="$PROJECT_DIR$/classes/Section.php" />
-        <option value="$PROJECT_DIR$/app/models/Section.php" />
-        <option value="$PROJECT_DIR$/app/Models/Article.php" />
-        <option value="$PROJECT_DIR$/index2.php" />
-        <option value="$PROJECT_DIR$/app/config.php" />
-        <option value="$PROJECT_DIR$/js/jquery.rd-navbar.js" />
-        <option value="$PROJECT_DIR$/app/bootstrap.php" />
-        <option value="$PROJECT_DIR$/app/Core/Model.php" />
-        <option value="$PROJECT_DIR$/app/Core/Controller.php" />
-        <option value="$PROJECT_DIR$/app/views/section.php" />
-        <option value="$PROJECT_DIR$/app/views/article.php" />
-        <option value="$PROJECT_DIR$/app/views/template.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/app/Core/Article_View.php" />
-        <option value="$PROJECT_DIR$/app/Core/Section_View.php" />
-        <option value="$PROJECT_DIR$/app/Core/View.php" />
-        <option value="$PROJECT_DIR$/templates/template.php" />
-        <option value="$PROJECT_DIR$/app/Core/Nav.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/woocommerce-products-on-sale-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/woocommerce-top-rated-products-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-slider-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/about-author-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/image-grid-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/instagram-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/motopress-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/facebook-page-like-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/twitter-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/smart-slider-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/subscribe-and-follow-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/subscribe-and-social-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/taxonomy-tiles-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/track-kickstarter-project-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/give-donation-form.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/plugins/en/cherry-sidebar-manager.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/easy-twitter-feed.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/plugins/en/easy-twitter-feed-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/logo-and-favicon.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/blog-settings.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/breadcrumbs.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/color-scheme.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/footer.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/header.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/mailchimp.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/menu-locations.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/page-layout.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar-home-position.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/social-links.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/static-front-page.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/typography.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/widgets.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/blog-settings.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/footer.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/breadcrumbs.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/color-scheme.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/header.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/logo-and-favicon.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/mailchimp.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/menu-locations.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/page-layout.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/sidebar.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/site-identity.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/social-links.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/static-front-page.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/typography.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/widgets.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wordpress.php" />
         <option value="$PROJECT_DIR$/app/Core/Helper.php" />
-        <option value="$PROJECT_DIR$/app/Core/Section_Model.php" />
-        <option value="$PROJECT_DIR$/templates/includes/nav.php" />
-        <option value="$PROJECT_DIR$/app/Core/Article_Model.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/projects/dailysports/config.json" />
-        <option value="$PROJECT_DIR$/app/Core/Project_Model.php" />
-        <option value="$PROJECT_DIR$/app/Core/Route.php" />
       </list>
     </option>
   </component>
@@ -132,7 +406,7 @@
       <server host="192.168.9.18" id="df38f63f-a271-4c99-9dff-fef1ff61cf83" name="localhost" />
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -195,6 +469,212 @@
               <option name="myItemId" value="products" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="third-party-plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="third-party-plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wildride" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wildride" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -202,24 +682,27 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\wildride\sections\introduction\ru" />
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\wildride\sections" />
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\gadnews" />
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\dailysports" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\app\views" />
-      <recent name="C:\OpenServer\domains\localhost\global-documentation\product\wordpress" />
-      <recent name="C:\OpenServer\domains\localhost\global-documentation\product\prestashop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress" />
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\wildride\sections\basic-configuration\ru" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\wildride" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\templates" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\app" />
-      <recent name="C:\OpenServer\domains\localhost\global-documentation\product\wordpress\projects\wildride\css" />
-      <recent name="C:\OpenServer\domains\localhost\global-documentation\product\wordpress\projects\stylepark\css" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Remote Debug.Remote">
@@ -259,6 +742,9 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="887c0e57-5a16-46b7-b76a-87ee1443d8d7" name="Default" comment="" />
@@ -270,9 +756,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23347548" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.195629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -283,7 +769,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1922" y="25" width="1124" height="1052" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1922" y="25" width="1209" height="1052" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -302,37 +788,79 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23081024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16204691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1922" y="25" width="1124" height="1052" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="204" />
+      <option name="time" value="278" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/taxonomy-tiles-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state vertical-scroll-proportion="-0.6923077">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/menu-and-navigation.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/tm-about-store-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6923077">
+          <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/track-kickstarter-project-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4615386">
+          <caret line="5" column="99" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/give-donation-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4615386">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/smart-slider-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0206659">
+          <caret line="5" column="86" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -340,401 +868,359 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/menu-and-navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/wildride/sections/plugins/ru/__description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/easy-twitter-feed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43398392">
+          <caret line="21" column="90" selection-start-line="21" selection-start-column="90" selection-end-line="21" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/plugins/en/cherry-sidebar-manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.076923">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/plugins/en/easy-twitter-feed-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.230769">
+          <caret line="9" column="91" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/background-image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/blog-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/breadcrumbs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/color.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/color-scheme.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar/article.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/pages/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.384615">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/plugins/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.153847">
-          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/posts-categories/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.615385">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/shop/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/template-installation/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.153846">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.384615">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.923077">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/introduction/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1446613">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/extras/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26865673">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06013363">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.09070034">
-          <caret line="657" column="28" selection-start-line="657" selection-start-column="28" selection-end-line="657" selection-end-column="28" />
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24799082">
-          <caret line="12" column="69" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="69" />
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.rd-navbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35451505">
-          <caret line="183" column="23" selection-start-line="183" selection-start-column="18" selection-end-line="183" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/custom-post-widget.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/general-site-settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/categories-tiles-widget.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/mailchimp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/menu-locations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4615386">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/misc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-widget.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/page-layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3846154">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar-home-position.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/site-identity.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-slider-widget-blogetti.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/social-links.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-slider-widget.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/static-front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.3846154">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/bne-testimonial-slider.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/typography.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/advertisement-widget.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39265212">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47531572">
-          <caret line="23" column="20" selection-start-line="20" selection-start-column="8" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/section.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1859931">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index222.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7844037">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.230769">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/section.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6923077">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Article_View.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.923077">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Section_View.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/widgets.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.076923">
-          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.230769">
-          <caret line="102" column="13" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18577981">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4277523">
-          <caret line="83" column="56" selection-start-line="83" selection-start-column="56" selection-end-line="83" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/includes/nav.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/menus.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Nav.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/logo-and-favicon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.076923">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/__description.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="e#437#496#0#PHP" expanded="false" />
-            <element signature="e#581#640#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Article_Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23278688">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#227#288#0#PHP" expanded="false" />
-            <element signature="e#368#429#0#PHP" expanded="false" />
-            <element signature="e#514#583#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Section_Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39344263">
-          <caret line="29" column="88" selection-start-line="29" selection-start-column="88" selection-end-line="29" selection-end-column="88" />
-          <folding>
-            <element signature="e#160#221#0#PHP" expanded="false" />
-            <element signature="e#301#395#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/View.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="86" column="7" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
-          <folding>
-            <element signature="e#376#446#0#PHP" expanded="false" />
-            <element signature="e#1353#1414#0#PHP" expanded="false" />
-            <element signature="e#1614#1696#0#PHP" expanded="false" />
-            <element signature="e#1795#1913#0#PHP" expanded="false" />
-            <element signature="e#2109#2174#0#PHP" expanded="false" />
-            <element signature="e#2335#2398#0#PHP" expanded="false" />
-            <element signature="e#2501#2564#0#PHP" expanded="false" />
-            <element signature="e#2667#2738#0#PHP" expanded="false" />
-            <element signature="e#2825#2889#0#PHP" expanded="false" />
-            <element signature="e#2994#3062#0#PHP" expanded="false" />
-            <element signature="e#3173#3245#0#PHP" expanded="false" />
-            <element signature="e#3364#3429#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1986222">
-          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/section.json">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/blog-settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45464984">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/breadcrumbs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56626505">
-          <caret line="34" column="24" selection-start-line="33" selection-start-column="12" selection-end-line="34" selection-end-column="24" />
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/wildride/config.json">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/color-scheme.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8966705">
-          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12399541">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/logo-and-favicon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/mailchimp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/menu-locations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1538463">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Controller.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/page-layout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2893226">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/site-identity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/social-links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/static-front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/typography.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wordpress.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.384615">
+          <caret line="15" column="79" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="79" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Core/Helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55797935">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="e#290#354#0#PHP" expanded="false" />
-            <element signature="e#504#571#0#PHP" expanded="false" />
-            <element signature="e#658#720#0#PHP" expanded="false" />
-            <element signature="e#823#891#0#PHP" expanded="false" />
-            <element signature="e#1013#1164#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3432836">
-          <caret line="216" column="9" selection-start-line="216" selection-start-column="9" selection-end-line="216" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.50401837">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Route.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5786452">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#341#414#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Project_Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6016073">
-          <caret line="82" column="48" selection-start-line="82" selection-start-column="48" selection-end-line="82" selection-end-column="48" />
-          <folding>
-            <element signature="e#218#293#0#PHP" expanded="false" />
-            <element signature="e#390#465#0#PHP" expanded="false" />
-            <element signature="e#562#674#0#PHP" expanded="false" />
-            <element signature="e#1188#1293#0#PHP" expanded="false" />
-            <element signature="e#1641#1751#0#PHP" expanded="false" />
-            <element signature="e#2088#2161#0#PHP" expanded="false" />
-            <element signature="e#2271#2356#0#PHP" expanded="false" />
-            <element signature="e#2564#2628#0#PHP" expanded="false" />
-            <element signature="e#2724#2792#0#PHP" expanded="false" />
-            <element signature="e#2894#2966#0#PHP" expanded="false" />
-            <element signature="e#3076#3141#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

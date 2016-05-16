@@ -3,7 +3,7 @@
 	<p>This widget is used to display blog author information</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/about-author-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/about-author-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

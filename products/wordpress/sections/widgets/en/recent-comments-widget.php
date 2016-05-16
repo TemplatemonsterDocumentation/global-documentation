@@ -3,7 +3,7 @@
 	<p>This widget is used to display recent comments to the posts on the homepage.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/recent-comments-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/recent-comments-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

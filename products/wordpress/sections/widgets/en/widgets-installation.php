@@ -7,5 +7,5 @@
 	<p>When widgets are successfully imported you will see a list of widgets with installation status. Then you'll be able to start using them at site.</p>
 
 	<figure class="img-polaroid">
-	    <img src="img/widgets/widgets-import.png" alt="" >
+	    <img src="<?php echo $this->getImgPath('tm/widgets/widgets-import.png'); ?>" alt="" >
 	</figure>

@@ -20,7 +20,7 @@ class Section_Model
     }
 
     /**
-     * Get sectin translation
+     * Get section translation
      *
      * @return mixed
      * @throws Exception

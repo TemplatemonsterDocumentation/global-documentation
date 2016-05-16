@@ -3,7 +3,7 @@
 <p>This custom designed plugin from TemplateMonster allows you add YouTube subscribe widget to the site. In this way, users will be able to navigate to your YouTube channel right from the homepage.  </p>
 	
 <figure class="img-pinterest">
-	<img src="img/third_party_plugins/tm-youtube.png" alt="">
+	<img src="<?php echo $this->getImgPath('third_party_plugins/tm-youtube.png'); ?>" alt="">
 </figure>
 <h4>TM Youtube Subscribe Widget plugin</h4>
 

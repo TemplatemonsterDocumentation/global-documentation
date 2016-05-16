@@ -7,7 +7,7 @@
 </p>
 
 	<figure class="img-polaroid">
-		<img src="projects/<?php echo $project;?>/img/plugins/easy-twitter-feed-widget.png">
+		<img src="<?php echo $this->getImgPath('plugins/easy-twitter-feed-widget.png', true); ?>">
 	</figure>
 
 <p>

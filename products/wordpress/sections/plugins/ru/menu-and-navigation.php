@@ -28,7 +28,7 @@
 </p>
 
 <figure class="img-polaroid">
-	<img src="projects/<?php echo $project;?>/img/basic-settings/social-menu.png" alt="social-menu">
+	<img src="<?php echo $this->getImgPath('/basic-settings/social-menu.png'); ?>" alt="social-menu">
 </figure>
 
 

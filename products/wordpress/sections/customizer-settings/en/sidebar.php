@@ -2,12 +2,6 @@
 <h3>Sidebar</h3>
 <p>Here you can configure the position of template sidebars.</p>
 
-<!--
-<figure class="img-polaroid">
-    <img src="img/tm/customizer/.png" alt="" >
-</figure>
--->
-
 <h5>Sidebar position</h5>
 
 <ul class="marked-list">

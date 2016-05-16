@@ -3,7 +3,7 @@
 	<p>Виджет предназначен для вывода сетки изображений. По умолчанию для начала вывода необходимо выбрать соответствующую категории или теги</p>
 
 	<figure class="img-polaroid">
-	    <img src="img/tm/widgets/.png" alt="" >
+	    <img src="<?php echo $this->getImgPath('tm/widgets/.png'); ?>" alt="" >
 	</figure>
 
     <ul class="marked-list">

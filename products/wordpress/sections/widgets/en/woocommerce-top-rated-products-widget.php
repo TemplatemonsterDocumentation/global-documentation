@@ -3,7 +3,7 @@
 	<p>This widget displays the list of top rated products.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/woocommerce-top-rated-products-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/woocommerce-top-rated-products-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

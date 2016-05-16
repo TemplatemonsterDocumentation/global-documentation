@@ -3,7 +3,7 @@
 	<p>This widget is used to display kickstarter project information</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/track-kickstarter-project-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/track-kickstarter-project-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

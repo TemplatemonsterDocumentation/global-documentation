@@ -5,7 +5,7 @@
     editing screen.
 </p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format.png'); ?>" alt=""></figure>
 
 <p>
     You can check detailed information on post formats at
@@ -29,7 +29,7 @@
     <li>Other fields that can be enabled in <strong>Screen Options</strong> in the top right corner.</li>
 </ul>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_standard.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_standard.png'); ?>" alt=""></figure>
 
 
 <h4 id="post_format_aside">Aside</h4>
@@ -39,14 +39,14 @@
     title and other options.
 </p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_standard.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_standard.png'); ?>" alt=""></figure>
 
 
 <h4 id="post_format_audio">Audio</h4>
 
 <p><strong>Audio format</strong> is used to publish audio content.</p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_audio.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_audio.png'); ?>" alt=""></figure>
 
 <p>You can edit the following fields in the media gallery file settings:</p>
 
@@ -58,7 +58,7 @@
     <li><strong>Description </strong> - audio track description</li>
 </ul>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_audio_additional.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_audio_additional.png'); ?>" alt=""></figure>
 
 
 <h4 id="post_format_chat">Chat</h4>
@@ -72,29 +72,29 @@
     <li><i class="fa fa-angle-right"></i>Mike: Not bad Ann.</li>
 </ul>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_chat.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_chat.png'); ?>" alt=""></figure>
 
 
 <h4 id="post_format_gallery">Gallery</h4>
 
 <p>The main feature of this post format is the possibility to add an unlimited number of images.</p>
 
-<!--<figure class="img-polaroid"><img src="img/wordpress/gallery_post_type.jpg" alt=""></figure>-->
+<!--<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/gallery_post_type.jpg'); ?>" alt=""></figure>-->
 
 <h5>Adding a gallery:</h5>
 
 <p>Click<strong> Add Media</strong>.</p>
 
-<figure class="img-polaroid"><img src="img/wordpress/add_media.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/add_media.png'); ?>" alt=""></figure>
 
 <p>Drag files or click <strong>Select Files</strong> to add images from local computer.</p>
 
-<figure class="img-polaroid"><img src="img/wordpress/insert-media.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/insert-media.png'); ?>" alt=""></figure>
 
 <p>After images are uploaded, you can find them in Media Library. Click <strong>Uploaded to this post</strong> to
    view the images.</p>
 
-<figure class="img-polaroid"><img src="img/wordpress/uploaded-images.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/uploaded-images.png'); ?>" alt=""></figure>
 
 <p>After editing you can close the media library. Uploaded images will be added automatically.</p>
 
@@ -109,13 +109,13 @@
     <strong>Featured Image</strong> option.
 </p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_image_editor.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_image_editor.png'); ?>" alt=""></figure>
 
 <p>
     Having selected this format, you can turn off the lightbox by uncheking the <strong>Enable Lightbox</strong> option.
 </p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_image.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_image.png'); ?>" alt=""></figure>
 
 
 <h4 id="post_format_link">Link</h4>
@@ -127,18 +127,18 @@
     <strong>Post title</strong> will be used as the URL text.
 </p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_link.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_link.png'); ?>" alt=""></figure>
 
 <p>Moreover, you can add a description of the target page and link any part of the text.</p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_link_variant.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_link_variant.png'); ?>" alt=""></figure>
 
 
 <h4 id="post_format_quote">Quote</h4>
 
 <p><strong> Quote </strong> post is used to publish statements.</p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_quote.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_quote.png'); ?>" alt=""></figure>
 
 
 <h4>Status</h4>
@@ -148,14 +148,14 @@
     post is a message with content limited to 140 symbols. It is displayed with the author avatar.
 </p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_status.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_status.png'); ?>" alt=""></figure>
 
 
 <h4 id="post_format_video">Video</h4>
 
 <p><strong> Video</strong> post is used to publish video content.</p>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_video.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_video.png'); ?>" alt=""></figure>
 
 <p>There are two ways to add video into the post:</p>
 
@@ -177,5 +177,5 @@
     <li><strong>Loop</strong> - loop video</li>
 </ul>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_video_settings.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/post_format_video_settings.png'); ?>" alt=""></figure>
 

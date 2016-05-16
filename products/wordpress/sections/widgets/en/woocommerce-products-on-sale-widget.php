@@ -3,7 +3,7 @@
 	<p>This widget displays the list of products on sale.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/woocommerce-products-on-sale-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/woocommerce-products-on-sale-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

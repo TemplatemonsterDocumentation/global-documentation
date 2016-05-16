@@ -3,7 +3,7 @@
 <p>Showcase your latest Instagram photos to a wider audience this <a href="https://wordpress.org/plugins/wp-instagram-widget/" target="_blank">WP Instagram Widget plugin</a>. There is no need to dign in via oAuth or specify your login details. </p>
 
 <figure class="img-pinterest">
-	<img src="img/third_party_plugins/instagram_widget.png" alt="">
+	<img src="<?php echo $this->getImgPath('third_party_plugins/instagram_widget.png'); ?>" alt="">
 </figure>
 
 <h4>Installing the WP Instagram Widget plugin</h4>

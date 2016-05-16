@@ -3,7 +3,7 @@
 	<p>This widget is used to display image grid. By default you have to select appropriate category or tags in order to start display</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/image-grid-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/image-grid-widget.png'); ?>">
     </figure>
 
     <ul class="marked-list">

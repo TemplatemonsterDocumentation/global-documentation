@@ -40,6 +40,11 @@ class Nav
         return $this->_articles;
     }
 
+    /**
+     * Get section objects
+     *
+     * @return array
+     */
     public function getSectionObjects()
     {
         $sectionObjects = [];
@@ -50,10 +55,16 @@ class Nav
         return $sectionObjects;
     }
 
+    /**
+     * Get article object
+     *
+     * @param $articleId
+     * @param $sectionId
+     * @return Article_Model
+     */
     public function getArticleObject($articleId, $sectionId)
     {
         return new Article_Model($articleId, $sectionId, $this->_helper);
     }
-
 
 }

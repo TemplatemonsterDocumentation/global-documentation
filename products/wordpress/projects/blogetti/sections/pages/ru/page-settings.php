@@ -8,7 +8,7 @@
 		Тип лейаута
 	</h4>
 
-	<figure class="img-polaroid"><img src="img/tm/page/page-layout-settings.png" alt=""></figure>
+	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('tm/page/page-layout-settings.png'); ?>" alt=""></figure>
 
 	<p>
 		Определяем тип лейаута страницы.

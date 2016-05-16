@@ -8,7 +8,7 @@
     <li>Add content to the post.</li>
 </ol>
 
-<figure class="img-polaroid"><img src="img/wordpress/cat2.png" alt=""></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('wordpress/cat2.png'); ?>" alt=""></figure>
 
 <p>
     You can check detailed information about adding posts at

@@ -1,0 +1,71 @@
+{
+    "textLogo": "",
+    "title": "Retailer <span class=bold_text>Fairy</span><span class=it_text>style:</span>",
+    "titleCaption": "Brand Store.",
+    "author": "",
+    "sections": {
+        "introduction":[],
+        "template-installation":[
+            "engine-installation",
+            "manual-install-blog-theme"
+        ],
+        "basic-configuration":[
+            "menu-and-navigation",
+            "customizer"
+        ],
+        "customizer-settings":[
+            "site-identity",
+            "logo-and-favicon",
+            "breadcrumbs",
+            "color-scheme",
+            "color",
+            "typography",
+            "social-links",
+            "page-layout",
+            "header",
+            "menu-locations",
+            "sidebar",
+            "mailchimp",
+            "widgets",
+            "footer",
+            "blog-settings",
+            "static-front-page"
+        ],
+        "posts-categories":[
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "widgets":[
+            "widgets-installation",
+            "motopress-widget",
+            "tm-banners-grid-widget",
+            "tm-product-categories-widget",
+            "tm-products-carousel-widget",
+            "tm-about-store-widget",
+            "carousel-widget",
+            "bne-testimonial-slider",
+            "woocommerce-products-new-products-widget",
+            "woocommerce-top-rated-products-widget",
+            "subscribe-and-follow-widget",
+            "tm-custom-menu-bkg",
+            "tm-products-smart-box"
+        ],
+        "third-party-plugins":[
+            "bne-testimonials-plugin",
+            "facebook",
+            "mailchimp-for-wp",
+            "motopress-slider",
+            "woocommerce",
+            "yith-woocommerce-wishlist",
+            "wpml-configuration",
+            "tm-woocommerce-package"
+        ],
+        "extras":[
+            "help",
+            "cookies",
+            "documentation",
+            "google-services"
+        ]
+    }
+}

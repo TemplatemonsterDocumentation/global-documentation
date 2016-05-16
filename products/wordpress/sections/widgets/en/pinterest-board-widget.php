@@ -3,7 +3,7 @@
 	<p>This Pinterest Widgets plugin allows website owners to create nice and functional Pinterest widgets on your site.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/pinterest_widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/pinterest_widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

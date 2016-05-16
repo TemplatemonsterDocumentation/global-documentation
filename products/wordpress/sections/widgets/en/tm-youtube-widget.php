@@ -3,7 +3,7 @@
 	<p>This widget is used to setup and display YouTube subscribe form on the website.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/tm-youtube-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/tm-youtube-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

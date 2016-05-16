@@ -2,12 +2,6 @@
 <h3>Typography</h3>
 <p>Здесь вы можете настроить типографику для заголовков и текста</p>
 
-<!--
-<figure class="img-polaroid">
-    <img src="img/tm/customizer/.png" alt="" >
-</figure>
--->
-
 <h5>Typography</h5>
 
 <ul class="marked-list">

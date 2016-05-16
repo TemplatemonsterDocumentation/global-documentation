@@ -3,7 +3,7 @@
 	<p>This widget is used to setup and display twitter timeline on the website.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/twitter_widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/twitter_widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

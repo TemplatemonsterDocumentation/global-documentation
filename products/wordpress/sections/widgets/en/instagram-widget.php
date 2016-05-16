@@ -3,7 +3,7 @@
 	<p>This widget is used to setup and display instagram feed on the website.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/instagram-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/instagram-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

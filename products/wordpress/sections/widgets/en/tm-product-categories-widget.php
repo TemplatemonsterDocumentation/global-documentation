@@ -3,7 +3,7 @@
 	<p>This widget creates a list of product image categories.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/tm-product-categories-widget.png">
+        <img src="<?php echo $this->getImgPath('tm/widgets/tm-product-categories-widget.png'); ?>">
     </figure>
 
 	<ul class="marked-list">

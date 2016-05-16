@@ -7,11 +7,11 @@
 <p>To add a new sidebar, go to the <strong>Appearance > Widgets</strong> section and click Create a new sidebar. </p>
 
 <figure class="img-polaroid">
-    <img src="img/plugins/sidebar_manager_start.png" alt="" style="opacity: 1;">
+    <img src="<?php echo $this->getImgPath('plugins/sidebar_manager_start.png'); ?>" alt="" style="opacity: 1;">
 </figure>
 
 <figure class="img-polaroid">
-    <img src="img/plugins/sidebar_manager_new.png" alt="" style="opacity: 1;">
+    <img src="<?php echo $this->getImgPath('plugins/sidebar_manager_new.png'); ?>" alt="" style="opacity: 1;">
 </figure>
 
 <p>
@@ -19,10 +19,10 @@
 </p>
 
 <figure class="img-polaroid">
-    <img src="projects/<?php echo $project;?>/img/plugins/sidebar-manager-add.png">
+    <img src="<?php echo $this->getImgPath('plugins/sidebar-manager-add.png', true); ?>">
 </figure>
 <figure class="img-polaroid">
-    <img src="img/plugins/sidebar_manager_new_sidebar.png" alt="" style="opacity: 1;">
+    <img src="<?php echo $this->getImgPath('plugins/sidebar_manager_new_sidebar.png'); ?>" alt="" style="opacity: 1;">
 </figure>
 
 <p>
@@ -32,7 +32,7 @@
 <h5>Avaliable Post sidebar areas</h5>
 
 <figure class="img-polaroid">
-	<img src="projects/<?php echo $project;?>/img/plugins/sidebar-manager-page.png">
+	<img src="<?php echo $this->getImgPath('plugins/sidebar-manager-page.png', true); ?>">
 </figure>
 
 <ul>

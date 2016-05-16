@@ -3,7 +3,7 @@
 	<p>Виджет предназначен для вывода информации об авторе блога</p>
 
 	<figure class="img-polaroid">
-	    <img src="img/tm/widgets/about-author-section.png" alt="" >
+	    <img src="<?php echo $this->getImgPath('tm/widgets/about-author-section.png'); ?>" alt="" >
 	</figure>
 
 	<ul class="marked-list">

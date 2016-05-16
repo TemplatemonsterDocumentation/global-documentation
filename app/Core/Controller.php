@@ -12,6 +12,5 @@ class Controller
     {
         $project = new Project_Model($this->_params);
         $view = new View($this->_params, $project);
-        $view->loadProject();
     }
 }

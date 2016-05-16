@@ -3,7 +3,7 @@
 	<p>This widget is used to setup and display categories.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/taxonomy-tiles-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/taxonomy-tiles-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

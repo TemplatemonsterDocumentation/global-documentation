@@ -1,4 +1,5 @@
-<article id="<?php echo $this->getArticleId(); ?>" class="article <?php /*echo $data->getSectionId();*/ ?>">
+<article id="<?php echo $this->_helper->formatId($this->getArticleId()); ?>" class="article <?php /*echo
+ $data->getSectionId();*/ ?>">
     <?php
         try{
             $this->loadArticleContent();

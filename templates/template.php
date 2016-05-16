@@ -4,6 +4,8 @@
     <title></title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no"/>
+    <link rel="icon" href="<?php echo $this->getProjectPath('img/favicon_' . $this->getProjectName() . '.ico'); ?>"
+          type="image/x-icon">
 
     <link rel="stylesheet" href="<?php echo $this->getPath('css/grid.css'); ?>">
     <link rel="stylesheet" href="<?php echo $this->getPath('css/style.css'); ?>">
@@ -39,8 +41,8 @@
 <!--    Navigation-->
     <div class="rd-mobilemenu active">
         <div class="logo logo__<?php echo $this->getProjectName(); ?>">
-            <a href="<?php /*echo get_path( "/index.php?project={$project}" );*/ ?>">
-                <img src="<?php echo $this->getProjectPath('img/logo.png'); ?>"
+            <a href="<?php echo $this->getProjectUrl(); ?>">
+                <img src="<?php echo $this->getProjectPath('img/logo_' . $this->getProjectName() . '.png'); ?>"
                      alt="<?php echo $this->getProjectTextLogo(); ?>">
                 <?php echo $this->getProjectTextLogo(); ?>
             </a>

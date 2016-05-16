@@ -10,7 +10,7 @@
 	В левой части интерфейса размещаются настройки, в правой части выводится шаблон страницы. После того как вы внесли некоторые изменения, их можно сохранить нажав <strong>"Save & Publish"</strong>
 </p>
 <figure class="img-polaroid">
-	<img src="img/tm/basic-settings/social-menu.png" alt="social-menu">
+	<img src="<?php echo $this->getImgPath('tm/basic-settings/social-menu.png'); ?>" alt="social-menu">
 </figure>
 <p>
 	Детальнее про настройки в customizer можно ознакомиться <a href="index.php?project=tm&lang=ru&section=customizer-settings">здесь</a>
