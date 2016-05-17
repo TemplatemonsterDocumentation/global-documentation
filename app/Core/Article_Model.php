@@ -132,14 +132,25 @@ class Article_Model
     /**
      * Get article label
      *
-     * @param $key
+     * @param $id
      * @return mixed
      */
-    public function getLabel($key)
+    public function getLabel($id)
     {
-        $articles = $this->getSectionArticles();
+        $articlesArray = $this->getSectionArticles();
+
+        $articles = [];
+        foreach($articlesArray as $article)
+        {
+            $articles[$article['id']] = $article['translations'];
+        }
+
         $lang = $this->_helper->getLang();
-        $label = $articles[$key]['translations'][$lang];
+        $label = $articles[$id][$lang];
+
+        if(!isset($label)){
+            $label = $id;
+        }
 
         return $label;
     }

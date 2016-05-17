@@ -32,7 +32,7 @@
 
     <script src='<?php echo $this->getPath( 'js/device.min.js' ); ?>'></script>
 </head>
-<body data-section="<?php /*echo $section_param;*/ ?>"
+<body data-section="<?php echo $this->getCurrentSection(); ?>"
       onload="prettyPrint()"
       data-project="<?php echo $this->getProjectName();
 ?>">
@@ -71,7 +71,7 @@
 <!--Page content-->
     <div class="page-content active">
         <button class="rd-mobilepanel_toggle active"><span></span></button>
-        <div class="rd-mobilepanel<?php /*if ('introduction' !== $section_param) :*/ ?> fixed<?php /*endif;*/ ?>">
+        <div class="rd-mobilepanel <?php echo $this->getCurrentSection() == 'introduction' ? '' : 'fixed'; ?>">
             <h1 class="rd-mobilepanel_title">
                 <?php echo $this->getProjectTitle(); ?>
             </h1>

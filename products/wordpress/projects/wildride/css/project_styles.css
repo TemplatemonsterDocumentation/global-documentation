@@ -30,7 +30,7 @@ h4 {
       background-position: 600px top; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/wildride/img/header-bg.png");
+  background-image: url("../img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -58,3 +58,5 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #1082FC; }
   .toTop:hover {
     background: #75b7fd; }
+
+/*# sourceMappingURL=project_styles.css.map */

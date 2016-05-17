@@ -6,10 +6,73 @@
 	},
 	"articles": [
         {
+            "id": "bne-testimonials-plugin",
+            "translations": {
+                "en": "BNE Testimonials",
+                "ru": "Виджет Testimonials"
+            }
+        },
+        {
+            "id": "facebook-main",
+            "translations": {
+                "en": " Facebook Widget",
+                "ru": "Виджет Facebook "
+            }
+        },
+        {
+            "id": "mailchimp-for-wp",
+            "translations": {
+                "en": "MailChimp for WordPress",
+                "ru": "MailChimp for WordPress"
+            }
+        },
+        {
             "id": "mailchimp-for-wordpress",
             "translations": {
                 "en": "MailChimp for WordPress",
                 "ru": "MailChimp for WordPress"
+            }
+        },
+        {
+            "id": "instagram",
+            "translations": {
+                "en": "WP Instagram Widget",
+                "ru": "WP Instagram Widget"
+            }
+        },
+        {
+            "id": "pinterest",
+            "translations": {
+                "en": "Pinterest Widgets",
+                "ru": "Pinterest Widgets"
+            }
+        },
+        {
+            "id": "facebook",
+            "translations": {
+                "en": "Facebook Page Like Widget",
+                "ru": "Facebook Page Like Widget"
+            }
+        },
+        {
+            "id": "twitter",
+            "translations": {
+                "en": "Easy Twitter Widget",
+                "ru": "Easy Twitter Widget"
+            }
+        },
+        {
+            "id": "tm-youtube",
+            "translations": {
+                "en": "TM Youtube Subscribe Widget",
+                "ru": "TM Youtube Subscribe Widget"
+            }
+        },
+        {
+            "id": "wpml-configuration-fairystyle",
+            "translations": {
+                "en": "WPML Support",
+                "ru": "Поддержка WPML"
             }
         }
     ]

@@ -20,14 +20,26 @@ class Section_View
     }
 
     /**
+     * Create article object and load article
+     *
+     * @param $articleId
+     * @param $sectionId
+     * @return Article_View
+     */
+    private function loadArticle($articleId, $sectionId)
+    {
+        return new Article_View($articleId, $sectionId, $this->_helper);
+    }
+
+
+    /**
      * Load section articles
      */
-    public function loadArticles()
-    {
-        $this->loadDescription();
-        foreach($this->_articles as $articleId)
+    public function loadArticles(){
+        $articles = $this->_articles;
+        foreach($articles as $articleId)
         {
-            new Article_View($articleId, $this->getSectionId(), $this->_helper);
+            $this->loadArticle($articleId, $this->getSectionId());
         }
     }
 
@@ -36,7 +48,8 @@ class Section_View
      */
     public function loadDescription()
     {
-        new Article_View('__description', $this->getSectionId(), $this->_helper);
+        $this->loadArticle('__description', $this->getSectionId());
+        return true;
     }
 
     /**
@@ -50,10 +63,8 @@ class Section_View
     }
 
     /**
-     * Load content file, article or section
+     * Load section template file
      *
-     * @param $file
-     * @param $data
      * @throws Exception
      */
     public function loadSectionTemplate()

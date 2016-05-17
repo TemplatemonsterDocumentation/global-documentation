@@ -46,8 +46,12 @@ class Article_View
      */
     public function loadArticleContent()
     {
-        $file = $this->_model->getArticlePath();
-        include $file;
+        try{
+            $file = $this->_model->getArticlePath();
+            include $file;
+        } catch (Exception $e){
+            echo $e;
+        }
     }
 
     /**

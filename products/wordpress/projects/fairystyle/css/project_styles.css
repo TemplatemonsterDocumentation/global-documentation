@@ -31,7 +31,7 @@ h4 {
       background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/fairystyle/img/header-bg.png");
+  background-image: url("../img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -69,3 +69,5 @@ body:not([data-section="introduction"]) .tm-title-caption {
 .it_text {
   font-weight: 400;
   font-style: italic; }
+
+/*# sourceMappingURL=project_styles.css.map */

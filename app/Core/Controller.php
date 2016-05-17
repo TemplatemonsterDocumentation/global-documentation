@@ -8,6 +8,9 @@ class Controller
         $this->actionIndex();
     }
 
+    /**
+     * Load default model and view
+     */
     public function actionIndex()
     {
         $project = new Project_Model($this->_params);

@@ -32,7 +32,7 @@ h4 {
       background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/kustrix/img/header-bg.png");
+  background-image: url("../img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -61,3 +61,5 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #fff; }
   .toTop:hover {
     background: white; }
+
+/*# sourceMappingURL=project_styles.css.map */

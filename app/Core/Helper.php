@@ -170,7 +170,6 @@ class Helper
      */
     public function getImgPath($file, $project = false)
     {
-
         $projPath = '';
         if($project){
             $projPath = '/' . PROJECT_DIRNAME . '/' . $this->getProject();
@@ -186,6 +185,12 @@ class Helper
         return $path;
     }
 
+    /**
+     * Check if file loaded by url exists
+     *
+     * @param $path
+     * @return bool
+     */
     private function isExists($path)
     {
         $file = PATH . DS . str_replace('/', DS, $path);
@@ -195,10 +200,15 @@ class Helper
         return false;
     }
 
+    /**
+     * Get images directory path
+     *
+     * @param $projPath
+     * @param $file
+     * @return string
+     */
     private function imgPath($projPath, $file)
     {
         return PRODUCT_DIRNAME . '/' . $this->getProduct() . $projPath . '/img/' . $file;
     }
-
-
 }

@@ -1,3 +1,6 @@
-<section id="<?php echo $this->_helper->formatId($this->getSectionId());  ?>" class="section">
-    <?php echo $this->loadArticles(); ?>
+<section id="<?php echo $this->getSectionId();  ?>" class="section">
+    <?php
+        $this->loadDescription();
+        $this->loadArticles();
+    ?>
 </section>

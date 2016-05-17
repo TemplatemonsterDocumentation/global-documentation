@@ -181,7 +181,7 @@
                 $(this).toggleClass('active');
                 $('.page-content').toggleClass('active');
 
-                //console.log('toggle');
+                console.log('toggle');
 
                 if (o.hasClass('active')) {
                     $(this).removeClass('active');
@@ -221,7 +221,7 @@
                 st_before = 0,
                 fz = parseInt($('.rd-mobilepanel_title').css('font-size'), 10);
 
-                //console.log(p.innerHeight());
+                console.log(p.innerHeight());
 
             function resizePanel() {
                 var p = $('.rd-mobilepanel'),
@@ -229,7 +229,7 @@
                     tc = $('.tm-title-caption'),
                     st = $(document).scrollTop();
 
-                    //console.log();
+                    console.log();
 
 
                 function resize() {
@@ -305,7 +305,7 @@
 
                 var target = this.hash;
 
-                //console.log(this.hash);
+                console.log(this.hash);
 
                 if (this.hash == '') {
                     $('html, body').stop().animate({

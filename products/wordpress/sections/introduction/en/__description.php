@@ -1,5 +1,6 @@
 <h2>Introduction</h2>
 <h5>Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.</h5>
+
 <article id="whatiswordpress">
     <h3>What is WordPress CMS?</h3>
 
@@ -10,10 +11,12 @@
     <a href="http://wordpress.org/about/" target="_blank">Learn More</a>
     </p>
 </article>
+
 <article id="whatistemplate">
     <h3>What is a WordPress Template?</h3>
     <p>A WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
 </article>
+
 <article id="structure">
     <h3>Template Structure</h3>
     <p>The template package includes several folders. Let's check what's inside:</p>
@@ -138,6 +141,7 @@
         </li>
     </ul>
 </article>
+
 <article id="preparation">
     <h3>Preparation</h3>
     <h6>Before installing a WordPress website, you need to get fully prepared. We recommend you to get the following aspects covered:</h6>

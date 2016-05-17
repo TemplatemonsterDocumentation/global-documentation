@@ -50,11 +50,21 @@ class Project_View
     }*/
 
     /**
+     * Get current section
+     *
+     * @return mixed
+     */
+    public function getCurrentSection()
+    {
+        return $this->_params['section'];
+    }
+
+    /**
      * Load project sections data. Single section per page
      */
     public function loadProject()
     {
-        $currentSection = $this->_params['section'];
+        $currentSection = $this->getCurrentSection();
         $sections = $this->_model->getSectionsArray();
         $articles = $sections[$currentSection];
 

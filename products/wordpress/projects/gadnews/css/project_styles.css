@@ -31,7 +31,7 @@ h4 {
       background-position: 600px top; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/gadnews/img/header-bg.png");
+  background-image: url("../img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -65,3 +65,5 @@ body:not([data-section="introduction"]) .tm-title-caption {
 .rd-mobilepanel_toggle span::before,
 .rd-mobilepanel_toggle span {
   background-color: #000000; }
+
+/*# sourceMappingURL=project_styles.css.map */

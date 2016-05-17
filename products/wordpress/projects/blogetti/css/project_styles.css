@@ -31,7 +31,7 @@ h4 {
       background-position: 600px top; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/blogetti/img/header-bg.png");
+  background-image: url("../img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -60,3 +60,5 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #fe7646; }
   .toTop:hover {
     background: #fe9c79; }
+
+/*# sourceMappingURL=project_styles.css.map */
