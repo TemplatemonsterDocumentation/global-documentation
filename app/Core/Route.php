@@ -3,7 +3,7 @@ class Route
 {
     public $_defaultParams = array(
         'product' => 'wordpress',
-        'project' => 'blogetti',
+        'project' => 'default',
         'lang' => 'en',
         'section' => 'introduction'
     );

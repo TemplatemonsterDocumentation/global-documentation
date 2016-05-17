@@ -1,9 +1,9 @@
-	<h3>Post Slider</h3>
+	<h3>Smart Slider</h3>
 
 	<p>This widget is used to setup and display slider on the website.</p>
 
     <figure class="img-polaroid">
-        <img src="<?php echo $this->getImgPath('tm/widgets/smart-slider-widget.png'); ?>">
+        <img src="<?php echo $this->getImgPath('widgets/smart-slider-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

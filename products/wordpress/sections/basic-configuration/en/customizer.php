@@ -11,7 +11,7 @@
 </p>
 
 	<figure class="img-polaroid">
-		<img src="<?php echo $this->getImgPath('customizer/customizer.png'); ?>">
+		<img src="<?php echo $this->getImgPath('customizer/customizer.png', true); ?>">
 	</figure>
 <p>
 	Feel free to check the following <a href="index.php?project=tm&lang=ru&section=customizer-settings">link</a> to find out more details on working with customizer.

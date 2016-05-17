@@ -3,7 +3,7 @@
 	<p>This widget is used to setup and display custom posts.</p>
 
 	<figure class="img-polaroid">
-        <img src="<?php echo $this->getImgPath('/widgets/custom-posts.png'); ?>">
+        <img src="<?php echo $this->getImgPath('widgets/custom-posts.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

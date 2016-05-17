@@ -3,7 +3,7 @@
 	<p>This widget is used to setup and display slider on the website.</p>
 
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/smart-slider-widget.png">
+        <img src="<?php echo $this->getImgPath('widgets/smart-slider-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

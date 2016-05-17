@@ -66,6 +66,12 @@ class Project_View
     {
         $currentSection = $this->getCurrentSection();
         $sections = $this->_model->getSectionsArray();
+
+        if(!isset($sections[$currentSection])){
+            echo 'Section not found';
+            return false;
+        }
+
         $articles = $sections[$currentSection];
 
         new Section_View($currentSection, $articles, $this->_helper);

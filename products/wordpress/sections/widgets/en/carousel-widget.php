@@ -3,7 +3,7 @@
 	<p>Widget is used to display and setup slider carousel on the website.</p>
 
 	<figure class="img-polaroid">
-        <img src="<?php echo $this->getImgPath('tm/widgets/carousel-widget.png', true); ?>">
+        <img src="<?php echo $this->getImgPath('widgets/carousel-widget.png', true); ?>">
     </figure>
 
 	<ul class="marked-list">

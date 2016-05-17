@@ -1,0 +1,44 @@
+{
+    "textLogo": "",
+    "title": "Magento 1.9.x",
+    "titleCaption": "",
+    "author": "",
+    "sections": {
+        "introduction": [],
+        "complete-installation": [
+            "creating-database",
+            "import-database",
+            "uploading",
+            "ps_engine_install"
+        ],
+        "theme-installation": [
+            "template-configuration",
+            "logo-configuration",
+            "pages-configuration",
+            "static-blocks-configuration"
+        ],
+        "standard-extensions-settings": [
+            "currency-module",
+            "polls-module"
+        ],
+        "tm-extensions-settings": [
+            "google-map",
+            "facebook-like-box",
+            "instagram-module",
+            "twitter-module",
+            "newsletter-popup",
+            "special-price-countdown",
+            "product-list-gallery"
+        ],
+        "third-party-extensions-settings": [
+            "olark-live-chat",
+            "add-this",
+            "blog",
+            "mega-menu",
+            "parallax",
+            "background-video",
+            "cookies-policy"
+        ],
+        "conclusion": []
+    }
+}

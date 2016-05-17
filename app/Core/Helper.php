@@ -166,6 +166,7 @@ class Helper
      * Get files path
      *
      * @param $file
+     * @param bool|false $project
      * @return string
      */
     public function getImgPath($file, $project = false)

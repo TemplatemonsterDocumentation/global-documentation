@@ -1,0 +1,51 @@
+{
+    "textLogo": "",
+    "title": "Default",
+    "titleCaption": "",
+    "author": "",
+    "sections": {
+        "introduction": [],
+        "template-installation":[
+            "engine-installation",
+            "manual-install-blog-theme"
+        ],
+        "posts-categories": [
+            "blog-post",
+            "adding-category",
+            "post-formats"
+        ],
+        "pages":[
+            "page-settings-blog-theme"
+        ],
+        "widgets":[
+            "widgets-installation",
+            "about-author-widget",
+            "categories-tiles-widget",
+            "carousel-slider-widget",
+            "instagram-widget",
+            "slider-widget",
+            "subscribe-and-social-widget",
+            "custom-post-widget",
+            "facebook-page-widget",
+            "twitter-widget",
+            "youtube-subscribe-widget"
+        ],
+        "basic-configuration":[
+            "menu-and-navigation",
+            "customizer"
+        ],
+        "customizer-settings":[
+            "general-site-settings",
+            "color-scheme",
+            "typography",
+            "header",
+            "menu-locations",
+            "sidebar",
+            "footer",
+            "blog-settings",
+            "widgets",
+            "static-front-page",
+            "misc"
+        ]
+    }
+}

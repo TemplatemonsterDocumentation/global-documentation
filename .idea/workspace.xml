@@ -5,48 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="887c0e57-5a16-46b7-b76a-87ee1443d8d7" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\customizer-settings\en\sidebar\article.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Article_Model.php" afterPath="$PROJECT_DIR$/app/Core/Article_Model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Article_View.php" afterPath="$PROJECT_DIR$/app/Core/Article_View.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Controller.php" afterPath="$PROJECT_DIR$/app/Core/Controller.php" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\sections\widgets\en\slider-widget-blogetti.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Helper.php" afterPath="$PROJECT_DIR$/app/Core/Helper.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Project_View.php" afterPath="$PROJECT_DIR$/app/Core/Project_View.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Section_View.php" afterPath="$PROJECT_DIR$/app/Core/Section_View.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/introduction/en/__description.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/introduction/en/__description.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/article.php" afterPath="$PROJECT_DIR$/templates/article.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bootstrap.php" afterPath="$PROJECT_DIR$/app/bootstrap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grid.css" afterPath="$PROJECT_DIR$/css/grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.rd-navbar.js" afterPath="$PROJECT_DIR$/js/jquery.rd-navbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/main.php" afterPath="$PROJECT_DIR$/templates/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/Route.php" afterPath="$PROJECT_DIR$/app/Core/Route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/carousel-slider-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/carousel-slider-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/categories-tiles-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/categories-tiles-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/custom-post-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/widgets/en/custom-post-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php" afterPath="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/facebook-page-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/facebook-page-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/instagram-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/instagram-widget.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/includes/nav.php" afterPath="$PROJECT_DIR$/templates/includes/nav.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/dailysports/css/project_styles.css.map" afterPath="$PROJECT_DIR$/products/wordpress/projects/dailysports/css/project_styles.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/fairystyle/css/project_styles.css.map" afterPath="$PROJECT_DIR$/products/wordpress/projects/fairystyle/css/project_styles.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/kustrix/css/project_styles.css.map" afterPath="$PROJECT_DIR$/products/wordpress/projects/kustrix/css/project_styles.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/stylepark/css/project_styles.css.map" afterPath="$PROJECT_DIR$/products/wordpress/projects/stylepark/css/project_styles.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/dailysports/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/dailysports/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/fairystyle/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/fairystyle/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/fitnesys/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/fitnesys/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/gadnews/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/gadnews/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/kingnews/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/kingnews/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/kustrix/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/kustrix/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/stylepark/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/stylepark/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/wildride/css/project_styles.css" afterPath="$PROJECT_DIR$/products/wordpress/projects/wildride/css/project_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/dailysports/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/dailysports/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/fairystyle/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/fairystyle/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/fitnesys/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/fitnesys/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/gadnews/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/gadnews/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/kingnews/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/kingnews/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/kustrix/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/kustrix/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/stylepark/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/stylepark/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/wildride/css/project_styles.scss" afterPath="$PROJECT_DIR$/products/wordpress/projects/wildride/css/project_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/section.json" afterPath="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/section.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/section.json" afterPath="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/section.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/section.php" afterPath="$PROJECT_DIR$/templates/section.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/style.scss" afterPath="$PROJECT_DIR$/sass/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/smart-slider-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/smart-slider-widget.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/youtube-subscribe-widget.php" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/youtube-subscribe-widget.php" />
     </list>
     <ignored path="global-documentation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,91 +42,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Helper.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Core/Helper.php">
+      <file leaf-file-name="menu-and-navigation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/menu-and-navigation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.153846">
-              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+            <state vertical-scroll-proportion="-20.76923">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/section.php">
+      <file leaf-file-name="customizer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.1538463">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="section.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/section.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.846154">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Nav.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Core/Nav.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.923077">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/includes/nav.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.076923">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Section_Model.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Core/Section_Model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.461538">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Article_View.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Core/Article_View.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.884615">
-              <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Article_Model.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Core/Article_Model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.73134327">
-              <caret line="150" column="27" selection-start-line="150" selection-start-column="27" selection-end-line="150" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.53731346">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,26 +70,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/static-front-page.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/typography.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/widgets.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/blog-settings.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/footer.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/breadcrumbs.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/color-scheme.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/header.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/logo-and-favicon.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/mailchimp.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/menu-locations.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/page-layout.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/sidebar.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/site-identity.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/social-links.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/static-front-page.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/typography.php" />
-        <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/widgets.php" />
         <option value="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wordpress.php" />
-        <option value="$PROJECT_DIR$/app/Core/Route.php" />
         <option value="$PROJECT_DIR$/app/Core/View.php" />
         <option value="$PROJECT_DIR$/app/Core/Controller.php" />
         <option value="$PROJECT_DIR$/app/bootstrap.php" />
@@ -199,7 +84,6 @@
         <option value="$PROJECT_DIR$/products/wordpress/projects/fairystyle/css/project_styles.scss" />
         <option value="$PROJECT_DIR$/products/wordpress/projects/dailysports/css/project_styles.scss" />
         <option value="$PROJECT_DIR$/products/wordpress/projects/blogetti/css/project_styles.scss" />
-        <option value="$PROJECT_DIR$/app/Core/Article_View.php" />
         <option value="$PROJECT_DIR$/templates/article.php" />
         <option value="$PROJECT_DIR$/products/wordpress/sections/introduction/en/__description.php" />
         <option value="$PROJECT_DIR$/products/wordpress/projects/wildride/config.json" />
@@ -211,12 +95,32 @@
         <option value="$PROJECT_DIR$/products/wordpress/sections/customizer-settings/section.json" />
         <option value="$PROJECT_DIR$/app/Core/Project_Model.php" />
         <option value="$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/section.json" />
-        <option value="$PROJECT_DIR$/app/Core/Project_View.php" />
         <option value="$PROJECT_DIR$/app/Core/Nav.php" />
-        <option value="$PROJECT_DIR$/app/Core/Helper.php" />
         <option value="$PROJECT_DIR$/app/Core/Section_View.php" />
-        <option value="$PROJECT_DIR$/templates/includes/nav.php" />
         <option value="$PROJECT_DIR$/app/Core/Article_Model.php" />
+        <option value="$PROJECT_DIR$/app/Core/Route.php" />
+        <option value="$PROJECT_DIR$/products/magento/projects/default/config.json" />
+        <option value="$PROJECT_DIR$/templates/includes/nav.php" />
+        <option value="$PROJECT_DIR$/products/magento/sections/complete-installation/en/creating-database.php" />
+        <option value="$PROJECT_DIR$/products/magento/sections/complete-installation/en/import-database.php" />
+        <option value="$PROJECT_DIR$/products/magento/sections/complete-installation/de/creating-database.php" />
+        <option value="$PROJECT_DIR$/products/magento/sections/complete-installation/de/import-database.php" />
+        <option value="$PROJECT_DIR$/products/magento/sections/complete-installation/de/uploading.php" />
+        <option value="$PROJECT_DIR$/app/Core/Project_View.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/projects/default/config.json" />
+        <option value="$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json" />
+        <option value="$PROJECT_DIR$/app/Core/Helper.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/facebook-page-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/smart-slider-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/youtube-subscribe-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/categories-tiles-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/carousel-slider-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/instagram-widget.php" />
+        <option value="$PROJECT_DIR$/app/Core/Article_View.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/widgets/en/custom-post-widget.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/menu-and-navigation.php" />
+        <option value="$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php" />
       </list>
     </option>
   </component>
@@ -284,150 +188,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="customizer-settings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="global-documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -442,18 +202,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\default\img" />
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\magento\projects\default" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\wildride\sections\introduction\ru" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\wildride\sections" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\gadnews" />
-      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\dailysports" />
-      <recent name="C:\OpenServer\domains\localhost\global-documentation\app\views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\global-documentation\products\magento" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\wildride\sections\basic-configuration\ru" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\products\wordpress\projects\wildride" />
       <recent name="C:\OpenServer\domains\localhost\global-documentation\templates" />
-      <recent name="C:\OpenServer\domains\localhost\global-documentation\app" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Remote Debug.Remote">
@@ -507,24 +267,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1977612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1977612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1922" y="25" width="1209" height="1052" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1922" y="25" width="1209" height="1052" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -562,209 +322,36 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="312" />
+      <option name="time" value="319" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/site-identity.php">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/complete-installation/en/ps_engine_install.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0769231">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/social-links.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7692308">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/static-front-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0769231">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/typography.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0769231">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/ru/widgets.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7692308">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/en/mailchimp-for-wordpress.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="79" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="79" />
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_2.php">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/complete-installation/en/import-database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3432836">
-          <caret line="484" column="9" selection-start-line="484" selection-start-column="9" selection-end-line="484" selection-end-column="9" />
+        <state vertical-scroll-proportion="-6.230769">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Route.php">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/complete-installation/en/creating-database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43398392">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state vertical-scroll-proportion="-19.384615">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24799082">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/wildride/css/project_styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.24080268">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/wildride/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4339623">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/stylepark/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3773584">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/kingnews/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7169812">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/gadnews/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7169812">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/fitnesys/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4150944">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/fairystyle/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7169812">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/dailysports/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7169812">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/kustrix/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17061612">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/css/project_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21327014">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22732492">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/structural.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0189521">
-          <caret line="135" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0413318">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/introduction/en/__description.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78530425">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-          <folding>
-            <element signature="n#article#3;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.rd-navbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.66220737">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.566038">
-          <caret line="428" column="23" selection-start-line="428" selection-start-column="23" selection-end-line="428" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/extras/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/complete-installation/en/__description.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -772,7 +359,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/introduction/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/conclusion/en/__description.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -780,23 +367,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/pages/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/introduction/en/__description.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.307693">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state vertical-scroll-proportion="86.26923">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/plugins/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/posts-categories/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/en/__description.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -804,7 +383,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/shop/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/en/currency-module.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -812,7 +391,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/template-installation/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/en/polls-module.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -820,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/en/sidebar-home-position.php">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/theme-installation/en/template-configuration.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -828,7 +407,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/theme-installation/en/static-blocks-configuration.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -836,144 +415,322 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/theme-installation/en/pages-configuration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4466131">
-          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/theme-installation/en/logo-configuration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.1270903">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/wildride/config.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/theme-installation/en/__description.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33869115">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/third-party-plugins/section.json">
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/__description.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9586682">
-          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/add-this.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/background-video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/cloud-zoom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/mega-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/cookies-policy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/olark-live-chat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/parallax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/facebook-like-box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="19.115385">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/google-map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/instagram-module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/newsletter-popup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/product-list-gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/special-price-countdown.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/twitter-module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/__description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Core/Project_View.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43398392">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.31228474">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Core/Project_Model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.961538">
-          <caret line="123" column="5" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+        <state vertical-scroll-proportion="-1.293915">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/main.php">
+    <entry file="file://$PROJECT_DIR$/app/Core/Route.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25602755">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <marker date="1463474713299" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1463474713299" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1463474713299" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1463474713299" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1463474713299" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/customizer-settings/section.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.846154">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.1653272">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Article_View.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.884615">
-          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.35132033">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/default/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.923077">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.35132033">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Nav.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/__description.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Section_Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.461538">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Core/Helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.153846">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.56027555">
+          <caret line="188" column="7" selection-start-line="188" selection-start-column="7" selection-end-line="188" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Section_View.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/facebook-page-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33295062">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.4615386">
+          <caret line="5" column="94" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/section.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/smart-slider-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1538463">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.4615386">
+          <caret line="5" column="93" selection-start-line="5" selection-start-column="93" selection-end-line="5" selection-end-column="93" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/includes/nav.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/youtube-subscribe-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.076923">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.24799082">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Article_Model.php">
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/about-author-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73134327">
-          <caret line="150" column="27" selection-start-line="150" selection-start-column="27" selection-end-line="150" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.10332951">
+          <caret line="5" column="93" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4615386">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/carousel-slider-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/carousel-slider-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/projects/blogetti/sections/widgets/en/instagram-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/categories-tiles-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10332951">
+          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/widgets/en/custom-post-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24799082">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/Article_View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41561425">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/menu-and-navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.76923">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/wordpress/sections/basic-configuration/en/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53731346">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
