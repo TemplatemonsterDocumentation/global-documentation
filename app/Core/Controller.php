@@ -11,6 +11,6 @@ class Controller
     public function actionIndex()
     {
         $project = new Project_Model($this->_params);
-        $view = new View($this->_params, $project);
+        $view = new Project_View($this->_params, $project);
     }
 }

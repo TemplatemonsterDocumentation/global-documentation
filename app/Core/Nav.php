@@ -67,4 +67,5 @@ class Nav
         return new Article_Model($articleId, $sectionId, $this->_helper);
     }
 
+
 }

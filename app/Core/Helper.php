@@ -7,15 +7,65 @@ class Helper
         $this->_params = $params;
     }
 
+    /**
+     * Get project name from params
+     *
+     * @return mixed
+     */
     public function getProject()
     {
         return $this->_params['project'];
     }
 
+    /**
+     * Get product name from params
+     *
+     * @return mixed
+     */
     public function getProduct()
     {
         return $this->_params['product'];
     }
+
+    /**
+     * Build request from params
+     *
+     * @return string
+     */
+    public function getRequest()
+    {
+        return http_build_query($this->_params);
+    }
+
+    /**
+     * Update params array
+     *
+     * @param $param
+     * @param $value
+     * @return bool
+     */
+    public function setParam($param, $value)
+    {
+        $this->_params[$param] = $value;
+        return true;
+    }
+
+    /**
+     * Build query based on params
+     *
+     * @param array $queryParams
+     * @return string
+     */
+    public function buildQuery(array $queryParams)
+    {
+        foreach($queryParams as $param => $value){
+            $this->setParam($param, $value);
+        }
+
+        $request = '?' . $this->getRequest();
+        return $request;
+    }
+
 
     /**
      * Get section path

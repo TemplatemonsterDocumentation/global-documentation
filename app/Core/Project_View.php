@@ -1,5 +1,5 @@
 <?php
-class View
+class Project_View
 {
     public $_params;
     public $_model;
@@ -32,7 +32,10 @@ class View
         }
     }
 
-    public function loadProject()
+    /**
+     * Loop through sections and load on a single page
+     */
+    /*public function loadProject()
     {
         $sections = $this->_model->getSectionsList();
         $articlesArray = $this->_model->getArticlesList();
@@ -44,6 +47,18 @@ class View
 
             new Section_View($currentSectionId, $articles, $this->_helper);
         }
+    }*/
+
+    /**
+     * Load project sections data. Single section per page
+     */
+    public function loadProject()
+    {
+        $currentSection = $this->_params['section'];
+        $sections = $this->_model->getSectionsArray();
+        $articles = $sections[$currentSection];
+
+        new Section_View($currentSection, $articles, $this->_helper);
     }
 
     /**
@@ -167,7 +182,6 @@ class View
      */
     public function getProjectUrl()
     {
-        $url = $_SERVER['REQUEST_URI'];
-        return $url;
+        return $this->_helper->buildQuery(['section'=>'introduction']);
     }
 }

@@ -76,7 +76,7 @@ class Project_Model
      * @return array
      * @throws Exception
      */
-    private function getSectionsArray()
+    public function getSectionsArray()
     {
         $sections = [];
         try{
