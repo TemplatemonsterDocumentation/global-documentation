@@ -63,7 +63,7 @@
                 </select>
             </div> -->
         </div>
-        <p class="copyright">TemplateMonster ©
+        <p class="copyright">TemplateMonster &copy;
             <a href="http://www.templatemonster.com/privacy-policy.php">Privacy Policy</a>
         </p>
     </div>

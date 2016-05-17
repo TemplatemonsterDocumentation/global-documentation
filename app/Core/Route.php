@@ -4,7 +4,8 @@ class Route
     public $_defaultParams = array(
         'product' => 'wordpress',
         'project' => 'blogetti',
-        'lang' => 'en'
+        'lang' => 'en',
+        'section' => 'introduction'
     );
 
     public function __construct()
@@ -15,7 +16,7 @@ class Route
     public function start()
     {
         $params = $this->getParams();
-        new Controller($params);
+        $controller = new Controller($params);
     }
 
     /**

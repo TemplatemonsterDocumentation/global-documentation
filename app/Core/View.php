@@ -24,7 +24,7 @@ class View
      */
     public function loadLayout()
     {
-        $templateFile =  $this->_helper->getTemplatesPath() . DS . 'template.php';
+        $templateFile =  $this->_helper->getTemplatesPath() . DS . 'main.php';
         if(file_exists($templateFile)){
             include ($templateFile);
         } else {
