@@ -9,15 +9,15 @@
 <ol class="index-list">
 	<li>
 		<p>Öffnen Sie den Tab <strong>"Database (Datenbank)"</strong>, um zur Liste der Datenbanken zu gelangen.</p>
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		<p>Geben Sie den Namen der <strong>Datenbank</strong> ein. Klicken Sie den Button <strong>"Erstellen"</strong>.</p>
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		<p>Man kann jetzt die Datenbank in der Liste sehen.  Klicken Sie auf den Namen, um den Zugang zur Datenbank zu erhalten.</p>
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg') ?>" alt="" /></figure>
 	</li>
 </ol>
 

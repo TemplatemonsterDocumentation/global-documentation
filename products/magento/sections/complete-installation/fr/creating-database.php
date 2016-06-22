@@ -8,15 +8,15 @@
 <ol class="index-list">
 	<li>
 		Ouvrez l'onglet <strong>"Database"</strong>, vous verrez une liste de bases de données.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Entrez le nom de votre base de données. Cliquez sur le bouton <strong>"Create"</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		<p>Votre base de données apparait dans la liste. Pour entrer dans la base de données, cliquez sur son nom dans la liste.</p>
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg') ?>" alt="" /></figure>
 	</li>
 </ol>
 

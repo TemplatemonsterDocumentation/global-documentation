@@ -1,6 +1,6 @@
 <h3>Video su sfondo</h3>
 Per implementare un video sullo sfondo è necessario utilizzare il plugin <a href="https://github.com/pupunzi/jquery.mb.YTPlayer/wiki" target="_blank">jquery.mb.YTPlayer</a> che permette di aggiungere video da YouTube. Il video può essere aggiunto utilizzando il blocco statico, incluso il file di script <strong>jquery.mb.YTPlayer.js</strong>, e aggiungendo gli attributi corrispondenti per l'elemento che riprodurrà il video.
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg') ?>" alt="" /></figure>
 <p>Guardiamo nel dettaglio i parametri di base per l'attributo <strong>data-property</strong>:</p>
 <table  class="options-table">
 	<tr>

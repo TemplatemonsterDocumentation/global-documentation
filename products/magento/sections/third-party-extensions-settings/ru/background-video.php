@@ -1,7 +1,7 @@
 <h3>Фоновое видео</h3>
 Для реализации фонового видео нужно использовать плагин <a class="" href="https://github.com/pupunzi/jquery.mb.YTPlayer/wiki" target="_blank">jquery.mb.YTPlayer</a>, который позволяет отображать YouTube видео.
 Видео можно добавить с помощью статического блока, подключив файл скрипта <strong>jquery.mb.YTPlayer.js</strong> и добавив соответствующий набор атрибутов для элемента, в котором это видео будет отображаться.
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg') ?>" alt="" /></figure>
 <p>Выделим основные параметры для атрибута <strong>data-property</strong>:</p>
 <table  class="options-table">
 	<tr>

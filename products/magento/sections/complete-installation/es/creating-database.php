@@ -6,13 +6,13 @@
 <p>Con la herramienta phpMyAdmin usted ser&aacute; capaz de crear una nueva base de datos en 3 sencillos pasos (vea las siguientes diapositivas): </p>
 <ol class="index-list">
 	<li>
-		Abra la pesta&ntilde;a <strong>"Database"</strong> , ver&aacute; la lista de bases de datos.<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg'); ?>" alt="" /></figure>
+		Abra la pesta&ntilde;a <strong>"Database"</strong> , ver&aacute; la lista de bases de datos.<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
-		Introduzca el nombre de la base de datos. Haga clic en el bot&oacute;n <strong>"Create"</strong>.<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg'); ?>" alt="" /></figure>
+		Introduzca el nombre de la base de datos. Haga clic en el bot&oacute;n <strong>"Create"</strong>.<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
-		<p>Su base de datos ha aparecido en la lista. Con el fin de entrar en la base de datos, haga clic en su nombre en la lista.</p><figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg'); ?>" alt="" /></figure>
+		<p>Su base de datos ha aparecido en la lista. Con el fin de entrar en la base de datos, haga clic en su nombre en la lista.</p><figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg') ?>" alt="" /></figure>
 	</li>
 </ol>
 

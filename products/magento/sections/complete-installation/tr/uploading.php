@@ -5,7 +5,7 @@
 <ol class="index-list">
   <li><strong>'unzip.php'</strong> ve <strong>'fullpackage.zip'</strong> dosyalarını seçin ve sunucunuza yükleyin(<a href="/help/how-upload-files-server-2.html" target="_blank">Sunucuya dosya nasıl yüklenir.</a>).</li>
   <li>Sunucunuzda 'unzip.php' dosya yolunuzu yazın (http://sizin_domain_adınız/unzip.php) kendi <abbr title="Internet Explorer, Google Chrome, Mozilla Firefox, Opera, Safari vb.">internet tarayıcınıza</abbr>.</li>
-  <li>Aşşağıda bulunan ekranı görmelisiniz:<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/complete-install-unzip-php.jpg'); ?>" alt="Unzip.php initial screen."></figure>
+  <li>Aşşağıda bulunan ekranı görmelisiniz:<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/complete-install-unzip-php.jpg') ?>" alt="Unzip.php initial screen."></figure>
   </li>
   <li><strong>'Choose your zip file'</strong> kutusundan lütfen <strong>fullpackage.zip</strong> dosyasını seçin.</li>
   <li><strong>'Unzip to'</strong> dosyaları ayıklamak istediğiniz dizini belirtin.</li>

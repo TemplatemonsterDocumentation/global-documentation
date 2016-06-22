@@ -1,7 +1,7 @@
 <h3>Galerie de la liste de produits</h3>
 <p class="indent">Le module vous permet d'afficher les vignettes du produit avec son image principale. Dans le thème par défaut, les vignettes sont affichées sous l'image principale du produit, mais dans nos thèmes les vignettes s'affichent selon l'aménagement PSD.</p>
 <p>Ce module peut être activé / désactivé au panneau d'administration Magento, dans <strong>System > Configuration > Templatemonster > Product List Gallery</strong>.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/productgallery.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/productgallery.jpg') ?>" alt="" /></figure>
 <p>Le module comprend quatre sections de paramètres: <strong>Vue en Liste</strong>, <strong>Vue Grille </strong>, <strong>Vue en Liste de la page d'accueil</strong>, et <strong>Vue Grille de la page d'accueil</strong>.<br>
 En <strong>Vue en Liste de la page d'accueil</strong> et <strong>Vue Grille de la page d'accueil</strong> vous pouvez configurer l'affichage de la galerie sur la page d'accueil de votre boutique. Deux autres sections permettent de configurer l'affichage de la galerie sur les pages de catégories.</p>
 <p>Toutes les sections comprennent les mêmes paramètres:</p>			

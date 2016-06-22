@@ -5,23 +5,23 @@
 <ol class="index-list">
 	<li>
 		Перейдите в админ панель Magento. Кликните пункт меню CMS и в выпадающем меню перейдите к пункту <strong>Widgets</strong>. На новой странице нажмите на кнопку <strong>Add new widget instance</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		В выпадающем меню <strong>Type</strong> выберите пункт <strong>Olark Live Chat</strong>, в меню <strong>Design Package/Theme</strong> выберите скин вашего магазина, на котором должен отображаться чат. Нажмите на кнопку <strong>Continue</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Теперь нам нужно настроить отображение онлайн чата. Для начала, в поле <strong>Widget Instance Title</strong> впишите название виджета, которое будет отображаться в админ панели. В поле <strong>Assign to Store Views</strong> вы выбираете представления магазина, для которых будет отображаться ваш чат. В блоке <strong>Layout Updates</strong> нажмите на кнопку <strong>Add Layout Update</strong>. В поле <strong>Display On</strong> вам необходимо выбрать <strong>All pages</strong>. Для поля <strong>Block Reference</strong> выберите значение <strong>Main Content Area</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-3.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Перейдите по ссылке <strong>Widget Options</strong> в левом сайдбаре. Справа у вас будет поле, в которое требуется ввести <strong>Olark Site-ID</strong>. После внесения вашего <strong>Olark Site-ID</strong> нажмите на кнопку <strong>Save</strong>
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-4.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-4.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		В новом окне перейдите на пункт меню <strong>System -> Cache Management</strong>. В блоке <strong>Cache Storage Management</strong> выделите пункты <strong>Layouts</strong> и <strong>Blocks HTML output</strong>. Убедитесь, что в поле <strong>Actions</strong> выбран пункт <strong>Refresh</strong>, и нажмите <strong>Submit</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-5.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-5.jpg') ?>" alt="" /></figure>
 	</li>
 </ol>						
 <p><strong>Всё сделано!</strong> Теперь вы можете перейти на ваш сайт и увидеть виджет онлайн чата.</p>

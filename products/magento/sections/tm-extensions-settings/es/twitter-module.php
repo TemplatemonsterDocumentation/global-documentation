@@ -1,7 +1,7 @@
 <h3>M&oacute;dulo de Twitter</h3>
 	<p>El m&oacute;dulo de Twitter le permite mostrar los tweets que se muestran en su tienda.						<br>
 	Todas las opciones de configuraci&oacute;n est&aacute;n disponibles en el Panel de Administraci&oacute;n en la secci&oacute;n <strong>System > Configuration > Templatemonster > Twitter</strong>.</p>
-	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg'); ?>" alt="" /></figure>
+	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg') ?>" alt="" /></figure>
 	<p>El m&oacute;dulo tiene las siguientes opciones:</p>			
 	<table  class="options-table">
 		<tr>

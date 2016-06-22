@@ -7,15 +7,15 @@
 <ol class="index-list">
 	<li>
 		<strong>"Veritabanı"</strong> sekmesini açın, veritabanı listesini görüntüleyin.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Veritabanı ismini yazın. <strong>"Oluştur"</strong> yazısına tıklayın.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Veritabanınız artık listede yerini aldı. Veritabanı bilgilerinizi görmek için, ismine tıklayın.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg') ?>" alt="" /></figure>
 	</li>
 </ol>
 

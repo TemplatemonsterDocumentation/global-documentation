@@ -6,7 +6,7 @@ foreach($sections as $key => $section):
     $request = $this->_helper->buildQuery(['section' => $section->getSectionId()]);
     ?>
     <li>
-        <a href="<?php echo $request ?>" class="section_link"
+        <a href="<?php echo $this->getSectionLink($request) ?>" class="section_link"
            data-key="<?php echo $key; ?>"
            data-id="<?php echo $section->getSectionId(); ?>"><?php echo $section->getLabel(); ?></a>
         <?php if(count($articles[$key]) > 0): ?>
@@ -15,7 +15,7 @@ foreach($sections as $key => $section):
             $article = $this->getArticleObject($articles[$key][$i], $section->getSectionId());
             ?>
             <li class="article">
-                <a href="<?php echo $request . '#' . $article->getArticleId(); ?>"
+                <a href="<?php echo $this->getArticleLink($request, $article); ?>"
                    class="article_link"
                    data-sectionId="<?php echo $key; ?>"
                    data-id="<?php echo $article->getArticleId(); ?>"

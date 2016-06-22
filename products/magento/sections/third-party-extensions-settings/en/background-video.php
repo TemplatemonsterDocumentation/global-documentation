@@ -1,6 +1,6 @@
 <h3>Background Video</h3>
 In order to implement the background video, you need to use the<a href="https://github.com/pupunzi/jquery.mb.YTPlayer/wiki" target="_blank">jquery.mb.YTPlayer</a> plug-in, which allows to display YouTube video.Video can be added by means of the static block, including the script file <strong>jquery.mb.YTPlayer.js</strong> and by adding corresponding attributes set for the element which will display the video.
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg') ?>" alt="" /></figure>
 <p>Let’s emphasize basic parameters for the <strong>data-property</strong> attribute:</p>
 <table  class="options-table">
 	<tr>

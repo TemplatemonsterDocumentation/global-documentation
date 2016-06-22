@@ -4,18 +4,18 @@
 
 <ol class="index-list">
 	<li>L'affichage de chaque menu déroulant peut être configuré sur la page de paramètres d'une catégorie, qui est situé dans <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Pour ajouter un bloc statique au menu déroulant, vous devez l'ajouter dans  <strong>CMS > Static Blocks</strong> et une fois qu'il a été créé, ajouter ce bloc au menu.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Le module permet d'ajouter l'étiquette pour n'importe quelle catégorie. Vous pouvez le faire dans le menu des catégories <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-3.jpg') ?>" alt="" /></figure>
 	</li>		
 	<li>
 		Afin de changer la quantité de colonnes dans les sous-catégories vous devez changer la Valeur du nombre de colonnes dans le menu <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-4.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-4.jpg') ?>" alt="" /></figure>
 	</li>			
 </ol>

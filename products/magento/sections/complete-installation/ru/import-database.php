@@ -5,9 +5,9 @@
 <p>Для установки файла с дампом выполните следующие действия:</p>
 <ol class="index-list">
 	<li>В панеле управления базами данных (PhpMyAdmin) выберите ту базу данных, которую планируете использовать для установки Magento Commerce (Вы создали её выполнив действия предыдущего пункта инструкции).
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-1.jpg'); ?>" alt="" /></figure></li>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-1.jpg') ?>" alt="" /></figure></li>
 	<li>Перейдите на вкладку <strong>"Import"</strong> и нажмите кнопку <strong>"Browse"</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-2.jpg'); ?>" alt="" /></figure></li>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-2.jpg') ?>" alt="" /></figure></li>
 	<li>Перейдите в папку <strong>"/sources/sample_data"</strong> вашего шаблона и выберите файл <strong>dump.sql.gz.</strong> Нажмите кнопку <strong>"GO"</strong>. 
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-3.jpg'); ?>" alt="" /></figure> Процесс импортирования может занять несколько минут.</li>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-3.jpg') ?>" alt="" /></figure> Процесс импортирования может занять несколько минут.</li>
 </ol>

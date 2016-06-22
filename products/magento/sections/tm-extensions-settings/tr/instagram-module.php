@@ -2,7 +2,7 @@
 <p>Instagram modülü sayesinde, maðazanýzda Instagram galerinizi gösterebilirsiniz.<br>
 Bu modülde iki tür galeri görüntülenebilir: kullanýcý galerisi ve etiket galerisi.</p>						
 <p>Tüm ayarlar yönetici panelindeki <strong>System > Configuration > Templatemonster > Instagram</strong> kýsmýndan yapýlabilir.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/instagram.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/instagram.jpg') ?>" alt="" /></figure>
 <p>Modül seçenekleri þu þekildedir:</p>			
 <table  class="options-table">
 	<tr>

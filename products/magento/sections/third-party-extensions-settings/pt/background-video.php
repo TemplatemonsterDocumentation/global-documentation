@@ -1,7 +1,7 @@
 <h3>Background Video</h3>
 Para implementar o vídeo de fundo você precisar usar o plugin <a href="https://github.com/pupunzi/jquery.mb.YTPlayer/wiki" target="_blank">jquery.mb.YTPlayer</a>, que exibe vídeos do YouTube.
 			O vídeo pode ser incluído através do bloco estático, ao incluir o arquivo <strong>jquery.mb.YTPlayer.js</strong> e os atributos correspondentes para exibir o vídeo.
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg') ?>" alt="" /></figure>
 <p>Vamos enfatizar o parâmetros báscos do atributo <strong>data-property</strong>:</p>
 <table  class="options-table">
 	<tr>

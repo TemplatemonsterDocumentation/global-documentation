@@ -2,7 +2,7 @@
 <p>El m&oacute;dulo de Instagram le permite mostrar la galer&iacute;a Instagram en su tienda.<br>
 Este m&oacute;dulo le permite mostrar dos tipos de galer&iacute;as: galer&iacute;a de usuario y una galer&iacute;a de etiquetas.</p>						
 <p>Todas las opciones de configuraci&oacute;n est&aacute;n disponibles en el Panel de Administraci&oacute;n en la secci&oacute;n <strong>System > Configuration > Templatemonster > Instagram</strong>.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/instagram.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/instagram.jpg') ?>" alt="" /></figure>
 <p>El m&oacute;dulo tiene las siguientes opciones:</p>			
 <table  class="options-table">
 	<tr>

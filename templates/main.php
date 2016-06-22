@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title></title>
+    <title><?php echo $this->getProjectTextLogo(); ?></title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no"/>
     <link rel="icon" href="<?php echo $this->getProjectPath('img/favicon_' . $this->getProjectName() . '.ico'); ?>"

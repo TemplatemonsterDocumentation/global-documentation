@@ -1,7 +1,7 @@
 <h3>Facebook like box</h3>
 <p>Bu modül sayesinde Magento maðazanýzda bir Facebook beðeni kutusu gösterebilirsiniz.			<br>			
 Genel ayarlar için Magento Yönetici Paneli'ndeki <strong>System > Configuration > Templatemonster > Facebook</strong> kýsmýný kullanýnýz.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg') ?>" alt="" /></figure>
 <p>Modül seçenekleri þu þekildedir:</p>			
 <table class="options-table">
 	<tr>

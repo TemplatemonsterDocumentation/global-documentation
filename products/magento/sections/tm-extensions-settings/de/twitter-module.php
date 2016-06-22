@@ -1,6 +1,6 @@
 <h3>Twitter module</h3>
 	<p>Twitter Modul ermöglicht Tweets in Ihrem Online-Shop anzuzeigen. <br>Alle Steuerungsoptionen sind im Control Panel in der Sektion <strong>System > Configuration > Templatemonster > Twitter</strong> verfügbar.</p>
-	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg'); ?>" alt="" /></figure>
+	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg') ?>" alt="" /></figure>
 	<p>Lassen Sie uns die Moduloptionen anschauen:</p>			
 	<table  class="options-table">
 		<tr>

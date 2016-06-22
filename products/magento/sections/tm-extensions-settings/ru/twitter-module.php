@@ -1,6 +1,6 @@
 <h3>Twitter module</h3>
 <p>Twitter модуль позволяет отобразить ленту твитов в вашем магазине. <br>Все опции управления доступны в админ панели, в секции <strong>System > Configuration > Templatemonster > Twitter</strong>.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg') ?>" alt="" /></figure>
 <p>Рассмотрим опции модуля:</p>			
 <table  class="options-table">
 	<tr>

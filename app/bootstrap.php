@@ -4,9 +4,10 @@
  * @TODO Move classes to subfolders
  */
 spl_autoload_register(function ($class) {
-    include 'core/' . $class . '.php';
+    include __NAMESPACE__ . $class . '.php';
 });
 
-new Route();
+new Core\Route();
+
 
 

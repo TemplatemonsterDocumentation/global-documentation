@@ -6,7 +6,7 @@
 <ol class="index-list">
   <li>Seleccione los ficheros <strong>'unzip.php'</strong> y <strong>'fullpackage.zip'</strong> y súbalos a su servidor ( <a href="/help/es/how-upload-files-server-2.html" target="_blank">¿Cómo se puede subir ficheros al servidor? </a>)</li>
   <li>Escriba la ruta de acceso al fichero <strong>'unzip.php'</strong> en el servidor (http://su_dominio/unzip.php) en su navegador web.</li>
-  <li>Usted va a obtener la siguiente pantalla:<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/complete-install-unzip-php.jpg'); ?>" alt="Unzip.php initial screen."></figure>
+  <li>Usted va a obtener la siguiente pantalla:<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/complete-install-unzip-php.jpg') ?>" alt="Unzip.php initial screen."></figure>
 </li>
 
 <li>En <strong>'Choose your zip file/Elegir fichero zip'</strong> seleccione el fichero subido fullpackage.zip.</li>

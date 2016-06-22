@@ -1,6 +1,6 @@
 <h3>Modulo Twitter</h3>
 	<p>Il modulo Twitter ti permette di inserire dei tweet sul tuo negozio. <br>Tutte le configurazioni sono disponibili nel pannello di amministrazione (Admin Panel), nella sezione <strong>System > Configuration > Templatemonster > Twitter</strong>.</p>
-	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg'); ?>" alt="" /></figure>
+	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg') ?>" alt="" /></figure>
 	<p>Il modulo ha le seguenti opzioni:</p>			
 	<table  class="options-table">
 		<tr>

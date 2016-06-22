@@ -1,7 +1,7 @@
 <h3>Video w Tle</h3>
 Aby zaimplementować video w tle musisz użyć plug-inu <a href="https://github.com/pupunzi/jquery.mb.YTPlayer/wiki" target="_blank">jquery.mb.YTPlayer</a>, który pozwala na wyświetlanie filmów z YouTube. 
 Video może byc dodane jako statyczny blok, włączając plik skryptowy <strong>jquery.mb.YTPlayer.js</strong> i dodając korespondujące atrybuty, ustawione dla elementu wyświetlającego film.
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg') ?>" alt="" /></figure>
 <p>Skupmy się na podstawowych parametrach atrybutu <strong>data-property</strong>:</p>
 <table  class="options-table">
 	<tr>

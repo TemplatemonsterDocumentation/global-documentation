@@ -1,7 +1,7 @@
 <h3>Background Video</h3>
 Arkaplanda video oynatmak için, Youtube videolarının gösterilmesini sağlayan <a href="https://github.com/pupunzi/jquery.mb.YTPlayer/wiki" target="_blank">jquery.mb.YTPlayer</a> plug-inini kullanmalısınız.
 Video <strong>jquery.mb.YTPlayer.js</strong> dosyası ve ilgili nitelikler eklenerek, sabit bir kutuya yerleştirilebilir.
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/video.jpg') ?>" alt="" /></figure>
 <p><strong>Data-property</strong> (veri-özelliği) için temel parametreler şu şekildedir:</p>
 <table  class="options-table">
 	<tr>

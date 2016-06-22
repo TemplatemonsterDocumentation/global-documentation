@@ -1,7 +1,7 @@
 <h3>Instagram module</h3>
 <p>Instagram модуль позволяет отобразить Instagram галерею в вашем магазине.<br>Данный модуль позволяет отображать два типа галереи: галерея пользователя и галерея по тегу.</p>						
 <p>Все опции управления доступны в админ панели, в секции <strong>System > Configuration > Templatemonster > Instagram</strong>.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/instagram.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/instagram.jpg') ?>" alt="" /></figure>
 <p>Рассмотрим опции модуля:</p>			
 <table  class="options-table">
 	<tr>

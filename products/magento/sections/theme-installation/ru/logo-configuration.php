@@ -3,11 +3,11 @@
 <ol class="index-list"> 
 	<li>
 		Откройте панель управления Magento и выберите в верхнем меню  <strong>System > Configuration</strong>. 
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/Theme-set-8.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/Theme-set-8.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Перейдите на вкладку "<strong>Design</strong>". 
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/Theme-set-9.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/Theme-set-9.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		В разделе "<strong>Header</strong>" отредактируйте значение поля "<strong>Logo Image Src</strong>". Измените его с "<strong>gif</strong>" на "<strong>png</strong>".

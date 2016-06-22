@@ -4,17 +4,17 @@
 
 <ol class="index-list">
 	<li>Die Anzeige jedes DropDownMenüs kann man auf der Einstellungsseite der Kategorie einstellen. Sie befindet sich in <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Um einen statischen Block zum Menü hinzuzufügen, sollen Sie den statischen Block zu <strong>CMS > Static Blocks</strong> hinzufügen und nur danach ihn zum Menü hinzufügen.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		In diesem Modul gibt es die Möglichkeit ein Label zur jeglichen Kategorie hinzuzufügen. Dies können Sie in der Kategorien-Menü <strong>Catalog > Manage Categories</strong> machen.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-3.jpg') ?>" alt="" /></figure>
 	</li>	
 	<li>
-		Um die Anzahl von Spalten in Unterkategorien zu ersetzen sollen Sie den Wert (er muss der Anzahl von Spalten entsprechen) Level column Count im Menü <strong>Catalog > Manage Categories</strong> ersetzen.<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-4.jpg'); ?>" alt="" /></figure>
+		Um die Anzahl von Spalten in Unterkategorien zu ersetzen sollen Sie den Wert (er muss der Anzahl von Spalten entsprechen) Level column Count im Menü <strong>Catalog > Manage Categories</strong> ersetzen.<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-4.jpg') ?>" alt="" /></figure>
 	</li>			
 </ol>

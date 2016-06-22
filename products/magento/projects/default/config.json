@@ -1,27 +1,27 @@
 {
-    "textLogo": "",
+    "textLogo": "Magento 1.9.x Documentation",
     "title": "Magento 1.9.x",
     "titleCaption": "",
     "author": "",
     "sections": {
-        "introduction": [],
-        "complete-installation": [
+        "introduction":[],
+        "complete-installation":[
             "creating-database",
             "import-database",
             "uploading",
             "ps_engine_install"
         ],
-        "theme-installation": [
+        "theme-installation":[
             "template-configuration",
             "logo-configuration",
             "pages-configuration",
             "static-blocks-configuration"
         ],
-        "standard-extensions-settings": [
+        "standard-extensions-settings":[
             "currency-module",
             "polls-module"
         ],
-        "tm-extensions-settings": [
+        "tm-extensions-settings":[
             "google-map",
             "facebook-like-box",
             "instagram-module",
@@ -30,7 +30,7 @@
             "special-price-countdown",
             "product-list-gallery"
         ],
-        "third-party-extensions-settings": [
+        "third-party-extensions-settings":[
             "olark-live-chat",
             "add-this",
             "blog",
@@ -39,6 +39,6 @@
             "background-video",
             "cookies-policy"
         ],
-        "conclusion": []
+        "conclusion":[]
     }
 }

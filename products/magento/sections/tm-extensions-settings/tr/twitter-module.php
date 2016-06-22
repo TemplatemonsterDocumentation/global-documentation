@@ -1,7 +1,7 @@
 <h3>Twitter modülü</h3>
 	<p>Twitter modülü, maðazanýzda günceler tweetlerinizi göstermenizi saðlar.<br>						
 	Tüm ayarlarý yönetici panelindeki <strong>System > Configuration > Templatemonster > Twitter</strong> kýsmýndan yapabilirsiniz.</p>
-	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg'); ?>" alt="" /></figure>
+	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg') ?>" alt="" /></figure>
 	<p>Modül seçenekleri þu þekildedir:</p>			
 	<table  class="options-table">
 		<tr>

@@ -1,7 +1,7 @@
 <h3>Facebook like box</h3>
 <p>Das jeweilige Modul ermöglicht Facebook like box in Ihrem Magento Shop anzuzeigen. <br>			
 Sie können es im Control Panel Magento, in der Sektion <strong>System > Configuration > Templatemonster > Facebook</strong> einstellen.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg') ?>" alt="" /></figure>
 <p>Lassen Sie uns die Moduloptionen anschauen:</p>			
 <table class="options-table">
 	<tr>

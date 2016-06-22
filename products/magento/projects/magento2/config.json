@@ -1,0 +1,34 @@
+{
+    "textLogo": "Magento 2 Documentation",
+    "title": "Magento 2",
+    "titleCaption": "",
+    "author": "",
+    "sections": {
+        "introduction":[],
+        "complete-installation":[
+            "creating-database",
+            "import-database",
+            "uploading",
+            "ps_engine_install"
+        ],
+        "theme-installation":[
+            "template-configuration",
+            "logo-configuration",
+            "pages-configuration",
+            "static-blocks-configuration"
+        ],
+        "tm-extensions-settings":[
+            "ajax-whishlist",
+            "ajax-compare",
+            "ajax-catalog",
+            "megamenu",
+            "facebook-feed",
+            "twitter-feed",
+            "theme-options",
+            "ajax-search",
+            "film-slider",
+            "newsletter"
+        ],
+        "conclusion":[]
+    }
+}

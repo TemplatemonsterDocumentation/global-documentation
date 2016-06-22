@@ -1,7 +1,7 @@
 <h3>Casella Facebook Mi Piace</h3>
 <p>Questo modulo ti permette di inserire una casella Facebook per dare un Mi Piace al tuo negozio  Magento. <br>						
 Puoi configurarlo andando sul pannello di amministrazione Magento (Admin Panel) alla sezione  <strong>System > Configuration > Templatemonster > Facebook</strong>.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg') ?>" alt="" /></figure>
 <p>Il modulo ha le seguenti opzioni:</p>			
 <table class="options-table">
 	<tr>

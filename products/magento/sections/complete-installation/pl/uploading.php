@@ -9,7 +9,7 @@
     )</li>
   <li>Podaj scieżkę do pliku 'unzip.php' na Twoim serwerze (
     http://your_domain_name/unzip.php) w <abbr title="Internet Explorer, Google Chrome, Mozilla Firefox, Opera, Safari etc.">przeglądarce</abbr>.</li>
-  <li>Powinieneś zobaczyć następujący widok:<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/complete-install-unzip-php.jpg'); ?>" alt="Unzip.php initial screen."></figure></li>
+  <li>Powinieneś zobaczyć następujący widok:<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/complete-install-unzip-php.jpg') ?>" alt="Unzip.php initial screen."></figure></li>
   <li>W oknie <strong>'Wybierz plik zip'</strong> (ang. Choose your zip file) wybierz przesłany plik fullpackage.zip.</li>
   <li>W <strong>'Wypakuj do'</strong> (ang. Unzip to) wybierz folder, do którego chcesz wypakować pliki.</li>
   <li>Kliknij <strong>'Wypakuj'</strong> (ang. Unzip), aby kontynuować.</li>

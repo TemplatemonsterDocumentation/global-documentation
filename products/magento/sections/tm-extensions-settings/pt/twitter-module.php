@@ -1,7 +1,7 @@
 <h3>Módulo do Twitter</h3>
 	<p>O módulo do Twitter te permite mostrar twitadas na sua loja.	<br>					
 	Todas as configurações disponíveis estão no painel em <strong>Sistema (System) > Configurações (Configuration) > Templatemonster > Twitter</strong>.</p>
-	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg'); ?>" alt="" /></figure>
+	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg') ?>" alt="" /></figure>
 	<p>O módulo tem as seguintes opções:</p>			
 	<table  class="options-table">
 		<tr>

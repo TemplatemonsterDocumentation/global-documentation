@@ -8,18 +8,16 @@
 <ol class="index-list">
 	<li>
 		<p>Open the <strong>"Database"</strong> tab, you will see the list of databases.</p>
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg'); ?>"
-		alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-1.jpg') ?>') ?>" alt=""
+		/></figure>
 	</li>
 	<li>
 		<p>Input your <strong>database name</strong>. Click <strong>"Create"</strong> button.</p>
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg'); ?>"
-		alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		<p>Your database has appeared in the list.  In order to enter the database, click on its name in the list.</p>
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg'); ?>"
-		alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/database-create-3.jpg') ?>" alt="" /></figure>
 	</li>
 </ol>
 

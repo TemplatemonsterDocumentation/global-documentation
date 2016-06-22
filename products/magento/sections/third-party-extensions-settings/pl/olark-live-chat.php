@@ -5,24 +5,24 @@ Aby skonfigurować czat on-line, wykonaj następujące kroki:
 <ol class="index-list">
 	<li>
 		Otwórz panel administracyjny Magento. Przejdź do menu CMS i kliknij go, w menu rozwijanym przejdź do pozycji <strong>Widgets</strong>. Gdy nowa strona zostanie otwarta, kliknij przycisk <strong>Add new widget instance</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		W menu rozwijanym <strong>Type</strong> wybierz Olark czat na żywo, w menu <strong>Design Package/Theme</strong> wybierz skin sklepu, który powinien wyświetlać czat. Kliknij przycisk <strong>Continue</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Teraz musisz skonfigurować wyświetlanie czatu on-line. W pierwszym etapie, w polu <strong>Widget Instance Title</strong> wpisz nazwę widgetu, który zostanie wyświetlony w panelu administratora. W polu <strong>Assign to Store Views</strong> wybierz widok sklepu, który będzie wyświetlać czat. W bloku <strong>Layout Updates</strong> kliknij przycisk <strong>Add Layout Update</strong>. W polu <strong>Display On</strong> musisz wybrać <strong>All pages</strong>. Dla pola <strong>Block Reference</strong> wybierz <strong>Main Content Area</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-3.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Kliknij link <strong>Widget Options</strong> w lewym pasku bocznym. Po prawej stronie pojawi się pole, które należy wypełnić <strong>Olark Site-ID</strong>. 
 		Po wypełnieniu Twojego <strong>Olark Site-ID</strong>, kliknij przycisk <strong>Save</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-4.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-4.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		W nowym oknie przejdź do pozycji w menu <strong>System -> Cache Management</strong>. W bloku <strong>Cache Storage Management</strong> sprawdź pozycje <strong>Layouts</strong> oraz <strong>Blocks HTML output</strong>. Upewnij się, że w polu <strong>Actions</strong> pozycja <strong>Refresh</strong> jest wybrana, kliknij <strong>Submit</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-5.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/olark-5.jpg') ?>" alt="" /></figure>
 	</li>
 </ol>						
 <p><strong>Wszystko gotowe!</strong> Teraz możesz odwiedzić Twoją stronę internetową i zobaczyć widget dla czatu on-line.</p>

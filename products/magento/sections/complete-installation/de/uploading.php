@@ -9,7 +9,7 @@
     )</li>
   <li> Im <abbr title="Internet Explorer, Google Chrome, Mozilla Firefox, Opera, Safari etc."> Browser </abbr> tippen Sie den Pfad zur <strong>'unzip.php'</strong> Datei von Ihrem Server (http://your_domain_name/unzip.php).</li>
   <li>Es sollte das folgende Bildschirm erscheinen:
-    <figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/complete-install-unzip-php.jpg'); ?>" alt="Unzip.php initial screen."></figure>
+    <figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/complete-install-unzip-php.jpg') ?>" alt="Unzip.php initial screen."></figure>
   </li>
   <li> Im Auswahlfeld <strong>'Wählen Ihre zip Datei aus'</strong> (eng. Choose your zip file) wählen Sie die herunterdeladene <strong>fullpackage.zip</strong> Datei aus. </li>
   <li>Im Feld <strong>'Entpacken in'</strong> (eng. Unzip to) geben Sie das Verzeichnis ein, wohin Sie Dateien extrahieren möchten.</li>

@@ -4,18 +4,18 @@
 
 <ol class="index-list">
 	<li>Display of each dropdown menu can be configured on the category settings page, which is located in <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		In order to add a static block to a dropdown menu, you need to add a static block in <strong>CMS > Static Blocks</strong> and once it was created add it to the menu.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-2.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Module allows to add the label for any category. You can do this in categories menu <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-3.jpg') ?>" alt="" /></figure>
 	</li>		
 	<li>
 		In order to change the number of columns in subcategories you need to change the Level column Count value in the menu <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-4.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-4.jpg') ?>" alt="" /></figure>
 	</li>			
 </ol>

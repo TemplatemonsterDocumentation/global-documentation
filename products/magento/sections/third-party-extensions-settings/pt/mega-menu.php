@@ -4,18 +4,18 @@
 
 <ol class="index-list">
 	<li>A aparência de cada menu pode ser configurada na página de definições da categoria, localizada em <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-1.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-1.jpg') ?>" alt="" /></figure>
 	</li>
 	<li>
 		Para adicionar blocos estáticos ao menu, você precisa adicionar blocos estáticos em <strong>CMS > Static Blocks</strong> e, após criados, adicioná-los ao menu.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-2.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-2.jpg') ?>" alt="" /></figure>
 	</li>	
 	<li>
 		O módule permite incluir uma etiqueta para qualquer categoria. Você pode realizar esta inclusão no menu de categorias <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-3.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-3.jpg') ?>" alt="" /></figure>
 	</li>	
 	<li>
 		Para mudar a quantidade de colunas em subcategorias você precisa mudar o valor de "Level column Count" no menu <strong>Catalog > Manage Categories</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-4.jpg'); ?>" alt="" /></figure>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/mega-4.jpg') ?>" alt="" /></figure>
 	</li>			
 </ol>

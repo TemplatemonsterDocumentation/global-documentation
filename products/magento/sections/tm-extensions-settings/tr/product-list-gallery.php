@@ -1,7 +1,7 @@
 <h3>Product list gallery</h3>
 <p class="indent">Bu modül, ürünün ana görseliyle birlikte diðer görselleri küçük (thumbnail) þekilde göstermeyi saðlar. Klasik temada küçük görseller, ana ürünün altýnda gösterilir. Fakat bizim temamýzda PSD düzeni baz alýnýr.</p>
 <p>Bu modül <strong>Sistem > Ayarlar > Templatemonster > Product List Gallery</strong> alanýnda yer alan Magento yönetici panelinden açýlýp kapatýlabilir.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/productgallery.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/productgallery.jpg') ?>" alt="" /></figure>
 <p>Modül 4 bölümden oluþur: <strong>Liste Görünümü</strong>, <strong>Grid Görünümü</strong>, <strong>Anasayfa Liste Görünümü</strong> ve <strong>Anasayfa Grid Görünümü</strong>.<br>
 <strong>Anasayfa Liste Görünümü</strong> ve <strong>Anasayfa Grid Görünümü</strong>'nde, maðazanýzýn anasayfasýndaki galeri görünümü için ayarlar yer alýr. Diðer iki bölüm ise kategori sayfalarýndaki galerinin görünüm ayarlarý içindir.</p>
 <p>Tüm bölüm ayný ayarlarý kullanýr:</p>			

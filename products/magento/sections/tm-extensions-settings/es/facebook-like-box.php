@@ -1,7 +1,7 @@
 <h3>Bot&oacute;n Me Gusta de Facebook</h3>
 <p>Este m&oacute;dulo le permite mostrar el bot&oacute;n Me Gusta de Facebook en su tienda Magento.	<br>				
 Se puede configurar en el Panel de Administraci&oacute;n de Magento en la secci&oacute;n <strong>System > Configuration > Templatemonster > Facebook</strong> section.</p>	
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg') ?>" alt="" /></figure>
 <p>El m&oacute;dulo tiene las siguientes opciones:</p>			
 <table class="options-table">
 	<tr>

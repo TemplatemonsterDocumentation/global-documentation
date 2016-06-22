@@ -1,6 +1,6 @@
 <h3>Moduł Twitter</h3>
 	<p>Moduł Twitter pozwala wyświetlić kanał (feed) tweetów w Twoim sklepie. <br>Wszystkie opcje konfiguracji są dostępne w panelu administracyjnym w sekcji <strong>System > Configuration > Templatemonster > Twitter</strong>.</p>
-	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg'); ?>" alt="" /></figure>
+	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg') ?>" alt="" /></figure>
 	<p>Moduł posiada następujące opcje:</p>			
 	<table  class="options-table">
 		<tr>

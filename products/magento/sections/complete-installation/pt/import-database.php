@@ -5,9 +5,9 @@
 <p>Para instalar o arquivo dump, siga esses passos:</p>
 <ol class="index-list">
 	<li>Entre no PhpMyAdmin e escolha o banco que você usará para o Magento (ele foi criado por você nos passos anteriores).
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-1.jpg'); ?>" alt="" /></figure></li>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-1.jpg') ?>" alt="" /></figure></li>
 	<li>Navegue até a aba <strong>"Import"</strong> e clique no botão <strong>"Browse"</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-2.jpg'); ?>" alt="" /></figure></li>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-2.jpg') ?>" alt="" /></figure></li>
 	<li>Encontre a pasta do <strong>"/sources/sample_data"</strong> e escolha o arquivo <strong>dump.sql.gz</strong>. Clique em <strong>"GO"</strong>.
-		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-3.jpg'); ?>" alt="" /></figure> O processo de importação pode demorar uns minutos.</li>
+		<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/import-dump-3.jpg') ?>" alt="" /></figure> O processo de importação pode demorar uns minutos.</li>
 </ol>

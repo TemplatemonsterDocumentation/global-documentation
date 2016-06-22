@@ -1,7 +1,7 @@
 <h3>Twitter module</h3>
 	<p>Twitter module allows to display the tweets feed on your store. <br>					
 	All configuration options are available in the admin panel in <strong>System > Configuration > Templatemonster > Twitter</strong> section.</p>
-	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg'); ?>" alt="" /></figure>
+	<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/twitter-1.jpg') ?>" alt="" /></figure>
 	<p>The module has the following options:</p>			
 	<table  class="options-table">
 		<tr>

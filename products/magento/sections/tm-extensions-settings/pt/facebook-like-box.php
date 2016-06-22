@@ -1,7 +1,7 @@
 <h3>Caixa de Curtidas do Facebook (Facebook like box)</h3>
 <p>Este módulo permite mostrar uma caixa de curtidas no Facebook em sua loja do Magento.	<br>					
 Você pode configurar através do Painel Administrativo do Magento em <strong>Sistema (System) > Configurações (Configuration) > Templatemonster > Facebook</strong>.</p>
-<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg'); ?>" alt="" /></figure>
+<figure class="img-polaroid"><img src="<?php echo $this->getImgPath('magento/facebook-2.jpg') ?>" alt="" /></figure>
 <p>O módulo tem as seguintes opções:</p>			
 <table class="options-table">
 	<tr>
