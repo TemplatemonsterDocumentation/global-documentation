@@ -5,231 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="887c0e57-5a16-46b7-b76a-87ee1443d8d7" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Nav.php" afterPath="" />
-      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Article_Model.php" afterPath="$PROJECT_DIR$/app/Core/Model/Article.php" />
-      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Article_View.php" afterPath="$PROJECT_DIR$/app/Core/View/Article.php" />
-      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Project_Model.php" afterPath="$PROJECT_DIR$/app/Core/Model/Project.php" />
-      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Project_View.php" afterPath="$PROJECT_DIR$/app/Core/View/Project.php" />
-      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Section_Model.php" afterPath="$PROJECT_DIR$/app/Core/Model/Section.php" />
-      <change type="MOVED" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Section_View.php" afterPath="$PROJECT_DIR$/app/Core/View/Section.php" />
-      <change type="MODIFICATION" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Controller.php" afterPath="$PROJECT_DIR$/app/Core/Controller.php" />
-      <change type="MODIFICATION" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Helper.php" afterPath="$PROJECT_DIR$/app/Core/Helper.php" />
-      <change type="MODIFICATION" beforePath="C:\OpenServer\domains\localhost\global-documentation\app\Core\Route.php" afterPath="$PROJECT_DIR$/app/Core/Route.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/add-this.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/add-this.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/background-video.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/background-video.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/blog.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bootstrap.php" afterPath="$PROJECT_DIR$/app/bootstrap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/cloud-zoom.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/cloud-zoom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/projects/default/config.json" afterPath="$PROJECT_DIR$/products/magento/projects/default/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json" afterPath="$PROJECT_DIR$/products/wordpress/projects/blogetti/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/de/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/de/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/en/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/en/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/es/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/es/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/fr/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/fr/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/it/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/it/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/pl/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/pl/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/pt/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/pt/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/ru/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/ru/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/tr/creating-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/tr/creating-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/de/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/de/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/en/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/en/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/es/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/es/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/fr/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/fr/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/it/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/it/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/pl/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/pl/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/pt/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/pt/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/ru/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/ru/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/tr/currency-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/tr/currency-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/facebook-like-box.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/facebook-like-box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/google-map.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/google-map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/de/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/de/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/en/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/en/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/es/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/es/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/fr/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/fr/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/it/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/it/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/pl/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/pl/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/pt/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/pt/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/ru/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/ru/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/tr/import-database.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/tr/import-database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/instagram-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/instagram-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/de/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/de/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/en/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/en/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/es/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/es/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/fr/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/fr/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/it/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/it/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/pl/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/pl/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/pt/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/pt/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/ru/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/ru/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/tr/logo-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/tr/logo-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/main.php" afterPath="$PROJECT_DIR$/templates/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/mega-menu.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/mega-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/includes/nav.php" afterPath="$PROJECT_DIR$/templates/includes/nav.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/newsletter-popup.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/newsletter-popup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/de/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/en/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/es/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/fr/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/it/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pl/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/pt/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/ru/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/olark-live-chat.php" afterPath="$PROJECT_DIR$/products/magento/sections/third-party-extensions-settings/tr/olark-live-chat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/de/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/de/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/en/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/en/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/es/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/es/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/fr/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/fr/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/it/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/it/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/pl/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/pl/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/pt/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/pt/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/ru/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/ru/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/tr/pages-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/tr/pages-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/de/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/de/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/en/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/en/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/es/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/es/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/fr/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/fr/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/it/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/it/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/pl/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/pl/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/pt/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/pt/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/ru/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/ru/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/tr/polls-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/standard-extensions-settings/tr/polls-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/product-list-gallery.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/product-list-gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/de/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/de/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/en/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/en/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/es/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/es/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/fr/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/fr/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/it/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/it/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/pl/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/pl/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/pt/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/pt/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/ru/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/ru/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/tr/ps_engine_install.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/tr/ps_engine_install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/section.json" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/section.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/special-price-countdown.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/special-price-countdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/de/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/de/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/en/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/en/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/es/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/es/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/fr/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/fr/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/it/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/it/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/pl/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/pl/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/pt/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/pt/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/ru/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/ru/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/tr/static-blocks-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/tr/static-blocks-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/de/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/de/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/en/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/en/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/es/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/es/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/fr/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/fr/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/it/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/it/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/pl/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/pl/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/pt/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/pt/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/ru/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/ru/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/theme-installation/tr/template-configuration.php" afterPath="$PROJECT_DIR$/products/magento/sections/theme-installation/tr/template-configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/de/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/en/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/es/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/fr/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/it/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pl/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/pt/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/ru/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/twitter-module.php" afterPath="$PROJECT_DIR$/products/magento/sections/tm-extensions-settings/tr/twitter-module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/de/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/de/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/en/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/en/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/es/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/es/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/fr/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/fr/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/it/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/it/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/pl/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/pl/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/pt/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/pt/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/ru/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/ru/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/magento/sections/complete-installation/tr/uploading.php" afterPath="$PROJECT_DIR$/products/magento/sections/complete-installation/tr/uploading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="global-documentation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -251,11 +27,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Core/Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.307693">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Core/View/Project.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.11034483">
+              <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.0068965">
-              <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+            <state vertical-scroll-proportion="-15.230769">
+              <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
               <folding>
                 <marker date="1466417715519" expanded="true" signature="1326:1816" placeholder="..." />
                 <marker date="1466417715519" expanded="false" signature="1344:1395" placeholder="..." />
@@ -263,6 +59,56 @@
                 <marker date="1466417715519" expanded="true" signature="1469:1755" placeholder="..." />
                 <marker date="1466417715519" expanded="true" signature="1589:1742" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Core/Helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.461538">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Route.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Core/Route.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.076923">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Core/Model/Project.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-54.23077">
+              <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Section.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Core/Model/Section.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.076923">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Article.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Core/Model/Article.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.846154">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -321,11 +167,11 @@
         <option value="$PROJECT_DIR$/app/Core/View/Article.php" />
         <option value="$PROJECT_DIR$/app/Core/View/Section.php" />
         <option value="$PROJECT_DIR$/app/Core/Route.php" />
-        <option value="$PROJECT_DIR$/app/Core/View/Project.php" />
         <option value="$PROJECT_DIR$/app/Core/Controller.php" />
         <option value="$PROJECT_DIR$/templates/includes/nav.php" />
-        <option value="$PROJECT_DIR$/app/Core/Helper.php" />
         <option value="$PROJECT_DIR$/app/Core/Nav.php" />
+        <option value="$PROJECT_DIR$/app/Core/Helper.php" />
+        <option value="$PROJECT_DIR$/app/Core/View/Project.php" />
       </list>
     </option>
   </component>
@@ -434,6 +280,50 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global-documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -600,7 +490,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/app/Core/Helper.php</url>
-          <line>75</line>
+          <line>80</line>
           <option name="timeStamp" value="329" />
         </line-breakpoint>
       </breakpoints>
@@ -624,6 +514,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -880,32 +771,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Model/Project.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="77.26923">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Model/Section.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.076923">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Core/View/Article.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42307693">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Model/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47531572">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -916,33 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Route.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.692307">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.230769">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/View/Project.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="225" column="29" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -954,26 +800,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="31.615385">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Core/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24827586">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0068965">
-          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+        <state vertical-scroll-proportion="-15.230769">
+          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
           <folding>
             <marker date="1466417715519" expanded="true" signature="1326:1816" placeholder="..." />
             <marker date="1466417715519" expanded="false" signature="1344:1395" placeholder="..." />
@@ -981,6 +811,70 @@
             <marker date="1466417715519" expanded="true" signature="1469:1755" placeholder="..." />
             <marker date="1466417715519" expanded="true" signature="1589:1742" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/Nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.94482756">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/Helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.461538">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/Route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.076923">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/Model/Project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-54.23077">
+          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/Model/Section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.076923">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/Model/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.846154">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.307693">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/View/Project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11034483">
+          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

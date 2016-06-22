@@ -8,6 +8,11 @@ class Helper
         $this->_params = $params;
     }
 
+    /**
+     * Get params
+     *
+     * @return mixed
+     */
     public function getParams()
     {
         return $this->_params;
@@ -223,9 +228,13 @@ class Helper
         return PRODUCT_DIRNAME . '/' . $this->getProduct() . $projPath . '/img/' . $file;
     }
 
+    /**
+     * Check if layout is onepage
+     * @return bool
+     */
     public function isOnepage()
     {
-        if(!$this->_params['action'] == 'onepage'){
+        if(!$this->_params['layout'] == 'onepage'){
             return false;
         }
         return true;

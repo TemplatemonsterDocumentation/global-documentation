@@ -70,7 +70,7 @@ class Project
         $sections = $this->_model->getSectionsArray();
 
         //Load one page layout
-        if($this->_params['action'] == 'onepage'){
+        if($this->_helper->isOnepage()){
             $this->loadProjectOnepage();
             return true;
         }
