@@ -3,7 +3,7 @@ namespace Core;
 
 class Nav
 {
-    const NAV_TEMPLATE = 'includes' . DS . 'nav.php';
+    const NAV_TEMPLATE = 'includes/nav.php';
 
     public function __construct($sections, $articles, Helper $helper)
     {
@@ -19,7 +19,7 @@ class Nav
      */
     public function loadNav()
     {
-        $path = PATH . DS . TEMPLATES_DIRNAME .DS . self::NAV_TEMPLATE;
+        $path = PATH . '/' . TEMPLATES_DIRNAME . '/' . self::NAV_TEMPLATE;
         include $path;
     }
 

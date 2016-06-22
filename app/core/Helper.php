@@ -234,7 +234,7 @@ class Helper
      */
     public function isOnepage()
     {
-        if(!$this->_params['layout'] == 'onepage'){
+        if($this->_params['layout'] != 'onepage'){
             return false;
         }
         return true;

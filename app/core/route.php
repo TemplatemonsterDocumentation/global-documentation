@@ -1,15 +1,14 @@
 <?php
 namespace Core;
-use Core\Controller as Controller;
 
 class Route
 {
     public $_defaultParams = array(
-        'product' => 'wordpress',
-        'project' => 'default',
+        'product' => 'magento',
+        'project' => 'magento2',
         'lang' => 'en',
         'section' => 'introduction',
-        'action' => 'index'
+        'layout' => ''
     );
 
     public function __construct()
