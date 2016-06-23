@@ -1,0 +1,1740 @@
+
+<!doctype html>
+<html>
+<head>
+    <title>Magento 2 Documentation</title>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no"/>
+    <link rel="icon" href="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/favicon_magento2.ico"
+          type="image/x-icon">
+
+    <link rel="stylesheet" href="http://chris.magento2.dev/global-documentation/css/grid.css">
+    <link rel="stylesheet" href="http://chris.magento2.dev/global-documentation/css/style.css">
+    <link rel="stylesheet" href="http://chris.magento2.dev/global-documentation/css/prettify.css">
+    <link rel="stylesheet" href="http://chris.magento2.dev/global-documentation/css/jquery.fancybox.css">
+    <link rel="stylesheet" href="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/css/project_styles.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>
+    <script src="http://chris.magento2.dev/global-documentation/js/jquery.js"></script>
+    <script src="http://chris.magento2.dev/global-documentation/js/jquery-migrate-1.2.1.js"></script>
+
+    <!--[if lt IE 9]>
+    <html class="lt-ie9">
+    <div style='clear: both; text-align:center; position: relative;'>
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/">
+            <img src="http://chris.magento2.dev/global-documentation/img/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42"
+                 width="820"
+                 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+        </a>
+    </div>
+    <script src="/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <script src='http://chris.magento2.dev/global-documentation/js/device.min.js'></script>
+</head>
+<body data-section="introduction"
+      onload="prettyPrint()"
+      data-project="magento2">
+<div class="page-wrap">
+
+<!--    Navigation-->
+    <div class="rd-mobilemenu active">
+        <div class="logo logo__magento2">
+            <a href="?product=magento&project=magento2&lang=en&section=introduction&layout=onepage">
+                <img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/logo_magento2.png"
+                     alt="Magento 2 Documentation">
+                Magento 2 Documentation            </a>
+        </div>
+        <div class="panel">
+            <!-- <div class="select select-version">
+                <select>
+                    <option data-href="#">Version v3-0</option>
+                    <option data-href="#" selected>Version v3-1</option>
+                    <option data-href="#">Version v2-4</option>
+                    <option data-href="#">Version v2-3</option>
+                </select>
+            </div>
+            <div class="select select-lang">
+                <select>
+                    <option data-href="#">EN</option>
+                    <option data-href="#">RU</option>
+                </select>
+            </div> -->
+        </div>
+        <p class="copyright">TemplateMonster &copy;
+            <a href="http://www.templatemonster.com/privacy-policy.php">Privacy Policy</a>
+        </p>
+    </div>
+
+<!--Page content-->
+    <div class="page-content active">
+        <button class="rd-mobilepanel_toggle active"><span></span></button>
+        <div class="rd-mobilepanel ">
+            <h1 class="rd-mobilepanel_title">
+                Magento 2            </h1>
+            <div class="tm-title-caption"></div>
+        </div>
+        <div class="page">
+            <!--========================================================
+                HEADER
+            =========================================================-->
+            <header>
+                <nav class="nav">
+                    <ul class="menu" data-type="navbar">
+                            <li>
+        <a href="" class="section_link"
+           data-key="0"
+           data-id="introduction">Introduction</a>
+            </li>
+    <li>
+        <a href="" class="section_link"
+           data-key="1"
+           data-id="complete-installation">Complete installation</a>
+                <ul>
+                    <li class="article">
+                <a href="#creating-database"
+                   class="article_link"
+                   data-sectionId="1"
+                   data-id="creating-database"
+                   data-section="complete-installation">
+                    Creating a database                </a>
+            </li>
+                    <li class="article">
+                <a href="#import-database"
+                   class="article_link"
+                   data-sectionId="1"
+                   data-id="import-database"
+                   data-section="complete-installation">
+                    Sample data import                </a>
+            </li>
+                    <li class="article">
+                <a href="#uploading"
+                   class="article_link"
+                   data-sectionId="1"
+                   data-id="uploading"
+                   data-section="complete-installation">
+                    Uploading and unzipping                </a>
+            </li>
+                    <li class="article">
+                <a href="#ps_engine_install"
+                   class="article_link"
+                   data-sectionId="1"
+                   data-id="ps_engine_install"
+                   data-section="complete-installation">
+                    Magento engine installation                </a>
+            </li>
+                </ul>
+            </li>
+    <li>
+        <a href="" class="section_link"
+           data-key="2"
+           data-id="theme-installation">Theme installation</a>
+                <ul>
+                    <li class="article">
+                <a href="#template-configuration"
+                   class="article_link"
+                   data-sectionId="2"
+                   data-id="template-configuration"
+                   data-section="theme-installation">
+                    Template configuration                </a>
+            </li>
+                    <li class="article">
+                <a href="#logo-configuration"
+                   class="article_link"
+                   data-sectionId="2"
+                   data-id="logo-configuration"
+                   data-section="theme-installation">
+                    Logo configuration                </a>
+            </li>
+                    <li class="article">
+                <a href="#pages-configuration"
+                   class="article_link"
+                   data-sectionId="2"
+                   data-id="pages-configuration"
+                   data-section="theme-installation">
+                    Pages configuration                </a>
+            </li>
+                    <li class="article">
+                <a href="#static-blocks-configuration"
+                   class="article_link"
+                   data-sectionId="2"
+                   data-id="static-blocks-configuration"
+                   data-section="theme-installation">
+                    Static blocks configuration                </a>
+            </li>
+                </ul>
+            </li>
+    <li>
+        <a href="" class="section_link"
+           data-key="3"
+           data-id="tm-extensions-settings">TM extensions settings</a>
+                <ul>
+                    <li class="article">
+                <a href="#ajax-whishlist"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="ajax-whishlist"
+                   data-section="tm-extensions-settings">
+                    Ajax Whishlist                </a>
+            </li>
+                    <li class="article">
+                <a href="#ajax-compare"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="ajax-compare"
+                   data-section="tm-extensions-settings">
+                    Ajax Compare                </a>
+            </li>
+                    <li class="article">
+                <a href="#ajax-catalog"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="ajax-catalog"
+                   data-section="tm-extensions-settings">
+                    Ajax Catalog                </a>
+            </li>
+                    <li class="article">
+                <a href="#megamenu"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="megamenu"
+                   data-section="tm-extensions-settings">
+                    Megamenu                </a>
+            </li>
+                    <li class="article">
+                <a href="#facebook-feed"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="facebook-feed"
+                   data-section="tm-extensions-settings">
+                    Facebook plugin                </a>
+            </li>
+                    <li class="article">
+                <a href="#twitter-feed"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="twitter-feed"
+                   data-section="tm-extensions-settings">
+                    Twitter Feed                </a>
+            </li>
+                    <li class="article">
+                <a href="#theme-options"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="theme-options"
+                   data-section="tm-extensions-settings">
+                    Theme Options                </a>
+            </li>
+                    <li class="article">
+                <a href="#ajax-search"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="ajax-search"
+                   data-section="tm-extensions-settings">
+                    Ajax Search                </a>
+            </li>
+                    <li class="article">
+                <a href="#film-slider"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="film-slider"
+                   data-section="tm-extensions-settings">
+                    Film Slider                </a>
+            </li>
+                    <li class="article">
+                <a href="#newsletter"
+                   class="article_link"
+                   data-sectionId="3"
+                   data-id="newsletter"
+                   data-section="tm-extensions-settings">
+                    Newsletter Pop-up                </a>
+            </li>
+                </ul>
+            </li>
+    <li>
+        <a href="" class="section_link"
+           data-key="4"
+           data-id="conclusion">Сonclusion</a>
+            </li>
+                    </ul>
+                </nav>
+            </header>
+            <!--========================================================
+                CONTENT
+            =========================================================-->
+            <main id="main">
+                <div class="container">
+                    <section id="introduction" class="section">
+    <article id="introduction__description" class="article ">
+    <h2 class="item1">Introduction</h2>
+<p>
+    Thank you for downloading Magento theme. This documentation consists of several parts and covers
+    the entire process of installing and setting up Magento theme starting from scratch.
+</p>
+
+<article id="whatismagento">
+    <h3>What is Magento Commerce?</h3>
+    <p>Magento is a feature-rich eCommerce platform built with open-source technology. It provides flexibility and control over the look, content and functionality of the eCommerce store. Magento’s intuitive administration interface features powerful marketing, search engine optimization and catalog-management tools to give merchants the power to create sites that are tailored to their unique business needs. Designed to be completely scalable and backed by Varien's support network, Magento offers companies the ultimate eCommerce solution. <a href="http://www.magentocommerce.com/download" target="_blank">More information</a></p>
+</article>
+
+<article id="whatismagentotheme">
+    <h3>What is a Magento theme?</h3>
+    <p>Magento theme is a complete design for your online store based on Magento engine. In other words, you can easily change your Magento shop appearance by installing a new theme in a few easy steps. With all of its simplicity a Magento theme is provided with all the necessary source files that you can edit or extend the way you need.</p>
+</article>
+
+<article id="file_structure">
+    <h4>Magento files structure</h4>
+
+    <p>The theme package you have downloaded consists of several folders.  Let's see what each folder contains:</p>
+
+    <ul class="files_structure">
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder-open"></i> <strong>documentation</strong></dt>
+                <dd> contains documentation files.</dd>
+            </dl>
+            <ul>
+                <li>
+                    <dl class="inline-term">
+                        <dt><i class="fa fa-file"></i> <strong>documentation.html</strong></dt>
+                        <dd>
+                            a main documentation file you are reading at the moment.
+                        </dd>
+                    </dl>
+                </li>
+            </ul>            
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder"></i> <strong>screenshots</strong></dt>
+                <dd> contains the theme screenshots. Not for production.</dd>
+            </dl>            
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder-open"></i> <strong>sources</strong></dt>
+                <dd> contains the theme source files.</dd>
+            </dl>
+            <ul>
+                <li>
+                    <dl class="inline-term">
+                        <dt><i class="fa fa-folder"></i> <strong>psd</strong></dt>
+                        <dd>
+                            contains the theme Adobe Photoshop source files (.psd).
+                        </dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="inline-term">
+                        <dt><i class="fa fa-folder"></i> <strong>demo</strong></dt>
+                        <dd>
+                            contains additional pages and custom blocks provided with the theme.
+                        </dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="inline-term">
+                        <dt><i class="fa fa-folder-open"></i> <strong>sample_data</strong></dt>
+                        <dd>
+                            contains Magento theme sample data files.
+                        </dd>
+                    </dl>
+                    <ul>
+                        <li>
+                            <dl class="inline-term">
+                                <dt><i class="fa fa-folder"></i> <strong>pub</strong></dt>
+                                <dd>
+                                    contains files and directories that should be uploaded to the root directory of your Magento installation.
+                                </dd>
+                            </dl>
+                        </li>
+                        <li>
+                            <dl class="inline-term">
+                                <dt><i class="fa fa-file"></i> <strong>dump.sql.gz</strong></dt>
+                                <dd>
+                                    the database backup file. Contains the theme sample content.
+                                </dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder"></i> <strong>theme###</strong></dt>
+                <dd> contains Magento theme files and directories that should be uploaded to the root directory of your Magento installation.</dd>
+            </dl>            
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>fullpackage.zip</strong></dt>
+                <dd> contains the complete Magento installation package with engine files, theme and sample content (sample images).</dd>
+            </dl>            
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>unzip.php</strong></dt>
+                <dd> the file used to extract files from the fullpackage.zip when uploaded to the hosting server.</dd>
+            </dl>            
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>fonts_info.txt</strong></dt>
+                <dd> contains the links where the template custom fonts can be downloaded.</dd>
+            </dl>            
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>info.txt</strong></dt>
+                <dd> contains instructions on how to extract source files.</dd>
+            </dl>            
+        </li>
+    </ul>
+</article>
+<article id="validation">
+    <h3>Validation</h3>
+    <div class="alert alert-warning">
+        <span>Both HTML markup and CSS styles used in our templates are semantically correct and valid. However some W3C errors still can take place. Making code 100% W3C valid eliminates the usage of modern website technologies as CSS3 features and HTML5 markup. Our goal is to deliver rich user experience with high quality templates and sometimes we have to break some rules.</span>
+    </div>
+</article>
+<article id="prepare">
+    <h3>Preparation</h3>
+
+    <p>Before you proceed to set up your Magento store, please make sure you are fully prepared. Please complete the following preparation steps:</p>
+
+    <h4>Editing software</h4>
+
+    <p>To feel comfortable working with Magento template, we recommend downloading all the applications required. You can see the list of required software on the template preview page. </br> The requirements may vary for different templates, for most templates they are the following:</p>
+    <ol class="index-list">
+        <li>First, you need to use WinZip 9+ (Windows) and Stuffit Expander 10+ (Mac) to extract the password protected sources_#########.zip archive. </li>
+        <li>You may also need the Adobe Photoshop application. It is used to edit .PSD source files, and it is necessary if you want to edit template design graphics and images.</li>
+        <li>To edit template source code files, you need some code editor like Adobe Dreamweaver, Notepad++, Sublime Text, etc.</li>
+        <li>To upload files to the hosting server you may need an FTP Manager like Total Commander, FileZilla, CuteFTP, etc.</li>
+    </ol>
+    
+    <h4>Hosting</h4>
+    <p>As Magento Commerce is a PHP/MySQL based application, you need to prepare a hosting environment to run Magento.</p>
+    <p>If you have live hosting, please make sure it matches <a href="http://devdocs.magento.com/guides/v2.0/install-gde/system-requirements.html" target="_blank"> Magento requirements </a> and is ready to be used for Magento store.</p>
+    <p>Otherwise, you can run Magento locally on your computer using the local server. To create a local hosting server please use the localhost applications such as <strong>WAMP</strong>, <strong>AppServ</strong>, <strong>MAMP</strong> etc. Any of those can be easily installed as any other program and used to run Magento. </p>
+    <p>Please check the following tutorials on how to configure the local development environment:</p>
+    <ul class="marked-list">
+        <li><a href="/help/how-to-install-appserv-web-development-environment.html" target="_blank">How to install AppServ web development environment</a></li>
+        <li><a href="/help/how-to-install-wamp-web-development-environment.html" target="_blank">How to install WAMP web development environment</a></li>
+        <li><a href="/help/how-to-install-xamp-web-development-environment.html" target="_blank">How to install XAMP web development environment</a></li>
+    </ul>
+</article></article>
+</section>
+<section id="complete-installation" class="section">
+    <article id="complete-installation__description" class="article ">
+    <h2> Complete installation </h2>
+<p>The complete installation method can be used if you want to set up a Magento store using a sample content. We assume that you have completed all the preparation steps.</p>
+<p>The installation process consists of 3 stages:</p>
+<ol class="index-list">
+    <li>Creating a database.</li>
+    <li>Uploading all the required files to the server.</li>
+    <li>Installing a Magento Commerce engine together with the template you have purchased.</li>
+</ol>
+<p>Let's get started!</p></article>
+<article id="creating-database" class="article ">
+    		
+<h3>Creating a database</h3>
+<p>First, you need to prepare a new database for your Magento store. You can create the new database using the database management tool from your hosting control panel (<strong>usually PhpMyAdmin</strong>).</p>
+<p>The following data will be received while creating a database: database name, database username, password and you server name. You need to save this data as you will need it for further Magento installation. </p>
+
+<p>With the phpMyAdmin tool you will be able to create a new database in 3 simple steps(check the slides below): </p>
+
+<ol class="index-list">
+	<li>
+		<p>Open the <strong>"Database"</strong> tab, you will see the list of databases.</p>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/database-create-1.jpg" alt="" /></figure>
+	</li>
+	<li>
+		<p>Input your <strong>database name</strong>. Click <strong>"Create"</strong> button.</p>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/database-create-2.jpg" alt="" /></figure>
+	</li>
+	<li>
+		<p>Your database has appeared in the list.  In order to enter the database, click on its name in the list.</p>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/database-create-3.jpg" alt="" /></figure>
+	</li>
+</ol>
+
+<p>You can also check the detailed video tutorial on <a href="/help/how-to-create-a-database.html" target="_blank"> How to create a database</a></p>
+
+<div class="alert alert-warning"><span>If you have any issues with creating a database, please contact your hosting provider for help and assistance.</span></div>
+		</article>
+<article id="import-database" class="article ">
+    		
+<h3>Sample data import</h3>
+<p>Magento template package contains the sample data file (<strong>dump.sql</strong> or <strong>dump.gz</strong>). This file is located under the <strong>/sources/sample_data</strong> folder of your template. It allows you to load sample data, so that your website looks exactly like our demo template.</p>
+<p class="alert alert-danger"><span>Do not import <strong>dump.sql.gz</strong> if you already have the data on your site. By importing <strong>dump.sql.gz</strong> all the products will be erased from your store. If you do not want to install sample data, use clean database while installing Magento. Skip the sample data installation step. </span></p>	
+<p>In order to install the dump file, follow the steps below:</p>
+<ol class="index-list">
+	<li>Log into PhpMyAdmin and the select the database that you will use for Magento Commerce (It was created by you with the help of the steps provided earlier). <figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/import-dump-1.jpg" alt="" /></figure></li>
+	<li>Navigate to <strong>"Import"</strong> tab and click <strong>"Browse"</strong> button. <figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/import-dump-2.jpg" alt="" /></figure></li>
+	<li>Find the <strong>"/sources/sample_data"</strong> folder of your template and select the <strong>dump.sql.gz.</strong>file. Click <strong>"GO"</strong>. <figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/import-dump-3.jpg" alt="" /></figure> The import process can take a few minutes.</li>
+</ol></article>
+<article id="uploading" class="article ">
+    		
+<h3>Uploading and unzipping</h3>
+
+<p>To start working with Magento you need to upload files to your hosting server. This can be done using your hosting file manager or some third party FTP manager.</p>
+            
+<ol class="index-list">
+  <li>Select <strong>'unzip.php'</strong> and <strong>'fullpackage.zip'</strong> files and upload them to your server (
+    <a href="/help/how-upload-files-server-2.html" target="_blank">How to upload files to server</a>).</li>
+  <li>Type the path to the <strong>'unzip.php'</strong> file on your server (http://your_domain_name/unzip.php) in your <abbr title="Internet Explorer, Google Chrome, Mozilla Firefox, Opera, Safari etc.">browser</abbr>.</li>
+  <li>
+  	You should see the following screen:
+  	<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/img/magento/complete-install-unzip-php.jpg" alt="Unzip.php initial screen."></figure>
+  </li>
+  <li>In the <strong>'Choose your zip file'</strong> select box please select the uploaded <strong>fullpackage.zip file</strong>.</li>
+  <li>In the <strong>'Unzip to'</strong> field specify the directory where you want to extract the files.</li>
+  <li>Click the <strong>'Unzip'</strong> button to proceed.</li>
+</ol>
+          
+<p class="alert alert-warning"><span>Please make sure to set the correct permissions for the directory where you are planning to extract the files. Permissions should be <strong>CHMOD 755 or 777</strong> depending on your server configuration. </span></p>
+		
+</article>
+<article id="ps_engine_install" class="article ">
+    <h3>Magento Installation</h3>
+<p>When you are done with uploading files, you can start Magento engine installation process. Open your browser and in the address bar type your <strong>'domain name/path to your Magento directory'</strong>. You should see the welcome screen. Please follow the instructions below to install Magento. </p>
+<div class="alert alert-warning"><span>NOTE: the <strong>dump.sql.gz</strong> file should be imported into the clear database BEFORE you install Magento.</span></div>
+
+<h4>Step 1: Installation Assistant</h4>
+<p>Please read the license agreement and click the "Agree and Setup Magento" checkbox if you agree with the terms. </p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-1.jpg" alt="" /></figure>
+<h5>Server Readiness Check</h5>
+<p>Click the "Start Readiness Check" button to check your server settings compatibility with the Magento 2 engine requirements. </p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-2.jpg" alt="" /></figure>
+<p>When the checking procedure is complete, click '<strong>Next</strong>'. button. </p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-3.jpg" alt="" /></figure>
+
+<h4>Step 2: Database connection</h4>
+<p>Here you need to input the database details and some initial settings. 
+<strong>Add a Database</strong> – input your host name, database name, database user and password. Contact your hosting provider, if you don't have the necessary details.</p>
+<p>Make sure you have a database created for the Magento installation. And also make sure it is clear, without any tables. 
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-4.jpg" alt="" /></figure>
+<p>If everything is correct, click '<strong>Next</strong>'. button. </p>
+
+<h4>Step 3: Web Configuration</h4>
+<p>Here you can change Magento admin panel URL and the main store address. Other settings you can leave unchanged. </p>
+<div class="alert alert-warning">Make a point of the admin panel path. Note it or insert your specific admin panel URL to remember the admin panel access.</span></div>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-5.jpg" alt="" /></figure>
+<p>When you are done, click '<strong>Next</strong>'. button. </p>
+
+<h4>Step 4: Localization</h4>
+<p>Select the required time zone, default currency and store language. In the <strong>Advanced Modules Configurations</strong> section you can also select default modules that should/shouldn't be installed. We recommend that you do not perform changes in this section. </p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-6.jpg" alt="" /></figure>
+<p>When you are done, click '<strong>Next</strong>'. button.</p>
+
+<h4>Step 5: Create Admin Account</h4>
+<p>Here you need to input personal details for the store owner and administrator. </p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-7.jpg" alt="" /></figure>
+
+<h4>Step 6: Install</h4>
+<p>The store configuration is done. Press the <strong>Install Now</strong> button to start the store installation process. </p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-8.jpg" alt="" /></figure>
+
+<h4>Step 7: Success</h4>
+<p>This is the final installation step. Copy the generated encryption key and keep it safe. </p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/how-to-install-9.jpg" alt="" /></figure></article>
+</section>
+<section id="theme-installation" class="section">
+    <article id="theme-installation__description" class="article ">
+    <h2 class="item1">Magento theme installation</h2>
+<div class="alert alert-danger">This theme is not compatible with Magento 1.9 engine. It will work with the Magento 2.0.0 engine only.</div>
+<p>First of all, please make sure your Magento installation version meets the template requirements. If you are using an outdated Magento engine version, you need to upgrade it. Don't forget to make a backup of your store files and database. The detailed Magento update guide you will find on the site <a target="_blank" href="http://www.magentocommerce.com/wiki/">Magento Wiki</a>.</p>
+<p>If your Magento engine meets the template requirements, you can start the template installation.</p>
+<ol class="index-list">
+    <li>Open the template package and go to the <strong>theme###</strong> folder.</li>
+		<li>Upload the <strong>app</strong> folder to the root Magento installation directory on your server. This folder includes the template files, that will not effect your existing files. </li>
+</ol></article>
+<article id="template-configuration" class="article ">
+    <h3>Template configuration</h3>
+<p>We are going to review template configuration options based on the example. We will configure it the same way as our Live Demo template, without affecting products data.</p>
+
+<h4>Activate the new theme</h4>
+<ol class="index-list">
+	<li>Open Magento admin panel and navigate to <strong>Stores > Configuration</strong> menu.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-1.jpg" alt="" /></figure>
+	</li>
+	<li>In the <strong>General</strong> menu select <strong>Design</strong> tab. Click <strong>Design Theme</strong> tab and in the <strong>Design Theme</strong> drop-down list select the required theme, then click <strong>Save Config</strong> button.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-2.jpg" alt="" /></figure>
+	</li>	
+</ol>
+
+<h4>Reindex data</h4>
+<ol class="index-list">
+	<li>Open Magento admin panel and navigate to <strong>System > Index Management</strong> menu.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-3.jpg" alt="" /></figure>
+	</li>
+	<li>In the fist column open the drop-down list and choose the "<strong>Select All</strong>" option. 
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-4.jpg" alt="" /></figure>
+	</li>
+	<li>In the top "<strong>Actions</strong>" selector choose "<strong>Update on save</strong>" option. It will allow automatically reindex the specified data after saving any settings in the admin panel.  
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-5.jpg" alt="" /></figure>
+	</li>
+	<li>Click "<strong>Submit</strong>" button.</li>
+	<li>Please be patient, this may take a while.</li>
+</ol>
+
+<h4>Disable cache</h4>
+<p>In order to make the changes appear on your website with no delay, you need to disable cache. It prevents additional cache clearing actions after every change you make. You can enable it when you are done with store editing.</p>
+<ol class="index-list">
+	<li>Open Magento admin panel and navigate to <strong>System > Cache Management</strong> menu. 
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-6.jpg" alt="" /></figure>
+	</li>
+	<li>In the fist column open the drop-down list and choose the "<strong>Select All</strong>" option. 
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-7.jpg" alt="" /></figure>
+	</li>
+	<li>In the top "<strong>Refresh</strong>" field select "<strong>Disable</strong>" option.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-8.jpg" alt="" /></figure>
+	</li>
+	<li>Click "<strong>Submit</strong>" button.</li>
+</ol></article>
+<article id="logo-configuration" class="article ">
+    <h3>Logo configuration.</h3>
+<p>Please follow these steps when setting up logo image included into the theme package (you can view it on the Live Demo page).</p>
+<ol class="index-list"> 
+	<li>Open the Magento admin panel and select <strong>Stores > Configuration</strong> in the side menu.<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-9.jpg" alt="" /></figure></li>
+	<li>Select the "<strong>General</strong>" tab.<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/Theme-set-10.jpg" alt="" /></figure>		</li>
+	<li>In the "<strong>General</strong>" section, select the <strong>Design</strong> tab. Choose <strong>Header</strong>, and upload your logo.
+	<li>Click <strong>"Save Config"</strong> button.</li>
+</ol>
+<p>In order to install your company logo, you need to upload the logo image file into the <strong>/images</strong> folder of your Magento theme.</p>	</article>
+<article id="pages-configuration" class="article ">
+    <h3>Pages configuration</h3>
+<p>In order to make your template look exactly like our Live Demo, you need to set up store pages in a specific way. We provide all the files with the pages source code. You need to add them into Magento admin panel as per the instructions below using the settings table. Settings table is located on the <strong>Technical details</strong> page on the template preview page. The documentation file contains the link to this page:</p>
+<ul class="files_structure">
+	<li class="folder"><i class="fa fa-folder-open"></i> <strong>Documentation</strong>
+		<ul>
+			<li class="file"><i class="fa fa-file"></i> documentation.html</li>
+		</ul>
+	</li>
+</ul>			
+<p>The main template page will be affected the most. It usually contains the following elements: banners, slider, gallery, etc.</p>
+<div class="alert alert-warning"><span>We recommend that you disable the WYSIWYG editor. To do this, from the admin top menu select  <strong>Stores &gt; Configuration</strong>. Open the "<strong>Content Management</strong>" section and in the <strong>WYSIWYG Options</strong> window set "<strong>Enable WYSIWYG Editor</strong>" option to "<strong>Disabled Completely</strong>".</span></br>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/page-settings-1.jpg" alt="" /></figure></div>
+<p class="alert alert-warning"><span>In case you have already made the changes to your pages code and would like to add our code without affecting your changes, it is recommended to contact professional technicians or prepare a backup before making changes.</span></p>
+<ol class="index-list">
+	<li>From the top menu select <strong>Content > Pages</strong>. Here you can find all the store pages. <strong>Home page</strong>, <strong>About Us</strong> and <strong>Customer Service</strong> should already be available, so you don't need to add them. You only need to update the pages HTML and XML content. Open any of them in order to get the access to the content.<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/page-settings-2.jpg" alt="" /></figure></li>
+	<li>Open the page and select the <strong>Content</strong> tab. It contains the HTML code of the page. You can take the page HTML code from the appropriate source file. You can see the list of source files included in the "Template Settings" section on your templates preview page. Copy the code from the source file and paste it to the <strong>content</strong> area.<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/page-settings-3.jpg" alt="" /></figure></li>
+	<li>When you are done with the HTML code, switch to  <strong>"Design"</strong> tab. It contains the page XML code. XML code allows you to add Magento static blocks and widgets to the page. The XML code should be copied the same way as the HTML from the source file. Copy the XML code to the "<strong>Layout Update XML</strong>" area.<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/page-settings-4.jpg" alt="" /></figure></li>
+	<li>Don't forget to select the valid "<strong>Layout</strong>" option.</li>
+	<li>In case you need to add a new page, click the <strong>"Add New Page"</strong> button in the top right corner.</li>
+</ol>
+
+<!-- <p>In case you have any difficulties, please check the detailed tutorial on <a target="_blank" href="/help/magento-how-to-install-sample-content-pages-manually.html">How to configure pages manually</a>.</p> -->		</article>
+<article id="static-blocks-configuration" class="article ">
+    <h3>Static blocks configuration</h3>
+<p>When you are done configuring the pages, you need to configure the static blocks. The procedure is similar: you need to copy the code from the source files and paste it to the corresponding fields in the Magento admin panel. You need to use a similar table but for the static blocks.</p>
+<p class="alert alert-warning"><span>Block ID may vary in your Magento installation. You can get correct block id from Content-> Blocks section in Admin panel.</span></p>
+<ol class="index-list"> 
+	<li>In the top menu navigate to <strong>Content > Blocks</strong>. </li>
+	<li>In the top right corner click the <strong>"Add New block"</strong> button to add a new static block. 
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/blocks-1.jpg" alt="" /></figure>
+	</li>
+	<li>Specify the block name and identifier. You can get the block details from the table at the template configuration page (check the Pages Configuration part).</li>
+	<li>Open the block source file and copy the HTML code into the content area.</li>
+</ol>
+
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/blocks-2.jpg" alt="" /></figure>
+
+<p class="alert alert-info"><span>NOTE: some templates do not contain any static blocks, so the table can be empty. </span></p>
+<p class="alert alert-info"><span>The source files with the static blocks code are stored in the "<strong>sources\demo\static_blocks\</strong>" folder of the template package. </span></p>
+
+<h4>How to display our blocks with static content?</h4>
+
+<ol class="index-list"> 
+	<li>In the top menu navigate to <strong>Content > Widgets</strong></li>
+	<li>In the top right corner click the <strong>"Add Widget"</strong> button to add a new widget.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/widget-1.jpg" alt="" /></figure>
+	</li>
+	<li>Specify the widget type <strong>CMS Static Block</strong> and theme that you want to apply the widget to, then click <strong>Continue</strong> button.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/widget-2.jpg" alt="" /></figure>
+	</li>
+	<li>On the next page in the <strong>Widget Title</strong> field enter the name of the widget which will be displayed in the admin panel. In the <strong>Assign to Store Views</strong> field you need to select store views which will display the widget. In the <strong>Layout Updates</strong> block clik <strong>Add Layout Update</strong> button. In the <strong>Display On</strong> field you can select pages where widget will be displayed on. Depending on selected pages you will have opportunity to fill in the additional fields. 
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/widget-3.jpg" alt="" /></figure>
+	</li>
+	<li>In the left sidebar click <strong>Widget Options</strong> tab and select the static block you are referring to. Don't forget to save changes. 
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/widget-4.jpg" alt="" /></figure>
+	</li>
+</ol>
+<p>When you are done configuring store pages and blocks, your store is ready to go.</p></article>
+</section>
+<section id="tm-extensions-settings" class="section">
+    <article id="tm-extensions-settings__description" class="article ">
+    <h2 class="item1">TM Extensions Settings</h2>
+<div class="alert alert-warning"><span>Attention! Some of the modules may not be included into your template package. This section describes configuration of all modules that are used in our templates. Each template pack is provided with a set of modules which is included into the design of this specific template.</span></div></article>
+<article id="ajax-whishlist" class="article ">
+    <h3>Ajax Wishlist</h3>
+<p>Products Wishlist is one of the standard e-commerce features. We have created the special module for the convenient use of this feature, it is based on AJAX technology and allows you to add products to the wishlist without having to navigate to the separate page.</p>
+<p>In order to configure this module, you should navigate to Magento admin panel and choose the <strong>Stores > Configuration</strong> section in the left side menu.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/compare.jpg" alt="" /></figure>
+<p>Then choose the <strong> TemplateMonster > Ajax Wishlist </strong> item on the new page on the left side.</p>
+ <figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/wishlist.jpg" alt="" /></figure>
+
+
+<p>Let’s review the module configuration:</p>			
+<table class="options-table">
+	<tr>
+		<td class="col-1"><strong>Enable</strong></td>
+		<td>-</td>
+		<td>this option allows you to enable or disable the module.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Show spinner</strong></td>
+		<td>-</td>
+		<td>this option allows to enable spinner display while adding an item to your wishlist.</td>
+	</tr>					
+	<tr>
+		<td class="col-1"><strong>Show Success Message</strong></td>
+		<td>-</td>
+		<td>this option allows to enable pop-up message display after adding an item to your wishlist.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Success Message Text</strong></td>
+		<td>-</td>
+		<td>here you can define a text message to appear in the pop-up window after adding an item to your wishlist.</td>
+	</tr>		
+</table></article>
+<article id="ajax-compare" class="article ">
+    <h3>Ajax Compare</h3>
+<p>Products compare is one of the standard e-commerce features. We have created the special module for the convenient use of this feature, it is based on AJAX technology, and allows you to add products to compare without having to navigate to the separate page. </p>
+ <p>You can either enable or disable this module. In order to do this, navigate to the Magento admin panel and choose <strong>Stores > Configuration</strong> section in the left side menu.</p>
+ <figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/compare.jpg" alt="" /></figure>
+ <p>Then choose the <strong> TemplateMonster > Product Compare Ajax </strong> item on the new page on the left side.</p>
+ <figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/compare-1.jpg" alt="" /></figure></article>
+<article id="ajax-catalog" class="article ">
+    <h3>Ajax Catalog</h3>
+<p>Quick and easy selection among the variety of products contributes to making a positive decision on purchasing in your online shop. Ajax Catalog module that provides this possibility is the most popular module among the online shops based on various platforms. It allows you to find and filter the products you need according to the selected parameters quickly and easily without reloading the page.</p>						
+<p>In order to configure this module, navigate to <strong>Stores -> Settings -> Configuration</strong> section.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/compare.jpg" alt="" /></figure>
+<p>Then navigate to <strong>TemplateMonster -> Catalog Ajax</strong> in the left side menu to go to the module settings interface.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/ajaxcatalog.jpg" alt="" /></figure>
+<p>Let’s review module options:</p>			
+<table  class="options-table">
+	<tr>
+		<td class="col-1"><strong>Pagination </strong></td>
+		<td>-</td>
+		<td>listing pagination. If your listing includes more than one page with products, this option allows to switch between the inner pages without reloading the main page.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Show number items</strong></td>
+		<td>-</td>
+		<td>number of products displayed on the page. This option allows you to change the number of products displayed on the single listing page without reloading.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Sort by (desc/asc)</strong></td>
+		<td>-</td>
+		<td>products ordering. You can sort items without reloading the main page.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>List order (price, position, name)</strong></td>
+		<td>-</td>
+		<td>sorting parameters. It allows you to define the sorting parameter without reloading the page.</td>
+	</tr>		
+	<tr>
+		<td class="col-1"><strong>View mode (grid/list)</strong></td>
+		<td>-</td>
+		<td>products display layout. This option allows you to specify products layout for listing pages without reloading them.</td>
+	</tr>		
+	<tr>
+		<td class="col-1"><strong>Layer filter</strong></td>
+		<td>-</td>
+		<td>filter by attributes. That is the main module option. It enables AJAX filter by attributes and parameters located in the standard shop filters column.</td>
+	</tr>		
+</table>			
+<p>Feel free to use all the options at once or just a few of them, it’s up to you.</p>	</article>
+<article id="megamenu" class="article ">
+    <h3>MegaMenu</h3>
+<p class="indent">TemplateMonster Megamenu module extends standard Magento menu functionality and allows you to configure subcategories multi-column display, add static blocks and products to the dropdown menu, as well as the flexibly customize its appearance in site admin panel.</p>
+
+<h4>Global configuration</h4>
+<p>In order to configure the module, navigate to <strong>Stores -> Settings -> Configuration</strong> section.</p>
+Choose the <strong>TEMPLATEMONSTER -> Megamenu</strong> in the left side menu to go to the module settings interface. 
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu.png" alt="" /></figure>
+This module has 2 options:
+<table class="options-table">
+	<tr>
+		<td class="col-1"><strong>Enable/Disable</strong></td>
+		<td>-</td>
+		<td>you can enable or disable the module if needed;</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Menu position</strong></td>
+		<td>-</td>
+		<td>you can choose menu position here.</td>
+	</tr>					
+</table>
+Menu position option includes two values: <strong>Topnav</strong> and <strong>Sidebar</strong>.
+<table class="options-table">
+	<tr>
+		<td class="col-1"><strong>Topnav</strong></td>
+		<td>-</td>
+		<td>displays menu in site header;</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Sidebar</strong></td>
+		<td>-</td>
+		<td>shows menu in sidebar.</td>
+	</tr>					
+</table>
+<div class="alert alert-danger">
+	<p>Attention!!! If you’re going to display menu in sidebar, be sure to enable a layout with left or right column included. In case you have one-column layout active for pages and <strong>Menu position:Sidebar</strong> option is enabled, no menu will appear at site.
+</div>
+
+<h4>Categories configuration</h4>
+Megamenu block display can be configured on the 1st level category configuration page, that can be found in the Megamenu tab, at <strong>Products -> Categories</strong> section. 
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-1.png" alt="" /></figure>
+You will see the <strong>Turn on megamenu for this category</strong> option at the <strong>MegaMenu tab</strong>. This option enabled Megamenu block display for the selected category. After enabling this option, you will see the two fields and a widget with menu content settings.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-2.png" alt="" /></figure>
+<p>Label option allows you to display the label (new, sale) for the top level categories. This label has default styling, but its appearance can be changed by using <strong>Css class</strong>option. This option sets the class for current menu item’s &lt;li&gt; и &lt;a&gt; tags, so you can easily create custom styling for your label by using the class.</p>
+<p>Megamenu block content settings widget allows you to define number of rows, columns, specify their width and lot of other settings.<br>
+In order to add a new row you need to use <strong>Add row</strong> button. Then you will see the empty field with <strong>Add column(s)</strong> and <strong>Remove row</strong> buttons. </p>
+<p><strong>Remove row</strong> - removes the row (field).</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-3.png" alt="" /></figure>
+<p>After pressing the <strong>Add column(s)</strong> button you’ll see a pop-up window to select the width of the column you’re going to add. The maximum width of the column is <strong>col-12</strong> it stretches menu block to the full width of the container. So, if you need to display 4 columns in a row, you have to add 4 columns with the width parameter set to <strong>col-3</strong>.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-4.png" alt="" /></figure>
+<p>Let’s consider columns’ settings.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-5.png" alt="" /></figure>
+<ul class="marked-list">
+	<li>
+		<strong>Set column width</strong> - column width. It can take values from col-1 to col-12. 
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-7.png" alt="" /></figure>
+	</li>
+	<li>
+		<strong>Enter specific class</strong> - custom css class of the column, so that you can further create styles for this column using css rules.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-6.png" alt="" /></figure>
+	</li>
+	<li>
+		<strong>Add subcategory</strong> -  subcategories dropdown for the parent category. This option allows you to select and display the subcategories you need. In order to do this, choose the subcategory among the list and press on the <strong>Add</strong> button. On the next step you will see this category listed at the <strong>Selected items</strong> field.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-8.png" alt="" /></figure>
+	</li>
+	<li>
+		<strong>Select static block</strong> - static blocks dropdown list. You can show any of site static blocks in the dropdown menu same as the list of subcategories, if you have previously added it to the shop admin panel. In order to add a static block, choose it among the list and press on <strong>Add</strong> button. Static block title will be listed in the <strong>Selected items</strong> field.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-9.png" alt="" /></figure>
+	</li>
+	<li>
+		<strong>Add products</strong> - adding product to the menu. This option allows you to add any of site products to the menu. Product image, title and a price will be displayed in this case. After pressing on the button you’ll see the pop-up with the list of products available for adding. After you add it to menu, it’s title will be listed in the <strong>Selected items</strong> field.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-11.png" alt="" /></figure>
+	</li>
+	<li>
+		<strong>Selected items</strong> - the field for sorting the items. It allows you to change the display  order (sorting) of your column content. Drag&Drop interface allows to reorder items by dragging them. If you do not want the product or static block to be displayed below, just drag it to the top to reach the required appearance. You can also remove some items here. Select the ones you need to remove and press on <strong>Remove selected</strong> button to do that.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-10.png" alt="" /></figure>
+	</li>
+</ul>
+
+<h4>Subcategories configuration</h4>
+<p>This module allows to add an image and a label to any products subcategory. In order to configure the subcategory, open its page and navigate to the Megamenu tab. You’ll see two options there: <strong>Category image</strong> and <strong>Label</strong>.</p>
+To add the subcategory image press on <strong>browse</strong> and choose an image from the clipart.<br>
+As to the label adding, fill in the <strong>Label</strong> field.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/menu-12.png" alt="" /></figure>
+<h4>Styles configuration</h4>
+You can edit scss style files to configure custom megamenu appearance. These files are located at the <strong>app\code\TemplateMonster\Megamenu\view\frontend\</strong>. Do not forget to clear the cache after changing the styles and compiling.
+</article>
+<article id="facebook-feed" class="article ">
+    <h3>Facebook plugin</h3>
+<p>Facebook Share is a professional module that allows you to display Facebook feed anywhere on the website. The module comes loaded with a wide assortment of features that allow webmasters to adjust it to any design and project.</p>						
+<p>In order to configure this module, navigate to <strong>Stores -> Settings -> Configuration</strong> section.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/compare.jpg" alt="" /></figure>
+<p>Then navigate to <strong>TemplateMonster -> Facebook Share</strong> in the left side menu to go to the module settings interface.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/facebook-1.jpg" alt="" /></figure>
+<table  class="options-table">
+	<tr>
+		<td class="col-1"><strong>Facebook Page URL </strong></td>
+		<td>-</td>
+		<td>specify the url address of your Facebook page.</td>
+	</tr>
+</table>
+
+<h4>Homepage Settings</h4>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/facebook-2.jpg" alt="" /></figure>
+<table  class="options-table">
+	<tr>
+		<td class="col-1"><strong>Enable widget </strong></td>
+		<td>-</td>
+		<td>enable/disable the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget block title </strong></td>
+		<td>-</td>
+		<td>here you should specify the title of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget position </strong></td>
+		<td>-</td>
+		<td>specify the position, where the widget will be displayed.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Tabs </strong></td>
+		<td>-</td>
+		<td>specify the type of the tabs.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Width </strong></td>
+		<td>-</td>
+		<td>specify the width of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Height </strong></td>
+		<td>-</td>
+		<td>specify the height of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Use Small Header </strong></td>
+		<td>-</td>
+		<td>enable/disable small header.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Adapt to plugin container width </strong></td>
+		<td>-</td>
+		<td>this option allows the module to adapt to the container width.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Hide Cover Photo </strong></td>
+		<td>-</td>
+		<td>show/hide cover photo.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Show Friend's Faces </strong></td>
+		<td>-</td>
+		<td>show/hide profiles of the Facebook users.</td>
+	</tr>
+</table>
+
+<h4>Category Page Settings</h4>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/facebook-3.jpg" alt="" /></figure>
+<table  class="options-table">
+	<tr>
+		<td class="col-1"><strong>Enable widget </strong></td>
+		<td>-</td>
+		<td>enable/disable the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget block title </strong></td>
+		<td>-</td>
+		<td>here you should specify the title of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget position </strong></td>
+		<td>-</td>
+		<td>specify the position, where the widget will be displayed.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Tabs </strong></td>
+		<td>-</td>
+		<td>specify the type of the tabs.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Width </strong></td>
+		<td>-</td>
+		<td>specify the width of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Height </strong></td>
+		<td>-</td>
+		<td>specify the height of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Use Small Header </strong></td>
+		<td>-</td>
+		<td>enable/disable small header.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Adapt to plugin container width </strong></td>
+		<td>-</td>
+		<td>this option allows the module to adapt to the container width.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Hide Cover Photo </strong></td>
+		<td>-</td>
+		<td>show/hide cover photo.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Show Friend's Faces </strong></td>
+		<td>-</td>
+		<td>show/hide profiles of the Facebook users.</td>
+	</tr>
+</table>
+
+<h4>Product Page Settings</h4>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/facebook-4.jpg" alt="" /></figure>
+<table  class="options-table">
+	<tr>
+		<td class="col-1"><strong>Enable widget </strong></td>
+		<td>-</td>
+		<td>enable/disable the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget block title </strong></td>
+		<td>-</td>
+		<td>here you should specify the title of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget position </strong></td>
+		<td>-</td>
+		<td>specify the position, where the widget will be displayed.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Tabs </strong></td>
+		<td>-</td>
+		<td>specify the type of the tabs.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Width </strong></td>
+		<td>-</td>
+		<td>specify the width of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Height </strong></td>
+		<td>-</td>
+		<td>specify the height of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Use Small Header </strong></td>
+		<td>-</td>
+		<td>enable/disable small header.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Adapt to plugin container width </strong></td>
+		<td>-</td>
+		<td>this option allows the module to adapt to the container width.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Hide Cover Photo </strong></td>
+		<td>-</td>
+		<td>show/hide cover photo.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Show Friend's Faces </strong></td>
+		<td>-</td>
+		<td>show/hide profiles of the Facebook users.</td>
+	</tr>
+</table>
+
+<h4>CMS Page Settings</h4>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/facebook-5.jpg" alt="" /></figure>
+<table  class="options-table">
+	<tr>
+		<td class="col-1"><strong>Enable widget </strong></td>
+		<td>-</td>
+		<td>enable/disable the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget block title </strong></td>
+		<td>-</td>
+		<td>here you should specify the title of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget position </strong></td>
+		<td>-</td>
+		<td>specify the position, where the widget will be displayed.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Tabs </strong></td>
+		<td>-</td>
+		<td>specify the type of the tabs.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Width </strong></td>
+		<td>-</td>
+		<td>specify the width of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Height </strong></td>
+		<td>-</td>
+		<td>specify the height of the widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Use Small Header </strong></td>
+		<td>-</td>
+		<td>enable/disable small header.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Adapt to plugin container width </strong></td>
+		<td>-</td>
+		<td>this option allows the module to adapt to the container width.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Hide Cover Photo </strong></td>
+		<td>-</td>
+		<td>show/hide cover photo.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Show Friend's Faces </strong></td>
+		<td>-</td>
+		<td>show/hide profiles of the Facebook users.</td>
+	</tr>
+</table></article>
+<article id="twitter-feed" class="article ">
+    <h3>Twitter Timeline</h3>
+<p>Display Twitter Feed Box quickly and easily with the help of this advanced Twitter Timeline module. Thanks to a variety of customization options, you can adapt the module according to the specifications of your project.</p>						
+<p>In order to configure this module, navigate to <strong>Stores -> Settings -> Configuration</strong> section.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/compare.jpg" alt="" /></figure>
+<p>Then navigate to <strong>TemplateMonster -> Twitter Timeline</strong> in the left side menu to go to the module settings interface.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/twitter-1.png" alt="" /></figure>
+<p>Let’s review module options:</p>			
+<table  class="options-table">
+	<tr>
+		<td class="col-1"><strong>Enabled </strong></td>
+		<td>-</td>
+		<td>turn on to enable the module.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Widget id</strong></td>
+		<td>-</td>
+		<td>twitter widget id.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Account name</strong></td>
+		<td>-</td>
+		<td>Twitter account name.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Position</strong></td>
+		<td>-</td>
+		<td>widget position on the page.</td>
+	</tr>		
+	<tr>
+		<td class="col-1"><strong>Color scheme</strong></td>
+		<td>-</td>
+		<td>color scheme of the timeline widget.</td>
+	</tr>		
+	<tr>
+		<td class="col-1"><strong>Layout enhancements</strong></td>
+		<td>-</td>
+		<td>choose from options to customize timeline widget.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Tweet limit</strong></td>
+		<td>-</td>
+		<td>number of tweets to display. This field can only be set, if height is not specified.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Link color</strong></td>
+		<td>-</td>
+		<td>link color in hex format.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Border color</strong></td>
+		<td>-</td>
+		<td>border color in hex format.</td>
+	</tr>	
+	<tr>
+		<td class="col-1"><strong>Height</strong></td>
+		<td>-</td>
+		<td>height of the timeline widget in pixels. This field can only be set, if tweet limit is not specified.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Width</strong></td>
+		<td>-</td>
+		<td>width of the timeline widget in pixels.</td>
+	</tr>	
+</table>			
+<p>Feel free to use all the options at once or just a few of them, it’s up to you.</p>	</article>
+<article id="theme-options" class="article ">
+    <h3>Theme Options</h3>
+	<p>This module allows you to customize the look of the theme in accordance with the specifications of your project. You are free to change the background, footer or header color, as well as the appearance of the site on various screens.</p>
+					
+	<p>Let’s take a look at each section of the module:</p>	
+<h4>General</h4>	
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/theme-options-general.png" alt="" /></figure>
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Body background color</strong></td>
+			<td>-</td>
+			<td>specify the background color;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Body background image</strong></td>
+			<td>-</td>
+			<td> enable/disable the background image; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Header background color</strong></td>
+			<td>-</td>
+			<td> specify the header background color;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Footer background color </strong></td>
+			<td>-</td>
+			<td>specify the footer background color;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Footer background image </strong></td>
+			<td>-</td>
+			<td>enable/disable the footer background image.</td>
+		</tr>
+	</table>
+
+<h4>Main Theme Settings </h4>	
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/theme-options-main-settings.png" alt="" /></figure>
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Top head background color</strong></td>
+			<td>-</td>
+			<td>specify the top head background color;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Top head background image</strong></td>
+			<td>-</td>
+			<td> enable/disable the head background image;  </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Block title background color</strong></td>
+			<td>-</td>
+			<td> specify the block title background color;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Block title background image </strong></td>
+			<td>-</td>
+			<td>enable/disable the block title background image. </td>
+		</tr>
+	</table>
+
+<h4>Desktop </h4>	
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/theme-options-main-desktop.png" alt="" /></figure>
+
+<h4>Product Grid Setting </h4>	
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Items per row</strong></td>
+			<td>-</td>
+			<td>specify the number of items displayed;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Product image height</strong></td>
+			<td>-</td>
+			<td> specify the height of the product image;  </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Product image width</strong></td>
+			<td>-</td>
+			<td> specify the width of the product image.</td>
+		</tr>
+	</table>
+
+<h4>Product List Setting </h4>	
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Product image height</strong></td>
+			<td>-</td>
+			<td>specify the height of the product image; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Product image width</strong></td>
+			<td>-</td>
+			<td>  specify the width of the product image;   </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Short description length</strong></td>
+			<td>-</td>
+			<td> specify the length of the short description.</td>
+		</tr>
+	</table>
+
+<h4>Tablet </h4>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/theme-options-tablet.png" alt="" /></figure>
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Product image height</strong></td>
+			<td>-</td>
+			<td>specify the height of the product image; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Product image width</strong></td>
+			<td>-</td>
+			<td>  specify the width of the product image;   </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Short description length</strong></td>
+			<td>-</td>
+			<td> specify the length of the short description.</td>
+		</tr>
+	</table>
+
+<h4>Product Grid Setting </h4>	
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Items per row (portrait)</strong></td>
+			<td>-</td>
+			<td>specify the number of items displayed in portrait mode; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Items per row (landscape)</strong></td>
+			<td>-</td>
+			<td>specify the number of items  displayed in landscape mode;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Products per page</strong></td>
+			<td>-</td>
+			<td>  specify the number of products displayed on the page. </td>
+		</tr>
+	</table>
+
+<h4>Product List Setting </h4>	
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Product List Setting</strong></td>
+			<td>-</td>
+			<td>Short description length - specify the product list short description length.</td>
+		</tr>
+	</table>
+
+<h4>Mobile </h4>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/theme-options-mobile.png" alt="" /></figure>
+
+<h4>Product Grid Setting </h4>	
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Items per row (portrait)</strong></td>
+			<td>-</td>
+			<td>specify the number of items displayed in portrait mode; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Items per row (landscape)</strong></td>
+			<td>-</td>
+			<td>specify the number of items  displayed in landscape mode;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Products per page</strong></td>
+			<td>-</td>
+			<td>  specify the number of products displayed on the page. </td>
+		</tr>
+	</table>
+
+<h4>Product List Setting </h4>	
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Product List Setting</strong></td>
+			<td>-</td>
+			<td>Short description length - specify the product list short description length.</td>
+		</tr>
+	</table>
+
+<h4>Product detail settings </h4>	
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/theme-options-product-detail.png" alt="" /></figure>
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Product gallery width</strong></td>
+			<td>-</td>
+			<td>Product gallery width - specify the  product gallery width; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Product gallery height</strong></td>
+			<td>-</td>
+			<td>specify the  product gallery height;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Show upsell products</strong></td>
+			<td>-</td>
+			<td>  show/hide upsell products; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Upsell products count</strong></td>
+			<td>-</td>
+			<td> number of  upsell products displayed; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Upsell image width</strong></td>
+			<td>-</td>
+			<td> specify the upsell image width;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Upsell image height</strong></td>
+			<td>-</td>
+			<td> specify the upsell image height;</td>
+		</tr>
+	</table>
+
+<h4>Social Links </h4>	
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/theme-options-social_links.png" alt="" /></figure>
+	<table  class="options-table">
+		<tr>
+			<td class="col-1"><strong>Header social links</strong></td>
+			<td>-</td>
+			<td>show/hide social links in  header;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Footer social links</strong></td>
+			<td>-</td>
+			<td>show/hide social links in  footer;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>RSS link</strong></td>
+			<td>-</td>
+			<td> insert the RSS link URL;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Facebook link</strong></td>
+			<td>-</td>
+			<td> insert the Facebook link URL; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Twitter link</strong></td>
+			<td>-</td>
+			<td> insert the Twitter link URL; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Google link</strong></td>
+			<td>-</td>
+			<td> insert the Google link URL; </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Instagram link</strong></td>
+			<td>-</td>
+			<td> insert the Instagram link URL;  </td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>LinkedIn link</strong></td>
+			<td>-</td>
+			<td>insert the LinkedIn link URL;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Dribble link</strong></td>
+			<td>-</td>
+			<td>insert the Dribble link URL;</td>
+		</tr>
+		<tr>
+			<td class="col-1"><strong>Youtube link</strong></td>
+			<td>-</td>
+			<td>insert the Youtube link URL;</td>
+		</tr>
+	</table></article>
+<article id="ajax-search" class="article ">
+    <h3>Ajax Search</h3>
+<p>Quick and easy search among the variety of products contributes to making a positive decision on purchasing in your online shop. Search module is the popular module among the online shops based on various platforms. It allows you to find
+the products you need according to the selected parameters quickly and easily without reloading the page.</p>
+<p>In order to configure this module, you should navigate to Magento admin panel and choose the <strong>Stores > Configuration</strong> section in the left side menu.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/search-1.png" alt="" /></figure>
+<p>Then choose the <strong> TemplateMonster > Catalog Search Ajax item </strong> in the left side menu to go to the module settings interface.</p>
+ <figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/search.png" alt="" /></figure>
+
+
+<p>This module has 6 options available for editing if needed.<br>
+	Let’s review each option separately:</p>			
+<table class="options-table">
+	<tr>
+		<td class="col-1"><strong>Default Search Ajax</strong></td>
+		<td>-</td>
+		<td>enables/disables search by keywords,  specified in the “Search Terms” shop section.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Product Search Ajax</strong></td>
+		<td>-</td>
+		<td>enables/disables search by products’ titles, assigned to all of active site categories.</td>
+	</tr>					
+	<tr>
+		<td class="col-1"><strong>Category Search Ajax</strong></td>
+		<td>-</td>
+		<td>enables/disables search by all of active site categories titles.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Category Search Ajax Num. Result</strong></td>
+		<td>-</td>
+		<td>defines the number of categories to show in the search results list.</td>
+	</tr>	
+	<tr>
+		<td class="col-1"><strong>Default Search Ajax Num. Result</strong></td>
+		<td>-</td>
+		<td>defines the number of products to show in the search results list while searching by a keyword.</td>
+	</tr>
+	<tr>
+		<td class="col-1"><strong>Product Search Ajax Num. Result</strong></td>
+		<td>-</td>
+		<td>defines the number of products to show in the search results list.</td>
+	</tr>	
+</table>
+
+<div class="alert alert-danger">Attention!!! <br>
+If you decide to enable Category Search Ajax and Product Search Ajax options, you’ll also need to enable <strong>Use Flat Catalog Category</strong> and <strong>Use Flat Catalog Product</strong> options respectively. You can enable these options  at the <strong>Catalog - > Catalog -> Storefront tab</strong>.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/search-2.png" alt="" /></figure></div>
+<p>Feel free to use all the options at once or just some of them, it’s up to you. In case there are any suggestions or errors detected, feel free to contact us using the link provided on the module page!</p>
+<p>Enjoy using!</p></article>
+<article id="film-slider" class="article ">
+    <h3>Film Slider</h3>
+<p>TemplateMonster FilmSlider module is an implementation of elegant and professional jQuery plugin ‘Slider Pro’. Allows you to add slider with multiple layers to your store home page. Rich collection of slider configuration options and user interface will help you to configure your slider fast and easily.</p>
+<p>In the main navigation menu you’ll see new menu option <strong>TemplateMonster</strong>. <br>To start working with the FilmSlider module, click <strong>Template Monster -> Sliders</strong> menu item.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-1.png" alt="" /></figure>
+<p>Here you can see a list of available sliders where you can <strong>disable/enable</strong>, <strong>delete</strong> or <strong>edit</strong> sliders.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-2.png" alt="" /></figure>
+<p>To add new slider click <strong>Add New Slider</strong> button in the top right corner. <br>
+On the slider configuration screen in <strong>General Options</strong> section you can see all available slider settings. <strong>Slider Items</strong> section allows you to add slides to your slider.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-3.png" alt="" /></figure>
+<p>Let’s see what slider options are available. As you can see options are divided into several parts to make the configuration interface more user friendly. </p>
+
+<h4>General Options</h4>
+<h5>Main Settings</h5>
+<p>This section allows you to set slider title, select store view, enable/disable slider, set its width and height. Each option refers to <strong>Slider Pro jQuery plugin</strong> property. You can find more specific description of each property in <a target='_blank' href="https://github.com/bqworks/slider-pro/blob/master/docs/api.md#1-properties">official Slider Pro</a> documentation. Some jQuery plugin properties may not present in the <strong>FilmSlider</strong> configuration, we will add them in future releases.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-4.png" alt="" /></figure>
+Slider dimensions (width and height) can be set to a fixed value, like 900 (indicating 900 pixels), or to a percentage value, like '100%'.
+<div class="alert alert-warning">
+	Please note: slide title, store view and status are required, you cannot save the slide without these values set.
+</div>
+
+<h5>Image Settings</h5>
+<p>In image section you can adjust slider image configuration settings. Each option has a brief description. Let’s describe some of them more specifically.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-5.png" alt="" /></figure>
+<h6>aspectRatio</h6>
+Sets the aspect ratio of the slides. If set to a value different than -1, the height of the slides will be overridden in order to maintain the specified aspect ratio.
+<h6>imageScaleMode</h6>
+Sets the scale mode of the main slide images (images added as background). 'cover' will scale and crop the image so that it fills the entire slide. 'contain' will keep the entire image visible inside the slide. 'exact' will match the size of the image to the size of the slide. 'none' will leave the image to its original size.
+<h6>forceSize</h6>
+Indicates if the size of the slider will be forced to full width or full window.
+<div class="alert alert-warning">
+	Note: It's possible to make the slider full width or full window by giving it a width and/or height of '100%'. However, sometimes the slider might be inside other containers which are less than full width/window. The 'forceSize' property is useful in those situations because it will still enlarge the slider to fill the width or window by overflowing its parent elements.
+</div>
+
+<h5>Slides settings</h5>
+Slides settings section allows to configure slides behaviour. Here you can configure slides animation, visible slider size, slides shuffle and loop.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-6.png" alt="" /></figure>
+
+<h5>Fade animation settings</h5>
+This section contains settings for fade animation. Fade animation can be enabled on slide switch.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-7.png" alt="" /></figure>
+You can set if you want to fade out previous slide and fade animation duration in milliseconds. 
+
+<h5>Auto play settings</h5>
+Autoplay feature in Film Slider allows to loop through the slides automatically. This configuration settings contain options to configure auto play delay, direction and pause with mouse cursor on hover. 
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-8.png" alt="" /></figure>
+
+<h5>Controls settings</h5>
+Slider controls are the navigation buttons that let you switch the slides. In <strong>FilmSlider</strong> there are several types of navigation controls: <strong>prev/next</strong> arrows,  <strong>pagination</strong> buttons. Enabled keyboard navigation allows you to switch between the slides using keyboard. Also, you can enable button that will switch slider to the full screen mode.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-9.png" alt="" /></figure>
+
+<h5>Responsive settings</h5>
+Responsive settings section configures slider behaviour on mobile devices. Here you can define screen width breakpoints (<strong>small, medium, large</strong>). Also, you can enable touch swipe behaviour to let user switch between the slides with swipe gestures. 
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-10.png" alt="" /></figure>
+
+<h5>Caption Settings</h5>
+Caption feature allows to add text to each slide. This section allows you to enable caption fade animation and set its duration.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-11.png" alt="" /></figure>
+
+<h5>Layers main settings</h5>
+Layers configuration settings contain slides layers behaviour. Each option has a brief description under the input fields.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-12.png" alt="" /></figure>
+
+<h4>Adding Slides</h4>
+You can add new slides only after saving the slider. Click <strong>Save and Continue Edit</strong> button in the top right corner. When the slider is saved, switch to <strong>Slider Items</strong> tab.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-13.png" alt="" /></figure>
+Click <strong>Add Slider Item</strong> to add a new slide. Let’s see what slide configuration options are available.
+
+<h5>Slide Information</h5>
+Here you can input slide title and set its status (<strong>enabled/disabled</strong>).
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-14.png" alt="" /></figure>
+
+<h5>Slide Images</h5>
+This section allows you to add images to the slide. Click Insert Image button to open Image library where you can select available images.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-15.png" alt="" /></figure>
+You can also upload images from your computer.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-16.png" alt="" /></figure>
+Under the Image field you can see your slide preview. You are free to set preview size the way you like. We moved the next section of slide configuration to the separate section as it is fully related to slide layers. 
+
+<h4>Working with layers</h4>
+<strong>FilmSlider</strong> is a multi-layer slider. This mean that your can add multiple independent layers to your slide. Layers can be added to the slide on the slide configuration screen described above. This screen contains several sections of layers settings.
+
+<h5>Layers list</h5>
+Layers list section allows to add layers to your slide. You can add image layers and text layers. Use corresponding buttons to add layers.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-17.png" alt="" /></figure>
+By clicking on <strong>Add layer image</strong> you’ll see an image library where you can select from available images or upload images from your computer. By clicking <strong>Add layer text</strong>, you’ll see new text layer added and layer settings became associated with your new particular layer.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-18.png" alt="" /></figure>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-19.png" alt="" /></figure>
+
+<h5>Layer text settings</h5>
+Using <strong>Layer text settings</strong> section you can input layer text, layer size, colors, font styling, etc.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-20.png" alt="" /></figure>
+In the <strong>Layer text/html</strong> field you can input your layer content in both text and html format. 
+
+<h5>Layer text position settings</h5>
+In this section you can define text layer position.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-21.png" alt="" /></figure>
+
+<h5>Layer animation settings</h5>
+This section allows you to define layer animation. You can set its position on the slide, set transition, offsets, delay, duration, etc.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-22.png" alt="" /></figure>
+When you add several layers, bottom configuration settings (position and animation) will show settings for the selected layer.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-23.png" alt="" /></figure>
+
+<h4>Adding slider to page</h4>
+To add slider to your page please use Magento widgets. In the main admin panel menu click <strong>Content -> Pages</strong> item.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-24.png" alt="" /></figure>
+Select the page you want to add slider to and click <strong>Edit</strong>.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-25.png" alt="" /></figure>
+At the page editing screen switch to <strong>Content</strong> section and click <strong>Insert Widget</strong> button.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-27.png" alt="" /></figure>
+In the appeared window select widget type <strong>Template Monster FilmSlider</strong>, select the slider you want to insert and click <strong>Insert Widget</strong> button. 
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/slide-28.png" alt="" /></figure>
+When you are done adding the widget click <strong>Save Page</strong> button and switch to store frontend to see the result.</article>
+<article id="newsletter" class="article ">
+    <h3>Newsletter Pop-up</h3>
+<p class="indent">Email newsletter has always been the important part of every marketing strategy. This method is used all over the world, so it will definitely help you to gain more orders and subscribers. That's why we proudly present you the Newsletter pop-up module. It displays the popup window with subscription form and social icons right after the client visits your site.</p>
+
+<h4>Global configuration</h4>
+In order to configure the module, navigate to <strong>Stores -> Settings -> Configuration</strong> section.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-0.png" alt="" /></figure>
+Choose the <strong>TEMPLATEMONSTER -> Newsletter Pop-up</strong> in the left side menu to go to the module settings interface.<br>
+The module has 2 sections, and each one contains a specific set of options:
+<ul class="marked-list">
+	<li>
+		<strong>General</strong>
+	</li>
+	<li>
+		<strong>Social Settings</strong>
+	</li>
+</ul>
+ <figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-2.jpg" alt="" /></figure>
+
+<p><strong>General</strong> section includes main module settings, and <strong>Social settings</strong> section serves for social icons display setup in the pop-up window.</p>
+
+<h4>General</h4>
+As stated above, this section includes main module settings. You can enable or disable module here, specify buttons color, define the width of the window, etc. Let’s review each option separately.
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-4.jpg" alt="" /></figure>
+<ol class="index-list">
+	<li>
+		In order to enable or disable module completely, you'll need to use <strong>Enabled</strong> option. It provides the possibility to deactivate the module completely.
+	</li>
+	<li>		
+		<p><strong>Show on startup</strong>, <strong>Show on footer</strong> and <strong>Show in footer</strong> options allow you to configure the subscription form pop-up display.</p>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-6.jpg" alt="" /></figure>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-8.jpg" alt="" /></figure>
+	</li>
+	<li>
+		<strong>Show on startup</strong> option shows up the pop-up after visiting the site. As soon as shop page is loaded, you will see the pop-up offering you to subscribe to this site's newsletter.	
+	</li>
+	<li>
+		<p>This pop-up can be also set up to display once again after navigating to site footer by using a scrollbar. I.e., if you close the pop-up that appeared after the initial page loading and scroll down to the footer then, the same pop-up will show up for the second time. In order to re-display this subscription window, you have to enable <strong>Show on footer</strong> option.</p>
+	</li>
+	<li>		
+		<p><strong>Show in footer</strong> option allows you to display a link in the site footer, to display the newsletter pop-up after clicking on it. Footer link text field changes the label for the link displayed in the footer after activating the Show in footer option.</p>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-9.jpg" alt="" /></figure>
+	</li>
+	<li>
+		Используя <strong>Pop-Up width</strong> option allows you to define the newsletter pop-up window width. Its size can be set in pixels only.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-7.jpg" alt="" /></figure>
+	</li>
+	<li>
+		The pop-up may not be displayed immediately, but after some certain time period. This setting is controlled by <strong>Pop-Up timeout</strong> option. You can set a delay before the newsletter pop-up appearance and it will not show up right away, but only after the time you have specified passes since the client visits your site.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-10.jpg" alt="" /></figure>
+	</li>
+	<li>
+		<strong>Button color</strong> and <strong>Button hover color</strong> options let you set a background color for the "subscribe" button.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-5.jpg" alt="" /></figure>
+	</li>
+	<li>
+		You may need the <strong>CSS-class</strong> option when customizing the pop-up design. This option allows you to apply additional custom CSS-class for the pop-up window so that it can be used for further stylizing or other actions.
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-11.jpg" alt="" /></figure>
+	</li>
+</ol>
+
+<h4>Social Settings</h4>
+<p class="indent">This section is responsible for social icons display and configuration in the newsletter pop-up. It consists of a few subsections that have similar options.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-12.jpg" alt="" /></figure>
+<p>Main settings subsection allows you to set colors and social icons' appearance for the following services:</p>
+<ul class="marked-list">
+	<li>Facebook</li>
+	<li>Twitter</li>
+	<li>LinkedIn</li>
+	<li>Google+</li>
+	<li>Youtube</li>
+	<li>Vimeo</li>
+	<li>Pinterest</li>
+	<li>Instagram</li>
+	<li>Foursquare</li>
+	<li>Tumblr</li>
+	<li>RSS</li>
+</ul>
+
+<ol class="index-list">
+	<li>
+		<p>You can enable or disable certain icon appearance by using the respective <strong>Enabled ……. icon</strong> option. This option activation will make a respective sections appear to let you configure each icon individually.</p>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-15.jpg" alt="" /></figure>
+	</li>
+	<li>
+		<p>This section also includes the <strong>Use default icon colors</strong> option. It is used for changing icons color. </p>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-16.jpg" alt="" /></figure>
+		By default it's enabled, so all the icons have their corporate (standard) color that is specific for each social network. However, if you'd like to define icons color on your own, you should disable this option.
+	</li>
+	<li>
+		<p>Each social network section has a <strong>Link</strong> option available. It lets you define the link to any page (your profile) in a respective social network.</p>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-13.jpg" alt="" /></figure>
+	</li>
+	<li>
+		<p>After disabling the <strong>Use default icon colors</strong> option, you will see the new fields in subsections for each social network icon configuration:</p>
+		<ul class="marked-list">
+			<li>Icon background</li>
+			<li>Icon color</li>
+			<li>Icon background hover</li>
+			<li>Icon hover color</li>
+		</ul>
+		<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-14.jpg" alt="" /></figure>
+	</li>
+</ol>
+<p>All of these options allow you to customize the icon appearance. They provide you with the option to set the icon background and color for the initial state and on hover (after hovering the icon with the mouse cursor). <br>
+Please be sure to save your configuration! </p>
+
+<p>Just in case you'd like to return all the default settings, there is a <strong>Reset</strong> button available next to the <strong>Save</strong> one.</p>
+<figure class="img-polaroid"><img src="http://chris.magento2.dev/global-documentation/products/magento/projects/magento2/img/magento/new-17.jpg" alt="" /></figure></article>
+</section>
+<section id="conclusion" class="section">
+    <article id="conclusion__description" class="article ">
+    <h2 class="item7"><i class="icon-question-sign"></i> Conclusion</h2>
+        <p>Magento engine is a great solution for your online store. The default engine package contains all the modules necessary for successful sales. Open source allows you to offer really outstanding merchant possibilities for your customers. However, due to the quite complex engine structure advanced usage of Magento will require a lot of time and aspiration. You'll need much more than this manual. </p>
+        <p>The following resources will help you to become a true Magento professional:</p>
+        <h4 id="useful_resources">Useful resources</h4>
+        <ul class="marked-list">
+            <li><a target="_blank" href="http://www.magentocommerce.com/support/magento-user-guide-book">The Official Magento User Guide</a></li>
+            <li><a target="_blank" href="http://www.magentocommerce.com/wiki/">Magento Wiki</a></li>
+            <li><a target="_blank" href="http://www.magentocommerce.com/knowledge-base">Knowledge Base</a></li>
+            <li><a target="_blank" href="http://www.magentocommerce.com/boards/">Magento Forum</a></li>
+            <li><a target="_blank" href="/help/ecommerce/magento/magento-tutorials/">Magento tutorials</a></li>
+        </ul>
+        <h4>Help and Support</h4>
+        <ul class="marked-list">
+            <li><a href="http://chat.template-help.com/" target="_blank">Live chat</a></li>
+            <li><a href="http://support.template-help.com/index.php?/Tickets/Submit"  target="_blank">Help ticket system</a></li>
+        </ul>
+
+        
+        <h4>Loading data from Google servers</h4> 
+        Some countries have issues connecting to Google servers. This can cause issues loading Google Fonts from Google CDN. To resolve these issues please do the following:
+        <ol class="index-list"> 
+            <li>Open <strong>app\design\frontend\default\theme***\template\page\html\head.phtml</strong></li> 
+            <li>Locate the line:<pre class="prettyprint">   &lt;link href='//fonts.googleapis.com/css?family=[---your_web_font_name_here---]' rel='stylesheet' type='text/css' /></pre></li> 
+            <li>Replace it with the following: <br> 
+            <pre class="prettyprint">   &lt;link href='//fonts.useso.com/css?family=[---your_web_font_name_here---]' rel='stylesheet' type='text/css' /></pre></li> 
+        </ol></article>
+</section>
+                </div>
+            </main>
+
+            <!--========================================================
+                FOOTER
+            =========================================================-->
+            <footer>
+                <!-- <div class="navigate">
+                    <div class="next_wrapper navigated-section-2">
+                        <div class="container">
+                            <a href="/section/template-installatiamework-installation.html" class="next">
+                                <span>Next</span>
+                                <em>Template installation</em>
+                            </a>
+                        </div>
+                    </div>
+                </div> -->
+
+            </footer>
+        </div>
+    </div>
+</div>
+
+<script src="http://chris.magento2.dev/global-documentation/js/jquery.easing.1.3.js"></script>
+<script src="http://chris.magento2.dev/global-documentation/js/jquery.rd-navbar.js"></script>
+<script src="http://chris.magento2.dev/global-documentation/js/prettify.js"></script>
+<script src="http://chris.magento2.dev/global-documentation/js/jquery.fancybox.js"></script>
+<script src="http://chris.magento2.dev/global-documentation/js/jquery.ui.totop.js"></script>
+
+</body>
+</html>
