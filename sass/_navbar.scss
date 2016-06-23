@@ -266,7 +266,10 @@ body.navbar-fixed {
   z-index: 6;
 }
 
-.rd-mobilemenu, .page-content .page, .page-content .rd-mobilepanel, .page-content .rd-mobilepanel_toggle {
+.rd-mobilemenu,
+.page-content .page,
+.page-content .rd-mobilepanel,
+.page-content .rd-mobilepanel_toggle{
   @include transition(#{1s all cubic-bezier(0.2, 1, 0.3, 1), 0s height});
   transition-property: transform;
 }

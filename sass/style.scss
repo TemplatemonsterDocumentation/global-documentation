@@ -245,9 +245,21 @@ b, strong {
   font-weight: 700;
 }
 
+/*====Onepage layout ===*/
+
+body.onepage{
+    .section{
+        padding-top: 120px;
+        &:first-child{
+            padding-top: 0;
+        }
+    }
+}
+
 /*=======================================================
                         Components
 =========================================================*/
+
 /*===============  Table  ==================*/
 .table{
   thead{
@@ -273,6 +285,32 @@ b, strong {
 
   }
 }
+
+.options-table {
+    width: 100%;
+    border-bottom:1px solid #ccc;
+    margin-bottom: 20px;
+    td {
+        vertical-align: top;
+        padding:0 5px 0 2px;
+        border-bottom:1px solid #ccc;
+    }
+    .col-1 {
+        width: 14%;
+        text-align: right;
+    }
+    .col-1 + td {
+        width: 5px;
+    }
+    @media (max-width: 979px) {
+        .col-1 {
+            width: 20%;
+            text-align: right;
+        }
+    }
+}
+
+
 /*===============  Marked List  ==================*/
 .marked-list{
   > li {

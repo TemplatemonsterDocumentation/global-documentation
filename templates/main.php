@@ -35,7 +35,8 @@
 <body data-section="<?php echo $this->getCurrentSection(); ?>"
       onload="prettyPrint()"
       data-project="<?php echo $this->getProjectName();
-?>">
+?>"
+    class="<?php echo $this->onepageClass(); ?>">
 <div class="page-wrap">
 
 <!--    Navigation-->

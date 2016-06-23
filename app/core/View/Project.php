@@ -208,4 +208,17 @@ class Project
     {
         return $this->_helper->buildQuery(['section'=>'introduction']);
     }
+
+    /**
+     * Body class for onepage layout
+     *
+     * @return string
+     */
+    public function onepageClass()
+    {
+        if($this->_helper->isOnepage()){
+            return 'onepage';
+        }
+        return 'multiple';
+    }
 }
