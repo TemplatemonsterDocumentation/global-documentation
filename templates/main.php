@@ -22,7 +22,8 @@
     <html class="lt-ie9">
     <div style='clear: both; text-align:center; position: relative;'>
         <a href="http://windows.microsoft.com/en-US/internet-explorer/">
-            <img src="<?php echo $this->getPath( 'img/ie8-panel/warning_bar_0000_us.jpg' ); ?>" border="0" height="42"
+            <img src="<?php echo $this->getPath( 'img/ie8-panel/warning_bar_0000_us.jpg' ); ?>" border="0"
+                 height="42"
                  width="820"
                  alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
         </a>
@@ -123,6 +124,8 @@
 <script src="<?php echo $this->getPath( 'js/prettify.js' ); ?>"></script>
 <script src="<?php echo $this->getPath( 'js/jquery.fancybox.js' ); ?>"></script>
 <script src="<?php echo $this->getPath( 'js/jquery.ui.totop.js' ); ?>"></script>
+
+<?php $this->getGoogleTagManager(); ?>
 
 </body>
 </html>

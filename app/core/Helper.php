@@ -163,6 +163,9 @@ class Helper
         $pathChunks = explode('/', $_SERVER['SCRIPT_NAME']);
         $scriptDir = $pathChunks[1];
         $dir = '/' . $scriptDir;
+        if($dir == '/index.php'){
+            return null;
+        }
         return $dir;
     }
 

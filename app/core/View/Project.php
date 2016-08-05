@@ -6,6 +6,8 @@ class Project
     public $_params;
     public $_model;
 
+    const GTM_TEMPLATE = 'includes/gtm.php';
+
     public function __construct($params, \Core\Model\Project $model)
     {
         $this->_params = $params;
@@ -221,4 +223,12 @@ class Project
         }
         return 'multiple';
     }
+
+    public function getGoogleTagManager()
+    {
+        $domain = $_SERVER['HTTP_HOST'];
+        $path = PATH . '/' . TEMPLATES_DIRNAME . '/' . self::GTM_TEMPLATE;
+        include $path;
+    }
+
 }
